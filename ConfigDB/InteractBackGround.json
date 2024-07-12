@@ -5,7 +5,7 @@
     "Title": "Text_MakingDishes_Text",
     "TitleSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconCooking.SP_IconCooking",
     "ContentSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconCooking.SP_BlackIconCooking",
-    "CostItemList": null,
+    "CostItemList": [],
     "IsHelpButtonVisible": false,
     "HelpGroupId": 0
   },
@@ -15,7 +15,7 @@
     "Title": "NpcSystemBackground_1002_CaptionTitle",
     "TitleSpritePath": "/Game/Aki/UI/UIResources/UiCooking/Atlas/SP_CookingiconXiezhu.SP_CookingiconXiezhu",
     "ContentSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconCooking1.SP_BlackIconCooking1",
-    "CostItemList": null,
+    "CostItemList": [],
     "IsHelpButtonVisible": false,
     "HelpGroupId": 0
   },
@@ -25,7 +25,7 @@
     "Title": "NpcSystemBackground_1004_CaptionTitle",
     "TitleSpritePath": "/Game/Aki/UI/UIResources/UiCooking/Atlas/SP_CookingiconLevel1.SP_CookingiconLevel1",
     "ContentSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconCooking1.SP_BlackIconCooking1",
-    "CostItemList": null,
+    "CostItemList": [],
     "IsHelpButtonVisible": false,
     "HelpGroupId": 0
   },
@@ -47,7 +47,7 @@
     "Title": "NpcSystemBackground_1006_CaptionTitle",
     "TitleSpritePath": "/Game/Aki/UI/UIResources/UiCooking/Atlas/SP_CookingiconLevel2.SP_CookingiconLevel2",
     "ContentSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconCooking2.SP_BlackIconCooking2",
-    "CostItemList": null,
+    "CostItemList": [],
     "IsHelpButtonVisible": false,
     "HelpGroupId": 0
   },
@@ -57,7 +57,7 @@
     "Title": "NpcSystemBackground_1002_CaptionTitle",
     "TitleSpritePath": "/Game/Aki/UI/UIResources/UiCooking/Atlas/SP_CookingiconXiezhu.SP_CookingiconXiezhu",
     "ContentSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconCooking2.SP_BlackIconCooking2",
-    "CostItemList": null,
+    "CostItemList": [],
     "IsHelpButtonVisible": false,
     "HelpGroupId": 0
   },
@@ -177,6 +177,42 @@
     "ContentSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_BlackIconGift.SP_BlackIconGift",
     "CostItemList": [
       44010025
+    ],
+    "IsHelpButtonVisible": false,
+    "HelpGroupId": 0
+  },
+  {
+    "Id": 10114,
+    "ViewName": "ShopView10114",
+    "Title": "NpcSystemBackground_10114_Title",
+    "TitleSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconGift.SP_IconGift",
+    "ContentSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconGift.SP_IconGift",
+    "CostItemList": [
+      2
+    ],
+    "IsHelpButtonVisible": false,
+    "HelpGroupId": 0
+  },
+  {
+    "Id": 10115,
+    "ViewName": "ShopView10115",
+    "Title": "NpcSystemBackground_10115_Title",
+    "TitleSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconGift.SP_IconGift",
+    "ContentSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconGift.SP_IconGift",
+    "CostItemList": [
+      2
+    ],
+    "IsHelpButtonVisible": false,
+    "HelpGroupId": 0
+  },
+  {
+    "Id": 10116,
+    "ViewName": "ShopView10116",
+    "Title": "NpcSystemBackground_10116_Title",
+    "TitleSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconGift.SP_IconGift",
+    "ContentSpritePath": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconGift.SP_IconGift",
+    "CostItemList": [
+      2
     ],
     "IsHelpButtonVisible": false,
     "HelpGroupId": 0

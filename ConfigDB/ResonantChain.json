@@ -9,15 +9,10 @@
     "AttributesDescription": "ResonantChain_1_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1402901001
+      "1402901001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "15%",
       "8"
@@ -34,15 +29,10 @@
     "AttributesDescription": "ResonantChain_2_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1402902001
+      "1402902001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "10",
       "20"
@@ -59,15 +49,10 @@
     "AttributesDescription": "ResonantChain_3_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1402903001
+      "1402903001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "40%",
       "33%"
@@ -84,15 +69,10 @@
     "AttributesDescription": "ResonantChain_4_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1402904001
+      "1402904001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "95%"
     ],
@@ -108,15 +88,10 @@
     "AttributesDescription": "ResonantChain_5_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1402905001
+      "1402905001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "85%"
     ],
@@ -132,15 +107,10 @@
     "AttributesDescription": "ResonantChain_6_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1402906001
+      "1402906001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "20%",
       "20"
@@ -157,16 +127,11 @@
     "AttributesDescription": "ResonantChain_7_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1202951013
+      "1202951013"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001202,
-        "Value": 1
-      }
-    ],
-    "AttributesDescriptionParams": null,
+    "AddProp": [],
+    "ActivateConsume": {},
+    "AttributesDescriptionParams": [],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_MaxiaofangM1_UI.T_IconDevice_MaxiaofangM1_UI"
   },
   {
@@ -179,15 +144,10 @@
     "AttributesDescription": "ResonantChain_8_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1202951019
+      "1202951019"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001202,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "1",
       "5",
@@ -205,15 +165,10 @@
     "AttributesDescription": "ResonantChain_9_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1202951022
+      "1202951022"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001202,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "50%",
       "40%"
@@ -230,15 +185,10 @@
     "AttributesDescription": "ResonantChain_10_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1202951016
+      "1202951016"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001202,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "60"
     ],
@@ -254,15 +204,10 @@
     "AttributesDescription": "ResonantChain_11_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1202951025
+      "1202951025"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001202,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "30%"
     ],
@@ -278,15 +223,10 @@
     "AttributesDescription": "ResonantChain_12_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1202952001
+      "1202952001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001202,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "25%",
       "15"
@@ -303,15 +243,10 @@
     "AttributesDescription": "ResonantChain_13_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1503901001
+      "1503901001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001503,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "5",
       "20%",
@@ -329,15 +264,10 @@
     "AttributesDescription": "ResonantChain_14_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1503902001
+      "1503902001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001503,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "1",
       "10"
@@ -354,15 +284,10 @@
     "AttributesDescription": "ResonantChain_15_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1503903001
+      "1503903001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001503,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "12%"
     ],
@@ -378,15 +303,10 @@
     "AttributesDescription": "ResonantChain_16_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1503904001
+      "1503904001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001503,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "15%",
       "24"
@@ -403,15 +323,10 @@
     "AttributesDescription": "ResonantChain_17_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1503905001
+      "1503905001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001503,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "50%",
       "20%"
@@ -428,15 +343,10 @@
     "AttributesDescription": "ResonantChain_18_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1503906001
+      "1503906001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001503,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "20%",
       "1"
@@ -453,15 +363,10 @@
     "AttributesDescription": "ResonantChain_19_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1102901001
+      "1102901001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001102,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "15%",
       "10"
@@ -478,15 +383,10 @@
     "AttributesDescription": "ResonantChain_20_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1102902001
+      "1102902001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001102,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "10",
       "5"
@@ -503,15 +403,10 @@
     "AttributesDescription": "ResonantChain_21_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1102903001
+      "1102903001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001102,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "70%",
       "35%"
@@ -528,15 +423,10 @@
     "AttributesDescription": "ResonantChain_22_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1102904001
+      "1102904001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001102,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "10",
       "5",
@@ -554,15 +444,10 @@
     "AttributesDescription": "ResonantChain_23_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1102905001
+      "1102905001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001102,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "100%"
     ],
@@ -578,15 +463,10 @@
     "AttributesDescription": "ResonantChain_24_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1102906001
+      "1102906001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001102,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "10%",
       "20",
@@ -604,15 +484,10 @@
     "AttributesDescription": "ResonantChain_25_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1103901001
+      "1103901001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001103,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "1",
       "2.5"
@@ -629,15 +504,10 @@
     "AttributesDescription": "ResonantChain_26_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1103902001
+      "1103902001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001103,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "4",
       "15%",
@@ -656,15 +526,10 @@
     "AttributesDescription": "ResonantChain_27_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1103903001
+      "1103903001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001103,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "12%",
       "10"
@@ -681,15 +546,10 @@
     "AttributesDescription": "ResonantChain_28_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1103904001
+      "1103904001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001103,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "2",
       "20%",
@@ -707,15 +567,10 @@
     "AttributesDescription": "ResonantChain_29_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1103905001
+      "1103905001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001103,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "100%",
       "10"
@@ -732,15 +587,10 @@
     "AttributesDescription": "ResonantChain_30_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1103906001
+      "1103906001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001103,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "12%",
       "20"
@@ -757,15 +607,10 @@
     "AttributesDescription": "ResonantChain_31_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1502901001
+      "1502901001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001500,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "15%",
       "7"
@@ -782,15 +627,10 @@
     "AttributesDescription": "ResonantChain_32_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1502902001
+      "1502902001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001500,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "20%"
     ],
@@ -806,15 +646,10 @@
     "AttributesDescription": "ResonantChain_33_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1502903001
+      "1502903001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001500,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "20%"
     ],
@@ -830,15 +665,10 @@
     "AttributesDescription": "ResonantChain_34_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1502904001
+      "1502904001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001500,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "20%",
       "5"
@@ -855,15 +685,10 @@
     "AttributesDescription": "ResonantChain_35_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1502905001
+      "1502905001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001500,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "40%"
     ],
@@ -879,15 +704,10 @@
     "AttributesDescription": "ResonantChain_36_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1502906001
+      "1502906001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001500,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "10%",
       "20"
@@ -904,15 +724,10 @@
     "AttributesDescription": "ResonantChain_37_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1602310501
+      "1602310501"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001602,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "5%",
       "6",
@@ -931,15 +746,10 @@
     "AttributesDescription": "ResonantChain_38_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1602310301
+      "1602310301"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001602,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "20%"
     ],
@@ -955,15 +765,10 @@
     "AttributesDescription": "ResonantChain_39_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1602310403
+      "1602310403"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001602,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "30%"
     ],
@@ -979,15 +784,10 @@
     "AttributesDescription": "ResonantChain_40_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1602310504
+      "1602310504"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001602,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "60",
       "15%"
@@ -1004,15 +804,10 @@
     "AttributesDescription": "ResonantChain_41_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1602310604
+      "1602310604"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001602,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "15%",
       "60%",
@@ -1030,15 +825,10 @@
     "AttributesDescription": "ResonantChain_42_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1602310701
+      "1602310701"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001602,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "20%",
       "20"
@@ -1055,15 +845,10 @@
     "AttributesDescription": "ResonantChain_43_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1203901001
+      "1203901001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001203,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "3%",
       "4",
@@ -1081,15 +866,10 @@
     "AttributesDescription": "ResonantChain_44_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1203902001
+      "1203902001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001203,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "10",
       "10"
@@ -1106,15 +886,10 @@
     "AttributesDescription": "ResonantChain_45_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1203903001
+      "1203903001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001203,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "40%"
     ],
@@ -1130,15 +905,10 @@
     "AttributesDescription": "ResonantChain_46_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1203904001
+      "1203904001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001203,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "20%",
       "30"
@@ -1155,15 +925,10 @@
     "AttributesDescription": "ResonantChain_47_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1203905001
+      "1203905001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001203,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "35%"
     ],
@@ -1179,15 +944,10 @@
     "AttributesDescription": "ResonantChain_48_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1203906001
+      "1203906001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001203,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "1",
       "5%",
@@ -1206,15 +966,10 @@
     "AttributesDescription": "ResonantChain_49_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1601901001
+      "1601901001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001601,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "40%"
     ],
@@ -1230,15 +985,10 @@
     "AttributesDescription": "ResonantChain_50_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1601906001
+      "1601906001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001601,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "20%",
       "20%"
@@ -1255,15 +1005,10 @@
     "AttributesDescription": "ResonantChain_51_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1601902001
+      "1601902001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001601,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "30"
     ],
@@ -1279,15 +1024,10 @@
     "AttributesDescription": "ResonantChain_52_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1601903001
+      "1601903001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001601,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "25%",
       "50%",
@@ -1306,15 +1046,10 @@
     "AttributesDescription": "ResonantChain_53_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1601905001
+      "1601905001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001601,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "50%",
       "20"
@@ -1331,15 +1066,10 @@
     "AttributesDescription": "ResonantChain_54_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1601904001
+      "1601904001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001601,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "40%"
     ],
@@ -1355,15 +1085,10 @@
     "AttributesDescription": "ResonantChain_55_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1204010001
+      "1204010001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001204,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "2"
     ],
@@ -1379,15 +1104,10 @@
     "AttributesDescription": "ResonantChain_56_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1204020001
+      "1204020001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001204,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "10",
       "20"
@@ -1404,16 +1124,11 @@
     "AttributesDescription": "ResonantChain_57_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1204030001,
-      1204030002
+      "1204030001",
+      "1204030002"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001204,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "30%"
     ],
@@ -1429,15 +1144,10 @@
     "AttributesDescription": "ResonantChain_58_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1204040001
+      "1204040001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001204,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "7"
     ],
@@ -1453,16 +1163,11 @@
     "AttributesDescription": "ResonantChain_59_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1204050001,
-      1204050002
+      "1204050001",
+      "1204050002"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001204,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "4",
       "50%"
@@ -1479,15 +1184,10 @@
     "AttributesDescription": "ResonantChain_60_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1204060001
+      "1204060001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001204,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "20%",
       "20"
@@ -1504,15 +1204,10 @@
     "AttributesDescription": "ResonantChain_61_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1404901001
+      "1404901001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001404,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "1",
       "15"
@@ -1529,15 +1224,10 @@
     "AttributesDescription": "ResonantChain_62_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1404902001
+      "1404902001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001404,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "30",
       "28%",
@@ -1556,15 +1246,10 @@
     "AttributesDescription": "ResonantChain_63_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1404903001
+      "1404903001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001404,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "16%",
       "32%",
@@ -1582,15 +1267,10 @@
     "AttributesDescription": "ResonantChain_64_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1404904001
+      "1404904001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001404,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "25%",
       "30"
@@ -1607,15 +1287,10 @@
     "AttributesDescription": "ResonantChain_65_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1404905001
+      "1404905001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001404,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "120%",
       "3%",
@@ -1634,15 +1309,10 @@
     "AttributesDescription": "ResonantChain_66_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1404906001
+      "1404906001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001404,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "1",
       "2",
@@ -1660,15 +1330,10 @@
     "AttributesDescription": "ResonantChain_67_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1403902001
+      "1403902001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001403,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "4"
     ],
@@ -1684,15 +1349,10 @@
     "AttributesDescription": "ResonantChain_68_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1403901001
+      "1403901001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001403,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "100%",
       "15%"
@@ -1709,15 +1369,10 @@
     "AttributesDescription": "ResonantChain_69_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1403903001
+      "1403903001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001403,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "50%"
     ],
@@ -1733,15 +1388,10 @@
     "AttributesDescription": "ResonantChain_70_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1403904001
+      "1403904001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001403,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "30%",
       "30%"
@@ -1758,15 +1408,10 @@
     "AttributesDescription": "ResonantChain_71_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1403905001
+      "1403905001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001403,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "25%",
       "6"
@@ -1783,15 +1428,10 @@
     "AttributesDescription": "ResonantChain_72_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1403906001
+      "1403906001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001403,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "8%",
       "50%"
@@ -1808,15 +1448,10 @@
     "AttributesDescription": "ResonantChain_79_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1301600001
+      "1301600001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001301,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "10",
       "20"
@@ -1833,15 +1468,10 @@
     "AttributesDescription": "ResonantChain_80_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1301600003
+      "1301600003"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001301,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "30%",
       "15"
@@ -1858,15 +1488,10 @@
     "AttributesDescription": "ResonantChain_81_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1301600004
+      "1301600004"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001301,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "25%"
     ],
@@ -1882,15 +1507,10 @@
     "AttributesDescription": "ResonantChain_82_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1301600006
+      "1301600006"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001301,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "20%",
       "30"
@@ -1907,15 +1527,10 @@
     "AttributesDescription": "ResonantChain_83_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1301600008
+      "1301600008"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001301,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "50%"
     ],
@@ -1931,15 +1546,10 @@
     "AttributesDescription": "ResonantChain_84_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1301600010
+      "1301600010"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001301,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "2",
       "100.00%"
@@ -1956,15 +1566,10 @@
     "AttributesDescription": "ResonantChain_85_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1302901001
+      "1302901001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001302,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "70%"
     ],
@@ -1980,15 +1585,10 @@
     "AttributesDescription": "ResonantChain_86_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1302902001
+      "1302902001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001302,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "100%",
       "5",
@@ -2006,15 +1606,10 @@
     "AttributesDescription": "ResonantChain_87_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1302903001
+      "1302903001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001302,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "55%"
     ],
@@ -2030,15 +1625,10 @@
     "AttributesDescription": "ResonantChain_88_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1302904001
+      "1302904001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001302,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "20%",
       "12"
@@ -2055,15 +1645,10 @@
     "AttributesDescription": "ResonantChain_89_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1302905001
+      "1302905001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001302,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "100%"
     ],
@@ -2079,15 +1664,10 @@
     "AttributesDescription": "ResonantChain_90_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1302906001
+      "1302906001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001302,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "10"
     ],
@@ -2103,17 +1683,12 @@
     "AttributesDescription": "ResonantChain_91_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1303700001,
-      1303700002,
-      1303700003
+      "1303700001",
+      "1303700002",
+      "1303700003"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001303,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "20%",
       "20%"
@@ -2130,15 +1705,10 @@
     "AttributesDescription": "ResonantChain_92_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1303700702
+      "1303700702"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001303,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "15"
     ],
@@ -2154,15 +1724,10 @@
     "AttributesDescription": "ResonantChain_93_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1303700703
+      "1303700703"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001303,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "20%"
     ],
@@ -2178,15 +1743,10 @@
     "AttributesDescription": "ResonantChain_94_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1303700004
+      "1303700004"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001303,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "200%",
       "10"
@@ -2203,15 +1763,10 @@
     "AttributesDescription": "ResonantChain_95_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1303700005
+      "1303700005"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001303,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "50%"
     ],
@@ -2227,15 +1782,10 @@
     "AttributesDescription": "ResonantChain_96_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1303700006
+      "1303700006"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001303,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "32%",
       "3"
@@ -2252,16 +1802,11 @@
     "AttributesDescription": "ResonantChain_97_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1104001001
+      "1104001001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001104,
-        "Value": 1
-      }
-    ],
-    "AttributesDescriptionParams": null,
+    "AddProp": [],
+    "ActivateConsume": {},
+    "AttributesDescriptionParams": [],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_LingyangM1_UI.T_IconDevice_LingyangM1_UI"
   },
   {
@@ -2274,15 +1819,10 @@
     "AttributesDescription": "ResonantChain_98_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1104002001
+      "1104002001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001104,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "10",
       "20"
@@ -2299,16 +1839,11 @@
     "AttributesDescription": "ResonantChain_99_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1104003001,
-      1104003002
+      "1104003001",
+      "1104003002"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001104,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "20%",
       "10%"
@@ -2325,15 +1860,10 @@
     "AttributesDescription": "ResonantChain_100_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1104004001
+      "1104004001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001104,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "20%",
       "30"
@@ -2350,15 +1880,10 @@
     "AttributesDescription": "ResonantChain_101_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1104005001
+      "1104005001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001104,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "200%"
     ],
@@ -2374,15 +1899,10 @@
     "AttributesDescription": "ResonantChain_102_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1104006001
+      "1104006001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001104,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "3",
       "100%"
@@ -2399,15 +1919,10 @@
     "AttributesDescription": "ResonantChain_103_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1604004000
+      "1604004000"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001604,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "30%"
     ],
@@ -2423,16 +1938,11 @@
     "AttributesDescription": "ResonantChain_104_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1604005000
+      "1604005000"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001604,
-        "Value": 1
-      }
-    ],
-    "AttributesDescriptionParams": null,
+    "AddProp": [],
+    "ActivateConsume": {},
+    "AttributesDescriptionParams": [],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhujueDarkM2_UI.T_IconDevice_ZhujueDarkM2_UI"
   },
   {
@@ -2445,15 +1955,10 @@
     "AttributesDescription": "ResonantChain_105_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1604006000
+      "1604006000"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001604,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "10%"
     ],
@@ -2469,15 +1974,10 @@
     "AttributesDescription": "ResonantChain_106_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1604007000
+      "1604007000"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001604,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "10%",
       "20"
@@ -2494,15 +1994,10 @@
     "AttributesDescription": "ResonantChain_107_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1604008000
+      "1604008000"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001604,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "50%"
     ],
@@ -2518,15 +2013,10 @@
     "AttributesDescription": "ResonantChain_108_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1604009000
+      "1604009000"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001604,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "25%"
     ],
@@ -2542,15 +2032,10 @@
     "AttributesDescription": "ResonantChain_109_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1405010001
+      "1405010001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001405,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "100%",
       "10"
@@ -2567,15 +2052,10 @@
     "AttributesDescription": "ResonantChain_110_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1405020001
+      "1405020001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001405,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "1"
     ],
@@ -2591,15 +2071,10 @@
     "AttributesDescription": "ResonantChain_111_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1405030001
+      "1405030001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001405,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "2.5"
     ],
@@ -2615,15 +2090,10 @@
     "AttributesDescription": "ResonantChain_112_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1405040001
+      "1405040001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001405,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "80%",
       "14"
@@ -2640,15 +2110,10 @@
     "AttributesDescription": "ResonantChain_113_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1405050001
+      "1405050001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001405,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "33%"
     ],
@@ -2664,15 +2129,10 @@
     "AttributesDescription": "ResonantChain_114_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1405060001
+      "1405060001"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001405,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "5",
       "1",
@@ -2690,15 +2150,10 @@
     "AttributesDescription": "ResonantChain_115_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1304900100
+      "1304900100"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001304,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "4",
       "6",
@@ -2716,15 +2171,10 @@
     "AttributesDescription": "ResonantChain_116_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1304900200
+      "1304900200"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001304,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "4",
       "50",
@@ -2743,15 +2193,10 @@
     "AttributesDescription": "ResonantChain_117_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1304900300
+      "1304900300"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001304,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "25%",
       "2",
@@ -2769,15 +2214,10 @@
     "AttributesDescription": "ResonantChain_118_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1304900400
+      "1304900400"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001304,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "20%",
       "20"
@@ -2794,15 +2234,10 @@
     "AttributesDescription": "ResonantChain_119_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1304900500
+      "1304900500"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001304,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "120%"
     ],
@@ -2818,15 +2253,10 @@
     "AttributesDescription": "ResonantChain_120_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1304900600
+      "1304900600"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001304,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "45%",
       "45%"
@@ -2843,15 +2273,10 @@
     "AttributesDescription": "ResonantChain_121_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1205900110
+      "1205900110"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001205,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "10%"
     ],
@@ -2867,15 +2292,10 @@
     "AttributesDescription": "ResonantChain_122_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1205900210
+      "1205900210"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001205,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "25%",
       "8"
@@ -2892,15 +2312,10 @@
     "AttributesDescription": "ResonantChain_123_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1205900310
+      "1205900310"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001205,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "80%"
     ],
@@ -2916,15 +2331,10 @@
     "AttributesDescription": "ResonantChain_124_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1205900410
+      "1205900410"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001205,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "20%",
       "30"
@@ -2941,15 +2351,10 @@
     "AttributesDescription": "ResonantChain_125_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1205900510
+      "1205900510"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001205,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "50%",
       "50%"
@@ -2966,18 +2371,252 @@
     "AttributesDescription": "ResonantChain_126_AttributesDescription",
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": [
-      1205900610
+      "1205900610"
     ],
-    "AddProp": null,
-    "ActivateConsume": [
-      {
-        "Key": 10001205,
-        "Value": 1
-      }
-    ],
+    "AddProp": [],
+    "ActivateConsume": {},
     "AttributesDescriptionParams": [
       "40%"
     ],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ChangliM6_UI.T_IconDevice_ChangliM6_UI"
+  },
+  {
+    "Id": 127,
+    "GroupId": 1305,
+    "GroupIndex": 1,
+    "NodeType": 1,
+    "NodeIndex": "ResonantChain_484_NodeIndex",
+    "NodeName": "ResonantChain_127_NodeName",
+    "AttributesDescription": "ResonantChain_127_AttributesDescription",
+    "BgDescription": "PrefabTextItem_Empty_Text",
+    "BuffIds": [
+      "1305071001"
+    ],
+    "AddProp": [],
+    "ActivateConsume": {},
+    "AttributesDescriptionParams": [
+      "20%",
+      "18"
+    ],
+    "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_XiangliyaoM1_UI.T_IconDevice_XiangliyaoM1_UI"
+  },
+  {
+    "Id": 128,
+    "GroupId": 1305,
+    "GroupIndex": 2,
+    "NodeType": 1,
+    "NodeIndex": "ResonantChain_488_NodeIndex",
+    "NodeName": "ResonantChain_128_NodeName",
+    "AttributesDescription": "ResonantChain_128_AttributesDescription",
+    "BgDescription": "PrefabTextItem_Empty_Text",
+    "BuffIds": [
+      "1305072001"
+    ],
+    "AddProp": [],
+    "ActivateConsume": {},
+    "AttributesDescriptionParams": [
+      "30%",
+      "8"
+    ],
+    "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_XiangliyaoM2_UI.T_IconDevice_XiangliyaoM2_UI"
+  },
+  {
+    "Id": 129,
+    "GroupId": 1305,
+    "GroupIndex": 3,
+    "NodeType": 1,
+    "NodeIndex": "ResonantChain_492_NodeIndex",
+    "NodeName": "ResonantChain_129_NodeName",
+    "AttributesDescription": "ResonantChain_129_AttributesDescription",
+    "BgDescription": "PrefabTextItem_Empty_Text",
+    "BuffIds": [
+      "1305073001"
+    ],
+    "AddProp": [],
+    "ActivateConsume": {},
+    "AttributesDescriptionParams": [
+      "5",
+      "63%",
+      "24"
+    ],
+    "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_XiangliyaoM3_UI.T_IconDevice_XiangliyaoM3_UI"
+  },
+  {
+    "Id": 130,
+    "GroupId": 1305,
+    "GroupIndex": 4,
+    "NodeType": 1,
+    "NodeIndex": "ResonantChain_496_NodeIndex",
+    "NodeName": "ResonantChain_130_NodeName",
+    "AttributesDescription": "ResonantChain_130_AttributesDescription",
+    "BgDescription": "PrefabTextItem_Empty_Text",
+    "BuffIds": [
+      "1305074001"
+    ],
+    "AddProp": [],
+    "ActivateConsume": {},
+    "AttributesDescriptionParams": [
+      "25%",
+      "30"
+    ],
+    "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_XiangliyaoM4_UI.T_IconDevice_XiangliyaoM4_UI"
+  },
+  {
+    "Id": 131,
+    "GroupId": 1305,
+    "GroupIndex": 5,
+    "NodeType": 1,
+    "NodeIndex": "ResonantChain_500_NodeIndex",
+    "NodeName": "ResonantChain_131_NodeName",
+    "AttributesDescription": "ResonantChain_131_AttributesDescription",
+    "BgDescription": "PrefabTextItem_Empty_Text",
+    "BuffIds": [
+      "1305075001"
+    ],
+    "AddProp": [],
+    "ActivateConsume": {},
+    "AttributesDescriptionParams": [
+      "170%",
+      "100%"
+    ],
+    "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_XiangliyaoM5_UI.T_IconDevice_XiangliyaoM5_UI"
+  },
+  {
+    "Id": 132,
+    "GroupId": 1305,
+    "GroupIndex": 6,
+    "NodeType": 1,
+    "NodeIndex": "ResonantChain_504_NodeIndex",
+    "NodeName": "ResonantChain_132_NodeName",
+    "AttributesDescription": "ResonantChain_132_AttributesDescription",
+    "BgDescription": "PrefabTextItem_Empty_Text",
+    "BuffIds": [
+      "1305076001"
+    ],
+    "AddProp": [],
+    "ActivateConsume": {},
+    "AttributesDescriptionParams": [
+      "100%"
+    ],
+    "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_XiangliyaoM6_UI.T_IconDevice_XiangliyaoM6_UI"
+  },
+  {
+    "Id": 133,
+    "GroupId": 1105,
+    "GroupIndex": 1,
+    "NodeType": 1,
+    "NodeIndex": "ResonantChain_484_NodeIndex",
+    "NodeName": "ResonantChain_133_NodeName",
+    "AttributesDescription": "ResonantChain_133_AttributesDescription",
+    "BgDescription": "PrefabTextItem_Empty_Text",
+    "BuffIds": [
+      "1105009101"
+    ],
+    "AddProp": [],
+    "ActivateConsume": {},
+    "AttributesDescriptionParams": [
+      "6"
+    ],
+    "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhezhiM6_UI.T_IconDevice_ZhezhiM6_UI"
+  },
+  {
+    "Id": 134,
+    "GroupId": 1105,
+    "GroupIndex": 2,
+    "NodeType": 1,
+    "NodeIndex": "ResonantChain_488_NodeIndex",
+    "NodeName": "ResonantChain_134_NodeName",
+    "AttributesDescription": "ResonantChain_134_AttributesDescription",
+    "BgDescription": "PrefabTextItem_Empty_Text",
+    "BuffIds": [
+      "1105009201"
+    ],
+    "AddProp": [],
+    "ActivateConsume": {},
+    "AttributesDescriptionParams": [
+      "15",
+      "10%",
+      "25"
+    ],
+    "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhezhiM6_UI.T_IconDevice_ZhezhiM6_UI"
+  },
+  {
+    "Id": 135,
+    "GroupId": 1105,
+    "GroupIndex": 3,
+    "NodeType": 1,
+    "NodeIndex": "ResonantChain_492_NodeIndex",
+    "NodeName": "ResonantChain_135_NodeName",
+    "AttributesDescription": "ResonantChain_135_AttributesDescription",
+    "BgDescription": "PrefabTextItem_Empty_Text",
+    "BuffIds": [
+      "1105009301"
+    ],
+    "AddProp": [],
+    "ActivateConsume": {},
+    "AttributesDescriptionParams": [
+      "12%",
+      "3",
+      "25"
+    ],
+    "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhezhiM6_UI.T_IconDevice_ZhezhiM6_UI"
+  },
+  {
+    "Id": 136,
+    "GroupId": 1105,
+    "GroupIndex": 4,
+    "NodeType": 1,
+    "NodeIndex": "ResonantChain_496_NodeIndex",
+    "NodeName": "ResonantChain_136_NodeName",
+    "AttributesDescription": "ResonantChain_136_AttributesDescription",
+    "BgDescription": "PrefabTextItem_Empty_Text",
+    "BuffIds": [
+      "1105009401"
+    ],
+    "AddProp": [],
+    "ActivateConsume": {},
+    "AttributesDescriptionParams": [
+      "20%",
+      "30"
+    ],
+    "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhezhiM6_UI.T_IconDevice_ZhezhiM6_UI"
+  },
+  {
+    "Id": 137,
+    "GroupId": 1105,
+    "GroupIndex": 5,
+    "NodeType": 1,
+    "NodeIndex": "ResonantChain_500_NodeIndex",
+    "NodeName": "ResonantChain_137_NodeName",
+    "AttributesDescription": "ResonantChain_137_AttributesDescription",
+    "BgDescription": "PrefabTextItem_Empty_Text",
+    "BuffIds": [
+      "1105009501"
+    ],
+    "AddProp": [],
+    "ActivateConsume": {},
+    "AttributesDescriptionParams": [
+      "180%"
+    ],
+    "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhezhiM6_UI.T_IconDevice_ZhezhiM6_UI"
+  },
+  {
+    "Id": 138,
+    "GroupId": 1105,
+    "GroupIndex": 6,
+    "NodeType": 1,
+    "NodeIndex": "ResonantChain_504_NodeIndex",
+    "NodeName": "ResonantChain_138_NodeName",
+    "AttributesDescription": "ResonantChain_138_AttributesDescription",
+    "BgDescription": "PrefabTextItem_Empty_Text",
+    "BuffIds": [
+      "1105009601"
+    ],
+    "AddProp": [],
+    "ActivateConsume": {},
+    "AttributesDescriptionParams": [
+      "120%"
+    ],
+    "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhezhiM6_UI.T_IconDevice_ZhezhiM6_UI"
   }
 ]

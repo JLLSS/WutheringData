@@ -4,7 +4,7 @@
     "DungeonId": 301000,
     "Name": "InstanceDungeonEntrance_301000_Name",
     "GuideId": 3,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_DungeonEntrance",
     "TypeDescription1": 4,
     "Secondary": 4,
@@ -18,43 +18,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "ShowReward": 3017,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 3012
-      },
-      {
-        "Key": 2,
-        "Value": 3012
-      },
-      {
-        "Key": 3,
-        "Value": 3013
-      },
-      {
-        "Key": 4,
-        "Value": 3014
-      },
-      {
-        "Key": 5,
-        "Value": 3015
-      },
-      {
-        "Key": 6,
-        "Value": 3016
-      },
-      {
-        "Key": 7,
-        "Value": 3017
-      },
-      {
-        "Key": 8,
-        "Value": 3018
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 0,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 301010
   },
   {
@@ -62,7 +29,7 @@
     "DungeonId": 201000,
     "Name": "InstanceDungeonEntrance_201000_Name",
     "GuideId": 3,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_DungeonEntrance",
     "TypeDescription1": 4,
     "Secondary": 4,
@@ -76,43 +43,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "ShowReward": 3037,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 3032
-      },
-      {
-        "Key": 2,
-        "Value": 3032
-      },
-      {
-        "Key": 3,
-        "Value": 3033
-      },
-      {
-        "Key": 4,
-        "Value": 3034
-      },
-      {
-        "Key": 5,
-        "Value": 3035
-      },
-      {
-        "Key": 6,
-        "Value": 3036
-      },
-      {
-        "Key": 7,
-        "Value": 3037
-      },
-      {
-        "Key": 8,
-        "Value": 3038
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 0,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 201010
   },
   {
@@ -120,7 +54,7 @@
     "DungeonId": 302000,
     "Name": "InstanceDungeonEntrance_302000_Name",
     "GuideId": 3,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_DungeonEntrance",
     "TypeDescription1": 4,
     "Secondary": 4,
@@ -134,43 +68,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "ShowReward": 3047,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 3042
-      },
-      {
-        "Key": 2,
-        "Value": 3042
-      },
-      {
-        "Key": 3,
-        "Value": 3043
-      },
-      {
-        "Key": 4,
-        "Value": 3044
-      },
-      {
-        "Key": 5,
-        "Value": 3045
-      },
-      {
-        "Key": 6,
-        "Value": 3046
-      },
-      {
-        "Key": 7,
-        "Value": 3047
-      },
-      {
-        "Key": 8,
-        "Value": 3048
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 0,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 302010
   },
   {
@@ -178,7 +79,7 @@
     "DungeonId": 202000,
     "Name": "InstanceDungeonEntrance_202000_Name",
     "GuideId": 3,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_DungeonEntrance",
     "TypeDescription1": 4,
     "Secondary": 4,
@@ -192,43 +93,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "ShowReward": 3057,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 3052
-      },
-      {
-        "Key": 2,
-        "Value": 3052
-      },
-      {
-        "Key": 3,
-        "Value": 3053
-      },
-      {
-        "Key": 4,
-        "Value": 3054
-      },
-      {
-        "Key": 5,
-        "Value": 3055
-      },
-      {
-        "Key": 6,
-        "Value": 3056
-      },
-      {
-        "Key": 7,
-        "Value": 3057
-      },
-      {
-        "Key": 8,
-        "Value": 3058
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 0,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 202050
   },
   {
@@ -236,7 +104,7 @@
     "DungeonId": 2021,
     "Name": "InstanceDungeonEntrance_2021_Name",
     "GuideId": 3,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 7,
     "Secondary": 7,
@@ -250,43 +118,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1004_UI.T_IconMonsterHead_1004_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1004_UI.T_IconMonsterHead_1004_UI",
     "ShowReward": 10238,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 10231
-      },
-      {
-        "Key": 2,
-        "Value": 10232
-      },
-      {
-        "Key": 3,
-        "Value": 10233
-      },
-      {
-        "Key": 4,
-        "Value": 10234
-      },
-      {
-        "Key": 5,
-        "Value": 10235
-      },
-      {
-        "Key": 6,
-        "Value": 10236
-      },
-      {
-        "Key": 7,
-        "Value": 10237
-      },
-      {
-        "Key": 8,
-        "Value": 10238
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12005108,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 2023
   },
   {
@@ -294,7 +129,7 @@
     "DungeonId": 4041,
     "Name": "InstanceDungeon_4041_MapName",
     "GuideId": 3,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_InstanceDungeon_4041",
     "TypeDescription1": 19,
     "Secondary": 19,
@@ -308,43 +143,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_IconLevel_02.T_IconLevel_02",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_IconLevel_02.T_IconLevel_02",
     "ShowReward": 10011,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 10011
-      },
-      {
-        "Key": 2,
-        "Value": 10012
-      },
-      {
-        "Key": 3,
-        "Value": 10013
-      },
-      {
-        "Key": 4,
-        "Value": 10014
-      },
-      {
-        "Key": 5,
-        "Value": 10015
-      },
-      {
-        "Key": 6,
-        "Value": 10016
-      },
-      {
-        "Key": 7,
-        "Value": 10017
-      },
-      {
-        "Key": 8,
-        "Value": 10018
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 0,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 4041
   },
   {
@@ -352,7 +154,7 @@
     "DungeonId": 4041,
     "Name": "InstanceDungeon_4042_MapName",
     "GuideId": 3,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_InstanceDungeon_4042",
     "TypeDescription1": 19,
     "Secondary": 19,
@@ -366,43 +168,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_IconLevel_01.T_IconLevel_01",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_IconLevel_01.T_IconLevel_01",
     "ShowReward": 10021,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 10021
-      },
-      {
-        "Key": 2,
-        "Value": 10022
-      },
-      {
-        "Key": 3,
-        "Value": 10023
-      },
-      {
-        "Key": 4,
-        "Value": 10024
-      },
-      {
-        "Key": 5,
-        "Value": 10025
-      },
-      {
-        "Key": 6,
-        "Value": 10026
-      },
-      {
-        "Key": 7,
-        "Value": 10027
-      },
-      {
-        "Key": 8,
-        "Value": 10028
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 0,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 4042
   },
   {
@@ -410,7 +179,7 @@
     "DungeonId": 4041,
     "Name": "InstanceDungeon_4044_MapName",
     "GuideId": 3,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_InstanceDungeon_4044",
     "TypeDescription1": 19,
     "Secondary": 19,
@@ -424,43 +193,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_IconLevel_04.T_IconLevel_04",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_IconLevel_04.T_IconLevel_04",
     "ShowReward": 10031,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 10031
-      },
-      {
-        "Key": 2,
-        "Value": 10032
-      },
-      {
-        "Key": 3,
-        "Value": 10033
-      },
-      {
-        "Key": 4,
-        "Value": 10034
-      },
-      {
-        "Key": 5,
-        "Value": 10035
-      },
-      {
-        "Key": 6,
-        "Value": 10036
-      },
-      {
-        "Key": 7,
-        "Value": 10037
-      },
-      {
-        "Key": 8,
-        "Value": 10038
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 0,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 4043
   },
   {
@@ -468,7 +204,7 @@
     "DungeonId": 203000,
     "Name": "InstanceDungeonEntrance_203000_Name",
     "GuideId": 3,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_DungeonEntrance",
     "TypeDescription1": 4,
     "Secondary": 4,
@@ -482,43 +218,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "ShowReward": 3027,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 3022
-      },
-      {
-        "Key": 2,
-        "Value": 3022
-      },
-      {
-        "Key": 3,
-        "Value": 3023
-      },
-      {
-        "Key": 4,
-        "Value": 3024
-      },
-      {
-        "Key": 5,
-        "Value": 3025
-      },
-      {
-        "Key": 6,
-        "Value": 3026
-      },
-      {
-        "Key": 7,
-        "Value": 3027
-      },
-      {
-        "Key": 8,
-        "Value": 3028
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 0,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 203010
   },
   {
@@ -526,7 +229,7 @@
     "DungeonId": 89,
     "Name": "DungeonDetection_20010009_Name",
     "GuideId": 3,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 5,
     "Secondary": 5,
@@ -540,15 +243,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Image/T_IconDevelopment02.T_IconDevelopment02",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Image/T_IconDevelopment02.T_IconDevelopment02",
     "ShowReward": 3331,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 3331
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 0,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 20001
   },
   {
@@ -556,7 +254,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010502_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -570,15 +268,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_17_UI.T_IconRoleHead175_17_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_17_UI.T_IconRoleHead175_17_UI",
     "ShowReward": 100017,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100017
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008015,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5016
   },
   {
@@ -586,7 +279,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010503_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -600,15 +293,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_3_UI.T_IconRoleHead175_3_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_3_UI.T_IconRoleHead175_3_UI",
     "ShowReward": 100005,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100005
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008003,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5007
   },
   {
@@ -616,7 +304,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010504_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -630,15 +318,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_14_UI.T_IconRoleHead175_14_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_14_UI.T_IconRoleHead175_14_UI",
     "ShowReward": 100018,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100018
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008016,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5021
   },
   {
@@ -646,7 +329,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010505_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -660,15 +343,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_23_UI.T_IconRoleHead175_23_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_23_UI.T_IconRoleHead175_23_UI",
     "ShowReward": 100020,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100020
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008020,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5022
   },
   {
@@ -676,7 +354,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010506_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -690,15 +368,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_8_UI.T_IconRoleHead175_8_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_8_UI.T_IconRoleHead175_8_UI",
     "ShowReward": 100010,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100010
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008009,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5010
   },
   {
@@ -706,7 +379,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010507_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -720,15 +393,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_18_UI.T_IconRoleHead175_18_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_18_UI.T_IconRoleHead175_18_UI",
     "ShowReward": 100016,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100016
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008014,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5015
   },
   {
@@ -736,7 +404,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010508_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -750,15 +418,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_4_UI.T_IconRoleHead175_4_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_4_UI.T_IconRoleHead175_4_UI",
     "ShowReward": 100006,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100006
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008004,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5004
   },
   {
@@ -766,7 +429,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010509_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -780,15 +443,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_5_UI.T_IconRoleHead175_5_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_5_UI.T_IconRoleHead175_5_UI",
     "ShowReward": 100006,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100006
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008007,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5005
   },
   {
@@ -796,7 +454,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010510_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -810,15 +468,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_4_UI.T_IconRoleHead175_4_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_4_UI.T_IconRoleHead175_4_UI",
     "ShowReward": 100021,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100021
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008018,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5019
   },
   {
@@ -826,7 +479,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010511_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -840,15 +493,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_5_UI.T_IconRoleHead175_5_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_5_UI.T_IconRoleHead175_5_UI",
     "ShowReward": 100021,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100021
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008019,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5020
   },
   {
@@ -856,7 +504,7 @@
     "DungeonId": 4006,
     "Name": "DungeonDetection_20010522_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 62,
     "Secondary": 62,
@@ -870,15 +518,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Image/T_IconDevelopment01.T_IconDevelopment01",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Image/T_IconDevelopment01.T_IconDevelopment01",
     "ShowReward": 101001,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 101001
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 0,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 4006
   },
   {
@@ -886,7 +529,7 @@
     "DungeonId": 4006,
     "Name": "DungeonDetection_20010523_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 62,
     "Secondary": 62,
@@ -900,15 +543,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Image/T_IconDevelopment01.T_IconDevelopment01",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Image/T_IconDevelopment01.T_IconDevelopment01",
     "ShowReward": 101002,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 101002
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 0,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 4008
   },
   {
@@ -916,7 +554,7 @@
     "DungeonId": 2031,
     "Name": "InstanceDungeonEntrance_2031_Name",
     "GuideId": 3,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 7,
     "Secondary": 7,
@@ -930,43 +568,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_998_UI.T_IconMonsterHead_998_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_998_UI.T_IconMonsterHead_998_UI",
     "ShowReward": 10238,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 10241
-      },
-      {
-        "Key": 2,
-        "Value": 10242
-      },
-      {
-        "Key": 3,
-        "Value": 10243
-      },
-      {
-        "Key": 4,
-        "Value": 10244
-      },
-      {
-        "Key": 5,
-        "Value": 10245
-      },
-      {
-        "Key": 6,
-        "Value": 10246
-      },
-      {
-        "Key": 7,
-        "Value": 10247
-      },
-      {
-        "Key": 8,
-        "Value": 10248
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 2429120,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 2033
   },
   {
@@ -974,7 +579,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010501_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -988,15 +593,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_11_UI.T_IconRoleHead175_11_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_11_UI.T_IconRoleHead175_11_UI",
     "ShowReward": 100013,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100013
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008012,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5013
   },
   {
@@ -1004,7 +604,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010601_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -1018,15 +618,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_1_UI.T_IconRoleHead175_1_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_1_UI.T_IconRoleHead175_1_UI",
     "ShowReward": 100003,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100003
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008001,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5001
   },
   {
@@ -1034,7 +629,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010602_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -1048,15 +643,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_2_UI.T_IconRoleHead175_2_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_2_UI.T_IconRoleHead175_2_UI",
     "ShowReward": 100004,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100004
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008002,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5002
   },
   {
@@ -1064,7 +654,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010603_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -1078,15 +668,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_7_UI.T_IconRoleHead175_7_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_7_UI.T_IconRoleHead175_7_UI",
     "ShowReward": 100007,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100007
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008005,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5008
   },
   {
@@ -1094,7 +679,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010604_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -1108,15 +693,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_9_UI.T_IconRoleHead175_9_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_9_UI.T_IconRoleHead175_9_UI",
     "ShowReward": 100008,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100008
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008006,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5006
   },
   {
@@ -1124,7 +704,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010605_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -1138,15 +718,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_6_UI.T_IconRoleHead175_6_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_6_UI.T_IconRoleHead175_6_UI",
     "ShowReward": 100009,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100009
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008008,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5009
   },
   {
@@ -1154,7 +729,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010606_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -1168,15 +743,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_10_UI.T_IconRoleHead175_10_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_10_UI.T_IconRoleHead175_10_UI",
     "ShowReward": 100011,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100011
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008010,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5011
   },
   {
@@ -1184,7 +754,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010607_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -1198,15 +768,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_12_UI.T_IconRoleHead175_12_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_12_UI.T_IconRoleHead175_12_UI",
     "ShowReward": 100012,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100012
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008011,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5012
   },
   {
@@ -1214,7 +779,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010608_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -1228,15 +793,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_13_UI.T_IconRoleHead175_13_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_13_UI.T_IconRoleHead175_13_UI",
     "ShowReward": 100014,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100014
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008013,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5014
   },
   {
@@ -1244,7 +804,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010609_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -1258,15 +818,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_15_UI.T_IconRoleHead175_15_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_15_UI.T_IconRoleHead175_15_UI",
     "ShowReward": 100019,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100019
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008017,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5017
   },
   {
@@ -1274,7 +829,7 @@
     "DungeonId": 2041,
     "Name": "InstanceDungeonEntrance_2022_Name",
     "GuideId": 3,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 7,
     "Secondary": 7,
@@ -1288,43 +843,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_327_UI.T_IconMonsterHead_327_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_327_UI.T_IconMonsterHead_327_UI",
     "ShowReward": 10258,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 10251
-      },
-      {
-        "Key": 2,
-        "Value": 10252
-      },
-      {
-        "Key": 3,
-        "Value": 10253
-      },
-      {
-        "Key": 4,
-        "Value": 10254
-      },
-      {
-        "Key": 5,
-        "Value": 10255
-      },
-      {
-        "Key": 6,
-        "Value": 10256
-      },
-      {
-        "Key": 7,
-        "Value": 10257
-      },
-      {
-        "Key": 8,
-        "Value": 10258
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12005126,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 2043
   },
   {
@@ -1332,7 +854,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010499_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -1346,15 +868,10 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_15_UI.T_IconRoleHead175_15_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_24_UI.T_IconRoleHead175_24_UI",
     "ShowReward": 100022,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100022
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008021,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5023
   },
   {
@@ -1362,7 +879,7 @@
     "DungeonId": 5001,
     "Name": "DungeonDetection_20010498_Name",
     "GuideId": 2,
-    "LevelPlayList": null,
+    "LevelPlayList": [],
     "InstanceSubTypeDescription": "InpuBoxText_empty",
     "TypeDescription1": 6,
     "Secondary": 6,
@@ -1376,15 +893,60 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_15_UI.T_IconRoleHead175_15_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_26_UI.T_IconRoleHead175_26_UI",
     "ShowReward": 100023,
-    "ShowRewardMap": [
-      {
-        "Key": 1,
-        "Value": 100023
-      }
-    ],
+    "ShowRewardMap": {},
     "BeginTimeStamp": 0,
     "LockCon": 12008022,
-    "PhantomId": null,
+    "PhantomId": [],
     "SubDungeonId": 5024
+  },
+  {
+    "Id": 20010496,
+    "DungeonId": 5001,
+    "Name": "RoleInfo_1105_Name",
+    "GuideId": 2,
+    "LevelPlayList": [],
+    "InstanceSubTypeDescription": "InpuBoxText_empty",
+    "TypeDescription1": 6,
+    "Secondary": 6,
+    "MatType": 0,
+    "TypeDescription2": "",
+    "AttributesDescriptionLock": "DungeonDetection_20010025_AttributesDescriptionLock",
+    "AttributesDescriptionUnlock": "DungeonDetection_20010025_AttributesDescriptionUnlock",
+    "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_27_UI.T_IconRoleHead175_27_UI",
+    "Icon": "",
+    "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_27_UI.T_IconRoleHead175_27_UI",
+    "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_27_UI.T_IconRoleHead175_27_UI",
+    "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_27_UI.T_IconRoleHead175_27_UI",
+    "ShowReward": 100025,
+    "ShowRewardMap": {},
+    "BeginTimeStamp": 0,
+    "LockCon": 12008023,
+    "PhantomId": [],
+    "SubDungeonId": 5025
+  },
+  {
+    "Id": 20010497,
+    "DungeonId": 5001,
+    "Name": "RoleInfo_1305_Name",
+    "GuideId": 2,
+    "LevelPlayList": [],
+    "InstanceSubTypeDescription": "InpuBoxText_empty",
+    "TypeDescription1": 6,
+    "Secondary": 6,
+    "MatType": 0,
+    "TypeDescription2": "",
+    "AttributesDescriptionLock": "DungeonDetection_20010025_AttributesDescriptionLock",
+    "AttributesDescriptionUnlock": "DungeonDetection_20010025_AttributesDescriptionUnlock",
+    "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_25_UI.T_IconRoleHead175_25_UI",
+    "Icon": "",
+    "LockBigIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_25_UI.T_IconRoleHead175_25_UI",
+    "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_25_UI.T_IconRoleHead175_25_UI",
+    "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_25_UI.T_IconRoleHead175_25_UI",
+    "ShowReward": 100024,
+    "ShowRewardMap": {},
+    "BeginTimeStamp": 0,
+    "LockCon": 12008024,
+    "PhantomId": [],
+    "SubDungeonId": 5026
   }
 ]

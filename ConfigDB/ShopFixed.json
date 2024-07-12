@@ -6,13 +6,8 @@
     "ItemNum": 60,
     "CondId": 0,
     "LimitNum": -1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 10800,
-        "Value": 1
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -25,13 +20,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 60,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1500
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -44,13 +34,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 60,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1500
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -63,13 +48,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 60,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1500
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -82,13 +62,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 4500
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -101,13 +76,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -120,13 +90,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -139,13 +104,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 15,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -158,13 +118,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 15,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -177,13 +132,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 15,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -196,13 +146,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 15,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -215,13 +160,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 15,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -234,13 +174,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 5,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 50
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -253,13 +188,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 6
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -272,13 +202,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 6
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -291,13 +216,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 6
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -310,13 +230,8 @@
     "ItemNum": 10,
     "CondId": 0,
     "LimitNum": 25,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 20
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -329,13 +244,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 5
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -348,13 +258,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 10
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -367,13 +272,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 10,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1500
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -386,13 +286,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 10,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1500
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -405,13 +300,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 10,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1500
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -424,13 +314,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 10,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1500
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -443,13 +328,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 10,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1500
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -462,13 +342,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -481,13 +356,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -500,13 +370,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -519,13 +384,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -538,13 +398,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -557,13 +412,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -576,13 +426,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -595,13 +440,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -614,13 +454,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 5,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -633,13 +468,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 5,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -652,13 +482,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 5,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 6000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -671,13 +496,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 5,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 6000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -690,13 +510,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 5,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 6000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -709,13 +524,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 10000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -728,13 +538,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 10000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -747,13 +552,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 10000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -766,13 +566,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 15,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -785,13 +580,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 15,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -804,13 +594,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -823,13 +608,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -842,13 +622,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -861,13 +636,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -880,13 +650,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -899,13 +664,8 @@
     "ItemNum": 60,
     "CondId": 0,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 3,
-        "Value": 60
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -918,13 +678,8 @@
     "ItemNum": 60,
     "CondId": 501010,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 3,
-        "Value": 60
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -937,13 +692,8 @@
     "ItemNum": 60,
     "CondId": 501011,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 3,
-        "Value": 120
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -956,13 +706,8 @@
     "ItemNum": 60,
     "CondId": 501012,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 3,
-        "Value": 120
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -975,13 +720,8 @@
     "ItemNum": 60,
     "CondId": 501013,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 3,
-        "Value": 120
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -994,13 +734,8 @@
     "ItemNum": 60,
     "CondId": 501014,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 3,
-        "Value": 120
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1013,13 +748,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1032,13 +762,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1051,13 +776,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1070,13 +790,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1089,13 +804,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1108,13 +818,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 4500
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1127,13 +832,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 4500
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1146,13 +846,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 2400
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1165,13 +860,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 2400
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1184,13 +874,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 2400
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1203,13 +888,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 10
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1222,13 +902,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 10
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1241,13 +916,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 10
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1260,13 +930,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 15
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1279,13 +944,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 2
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1298,13 +958,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 2
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1317,13 +972,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 2
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1336,13 +986,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 2
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1355,13 +1000,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 2
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1374,13 +1014,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 2400
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1393,13 +1028,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 2400
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1412,13 +1042,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": -1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 20000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1431,13 +1056,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": -1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 20000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1450,13 +1070,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": -1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 20000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1469,13 +1084,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": -1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 20000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1488,13 +1098,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": -1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 20000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1507,13 +1112,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 3,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 4000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1526,13 +1126,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 3,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 4000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1545,13 +1140,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 5,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 6000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1564,13 +1154,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 5,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 6000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1583,13 +1168,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 5,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 6000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1602,13 +1182,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 42500020,
-        "Value": 80
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1621,13 +1196,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 42500020,
-        "Value": 2
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1640,13 +1210,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 42500020,
-        "Value": 5
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1659,13 +1224,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 10,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 42500020,
-        "Value": 10
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1678,13 +1238,8 @@
     "ItemNum": 2000,
     "CondId": 0,
     "LimitNum": 50,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 42500020,
-        "Value": 1
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1697,13 +1252,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 10,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 42500020,
-        "Value": 3
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1716,13 +1266,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 10,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 42500020,
-        "Value": 3
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1735,13 +1280,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 10,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 42500020,
-        "Value": 3
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1754,13 +1294,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 10,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 42500020,
-        "Value": 3
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1773,13 +1308,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 10,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 42500020,
-        "Value": 3
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1792,13 +1322,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1811,13 +1336,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1830,13 +1350,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 5,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1849,13 +1364,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 5,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1868,13 +1378,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 5,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 6000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1887,13 +1392,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 5,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 6000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1906,13 +1406,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 5,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 6000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1925,13 +1420,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1944,13 +1434,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 100,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1963,13 +1448,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -1982,13 +1462,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2001,13 +1476,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2020,13 +1490,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2039,13 +1504,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2058,13 +1518,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2077,13 +1532,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2096,13 +1546,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2115,13 +1560,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2134,13 +1574,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 15000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2153,13 +1588,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2172,13 +1602,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2191,13 +1616,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2210,13 +1630,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2229,13 +1644,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": -1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 40000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2248,13 +1658,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": -1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 40000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2267,13 +1672,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": -1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 40000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2286,13 +1686,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": -1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 40000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2305,13 +1700,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": -1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 40000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2324,13 +1714,8 @@
     "ItemNum": 8000,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 6
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2343,13 +1728,8 @@
     "ItemNum": 1000,
     "CondId": 0,
     "LimitNum": -1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 2
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2362,13 +1742,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 4
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2381,13 +1756,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 4
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2400,13 +1770,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 20,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 5
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2419,13 +1784,8 @@
     "ItemNum": 10,
     "CondId": 0,
     "LimitNum": 5,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 20
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2438,13 +1798,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 10
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2457,13 +1812,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 10
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2476,13 +1826,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 15
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2495,13 +1840,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 20
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2514,13 +1854,8 @@
     "ItemNum": 500,
     "CondId": 0,
     "LimitNum": -1,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 44010025,
-        "Value": 1
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2533,13 +1868,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 15,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2552,13 +1882,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 15,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2571,13 +1896,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 30,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 1000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2590,13 +1910,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 10,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 5000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2609,13 +1924,78 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 5,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 10000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
+    "Show": true,
+    "Label": "",
+    "SwitchText": "",
+    "PurchaseText": ""
+  },
+  {
+    "Id": 11401,
+    "ShopId": 114,
+    "ItemId": 80000036,
+    "ItemNum": 1,
+    "CondId": 0,
+    "LimitNum": 5,
+    "OriginalPrice": {},
+    "Price": {},
+    "Show": true,
+    "Label": "",
+    "SwitchText": "",
+    "PurchaseText": ""
+  },
+  {
+    "Id": 11402,
+    "ShopId": 114,
+    "ItemId": 80000037,
+    "ItemNum": 1,
+    "CondId": 0,
+    "LimitNum": 5,
+    "OriginalPrice": {},
+    "Price": {},
+    "Show": true,
+    "Label": "",
+    "SwitchText": "",
+    "PurchaseText": ""
+  },
+  {
+    "Id": 11501,
+    "ShopId": 115,
+    "ItemId": 70140025,
+    "ItemNum": 1,
+    "CondId": 0,
+    "LimitNum": 100,
+    "OriginalPrice": {},
+    "Price": {},
+    "Show": true,
+    "Label": "",
+    "SwitchText": "",
+    "PurchaseText": ""
+  },
+  {
+    "Id": 11601,
+    "ShopId": 116,
+    "ItemId": 70140022,
+    "ItemNum": 1,
+    "CondId": 0,
+    "LimitNum": 1,
+    "OriginalPrice": {},
+    "Price": {},
+    "Show": true,
+    "Label": "",
+    "SwitchText": "",
+    "PurchaseText": ""
+  },
+  {
+    "Id": 17,
+    "ShopId": 7,
+    "ItemId": 5,
+    "ItemNum": 1,
+    "CondId": 0,
+    "LimitNum": -1,
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2628,13 +2008,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 6,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 3000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2647,13 +2022,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 3,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 4500
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2666,13 +2036,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 3,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 4500
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2685,13 +2050,8 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 2,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 9000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",
@@ -2704,13 +2064,106 @@
     "ItemNum": 1,
     "CondId": 0,
     "LimitNum": 2,
-    "OriginalPrice": null,
-    "Price": [
-      {
-        "Key": 2,
-        "Value": 9000
-      }
-    ],
+    "OriginalPrice": {},
+    "Price": {},
+    "Show": true,
+    "Label": "",
+    "SwitchText": "",
+    "PurchaseText": ""
+  },
+  {
+    "Id": 11403,
+    "ShopId": 114,
+    "ItemId": 80000038,
+    "ItemNum": 1,
+    "CondId": 0,
+    "LimitNum": 5,
+    "OriginalPrice": {},
+    "Price": {},
+    "Show": true,
+    "Label": "",
+    "SwitchText": "",
+    "PurchaseText": ""
+  },
+  {
+    "Id": 11404,
+    "ShopId": 114,
+    "ItemId": 80001001,
+    "ItemNum": 1,
+    "CondId": 0,
+    "LimitNum": 5,
+    "OriginalPrice": {},
+    "Price": {},
+    "Show": true,
+    "Label": "",
+    "SwitchText": "",
+    "PurchaseText": ""
+  },
+  {
+    "Id": 11405,
+    "ShopId": 114,
+    "ItemId": 80001035,
+    "ItemNum": 1,
+    "CondId": 0,
+    "LimitNum": 5,
+    "OriginalPrice": {},
+    "Price": {},
+    "Show": true,
+    "Label": "",
+    "SwitchText": "",
+    "PurchaseText": ""
+  },
+  {
+    "Id": 11406,
+    "ShopId": 114,
+    "ItemId": 80010036,
+    "ItemNum": 1,
+    "CondId": 0,
+    "LimitNum": 1,
+    "OriginalPrice": {},
+    "Price": {},
+    "Show": true,
+    "Label": "",
+    "SwitchText": "",
+    "PurchaseText": ""
+  },
+  {
+    "Id": 11407,
+    "ShopId": 114,
+    "ItemId": 80010035,
+    "ItemNum": 1,
+    "CondId": 0,
+    "LimitNum": 1,
+    "OriginalPrice": {},
+    "Price": {},
+    "Show": true,
+    "Label": "",
+    "SwitchText": "",
+    "PurchaseText": ""
+  },
+  {
+    "Id": 10330,
+    "ShopId": 103,
+    "ItemId": 42300100,
+    "ItemNum": 1,
+    "CondId": 0,
+    "LimitNum": 15,
+    "OriginalPrice": {},
+    "Price": {},
+    "Show": true,
+    "Label": "",
+    "SwitchText": "",
+    "PurchaseText": ""
+  },
+  {
+    "Id": 11408,
+    "ShopId": 114,
+    "ItemId": 14,
+    "ItemNum": 50,
+    "CondId": 0,
+    "LimitNum": 10,
+    "OriginalPrice": {},
+    "Price": {},
     "Show": true,
     "Label": "",
     "SwitchText": "",

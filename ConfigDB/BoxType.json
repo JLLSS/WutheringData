@@ -10,7 +10,7 @@
       2
     ],
     "DeathState": 4,
-    "OpenTime": 1.0
+    "OpenTime": 1
   },
   {
     "Id": 2,
@@ -24,7 +24,7 @@
       5
     ],
     "DeathState": 4,
-    "OpenTime": 1.0
+    "OpenTime": 1
   },
   {
     "Id": 3,
@@ -37,6 +37,6 @@
       2
     ],
     "DeathState": 4,
-    "OpenTime": 1.0
+    "OpenTime": 1
   }
 ]

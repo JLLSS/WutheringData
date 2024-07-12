@@ -37990,5 +37990,83 @@
     "ExternalSourceSetting": "subtitle_normal",
     "FileName": "vo_NPC_MSJ_28_1",
     "IsCheckSex": false
+  },
+  {
+    "Id": "NPC_JSJD_10_1",
+    "ExternalSourceSetting": "subtitle_normal",
+    "FileName": "vo_NPC_JSJD_10_1",
+    "IsCheckSex": false
+  },
+  {
+    "Id": "NPC_JSJD_10_2",
+    "ExternalSourceSetting": "subtitle_normal",
+    "FileName": "vo_NPC_JSJD_10_2",
+    "IsCheckSex": false
+  },
+  {
+    "Id": "NPC_JSJD_15_3",
+    "ExternalSourceSetting": "subtitle_normal",
+    "FileName": "vo_NPC_JSJD_10_3",
+    "IsCheckSex": false
+  },
+  {
+    "Id": "NPC_JSJD_15_5",
+    "ExternalSourceSetting": "subtitle_normal",
+    "FileName": "vo_NPC_JSJD_10_5",
+    "IsCheckSex": false
+  },
+  {
+    "Id": "NPC_JSJD_15_6",
+    "ExternalSourceSetting": "subtitle_normal",
+    "FileName": "vo_NPC_JSJD_10_6",
+    "IsCheckSex": false
+  },
+  {
+    "Id": "NPC_JSJD_15_7",
+    "ExternalSourceSetting": "subtitle_normal",
+    "FileName": "vo_NPC_JSJD_10_7",
+    "IsCheckSex": false
+  },
+  {
+    "Id": "NPC_JSJD_15_10",
+    "ExternalSourceSetting": "subtitle_normal",
+    "FileName": "vo_NPC_JSJD_10_10",
+    "IsCheckSex": false
+  },
+  {
+    "Id": "NPC_JSJD_15_11",
+    "ExternalSourceSetting": "subtitle_normal",
+    "FileName": "vo_NPC_JSJD_10_11",
+    "IsCheckSex": false
+  },
+  {
+    "Id": "NPC_JSJD_15_12",
+    "ExternalSourceSetting": "subtitle_normal",
+    "FileName": "vo_NPC_JSJD_10_12",
+    "IsCheckSex": false
+  },
+  {
+    "Id": "NPC_JSJD_15_13",
+    "ExternalSourceSetting": "subtitle_normal",
+    "FileName": "vo_NPC_JSJD_10_13",
+    "IsCheckSex": false
+  },
+  {
+    "Id": "NPC_JSJD_15_14",
+    "ExternalSourceSetting": "subtitle_normal",
+    "FileName": "vo_NPC_JSJD_10_14",
+    "IsCheckSex": false
+  },
+  {
+    "Id": "NPC_JSJD_15_15",
+    "ExternalSourceSetting": "subtitle_normal",
+    "FileName": "vo_NPC_JSJD_10_15",
+    "IsCheckSex": false
+  },
+  {
+    "Id": "NPC_JSJD_15_16",
+    "ExternalSourceSetting": "subtitle_normal",
+    "FileName": "vo_NPC_JSJD_10_16",
+    "IsCheckSex": false
   }
 ]

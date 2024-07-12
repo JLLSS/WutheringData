@@ -11,7 +11,7 @@
     "OnlyBattle": true,
     "Tickable": false,
     "UiPath": "",
-    "OffsetY": 0.0
+    "OffsetY": 0
   },
   {
     "TypeId": 1,
@@ -25,7 +25,7 @@
     "OnlyBattle": true,
     "Tickable": false,
     "UiPath": "",
-    "OffsetY": 0.0
+    "OffsetY": 0
   },
   {
     "TypeId": 2,
@@ -39,7 +39,7 @@
     "OnlyBattle": true,
     "Tickable": false,
     "UiPath": "",
-    "OffsetY": 0.0
+    "OffsetY": 0
   },
   {
     "TypeId": 3,
@@ -53,7 +53,7 @@
     "OnlyBattle": true,
     "Tickable": false,
     "UiPath": "",
-    "OffsetY": 0.0
+    "OffsetY": 0
   },
   {
     "TypeId": 4,
@@ -67,7 +67,7 @@
     "OnlyBattle": true,
     "Tickable": false,
     "UiPath": "",
-    "OffsetY": 0.0
+    "OffsetY": 0
   },
   {
     "TypeId": 5,
@@ -81,7 +81,7 @@
     "OnlyBattle": true,
     "Tickable": false,
     "UiPath": "",
-    "OffsetY": 0.0
+    "OffsetY": 0
   },
   {
     "TypeId": 6,
@@ -95,7 +95,7 @@
     "OnlyBattle": true,
     "Tickable": false,
     "UiPath": "",
-    "OffsetY": 0.0
+    "OffsetY": 0
   },
   {
     "TypeId": 7,
@@ -109,7 +109,7 @@
     "OnlyBattle": true,
     "Tickable": false,
     "UiPath": "",
-    "OffsetY": 0.0
+    "OffsetY": 0
   },
   {
     "TypeId": 8,
@@ -123,7 +123,7 @@
     "OnlyBattle": true,
     "Tickable": true,
     "UiPath": "",
-    "OffsetY": 0.0
+    "OffsetY": 0
   },
   {
     "TypeId": 9,
@@ -137,7 +137,7 @@
     "OnlyBattle": false,
     "Tickable": false,
     "UiPath": "",
-    "OffsetY": 0.0
+    "OffsetY": 0
   },
   {
     "TypeId": 10,
@@ -151,7 +151,7 @@
     "OnlyBattle": true,
     "Tickable": false,
     "UiPath": "/Game/Aki/UI/UIResources/UiHint/Prefabs/UiItem_zhanjie1_Prefab.UiItem_zhanjie1_Prefab",
-    "OffsetY": 0.0
+    "OffsetY": 0
   },
   {
     "TypeId": 11,
@@ -165,7 +165,7 @@
     "OnlyBattle": true,
     "Tickable": false,
     "UiPath": "/Game/Aki/UI/UIResources/UiHint/Prefabs/UiView_HintEnd.UiView_HintEnd",
-    "OffsetY": 0.0
+    "OffsetY": 0
   },
   {
     "TypeId": 13,
@@ -179,7 +179,7 @@
     "OnlyBattle": true,
     "Tickable": false,
     "UiPath": "/Game/Aki/UI/UIResources/UiHint/Prefabs/UiView_PrepareCountdownFloatTips_Prefab.UiView_PrepareCountdownFloatTips_Prefab",
-    "OffsetY": 0.0
+    "OffsetY": 0
   },
   {
     "TypeId": 12,
@@ -193,7 +193,7 @@
     "OnlyBattle": true,
     "Tickable": false,
     "UiPath": "/Game/Aki/UI/UIResources/UiHint/Prefabs/UiView_Dailytasks_Prefab.UiView_Dailytasks_Prefab",
-    "OffsetY": 0.0
+    "OffsetY": 0
   },
   {
     "TypeId": 14,
@@ -207,7 +207,7 @@
     "OnlyBattle": false,
     "Tickable": false,
     "UiPath": "/Game/Aki/UI/UIResources/UiHint/Prefabs/UiView_ComTxtTipA.UiView_ComTxtTipA",
-    "OffsetY": 0.0
+    "OffsetY": 0
   },
   {
     "TypeId": 15,
@@ -221,7 +221,7 @@
     "OnlyBattle": true,
     "Tickable": false,
     "UiPath": "/Game/Aki/UI/UIResources/UiTips/Prefabs/UiView_RogueTip.UiView_RogueTip",
-    "OffsetY": 0.0
+    "OffsetY": 0
   },
   {
     "TypeId": 16,
@@ -235,7 +235,7 @@
     "OnlyBattle": true,
     "Tickable": false,
     "UiPath": "/Game/Aki/UI/UIResources/UiHint/Prefabs/UiItem_zhanjie1_Prefab.UiItem_zhanjie1_Prefab",
-    "OffsetY": 0.0
+    "OffsetY": 0
   },
   {
     "TypeId": 17,
@@ -249,7 +249,7 @@
     "OnlyBattle": true,
     "Tickable": false,
     "UiPath": "/Game/Aki/UI/UIResources/UiHint/Prefabs/UiView_HintEnd.UiView_HintEnd",
-    "OffsetY": 0.0
+    "OffsetY": 0
   },
   {
     "TypeId": 18,
@@ -263,6 +263,34 @@
     "OnlyBattle": true,
     "Tickable": false,
     "UiPath": "",
-    "OffsetY": 0.0
+    "OffsetY": 0
+  },
+  {
+    "TypeId": 19,
+    "GeneralText": "",
+    "GeneralExtraText": "",
+    "TextColor": "",
+    "Duration": 3,
+    "Priority": 0,
+    "ShowArea": "CenterArea",
+    "MaxCount": 1,
+    "OnlyBattle": true,
+    "Tickable": false,
+    "UiPath": "",
+    "OffsetY": 0
+  },
+  {
+    "TypeId": 20,
+    "GeneralText": "",
+    "GeneralExtraText": "2058558763",
+    "TextColor": "",
+    "Duration": 3,
+    "Priority": 0,
+    "ShowArea": "CenterArea",
+    "MaxCount": 1,
+    "OnlyBattle": true,
+    "Tickable": false,
+    "UiPath": "",
+    "OffsetY": 0
   }
 ]

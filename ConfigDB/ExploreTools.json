@@ -13,8 +13,9 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": null,
-    "Authorization": null
+    "Cost": {},
+    "Authorization": {},
+    "SummonConfigId": 0
   },
   {
     "PhantomSkillId": 1001,
@@ -30,8 +31,9 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": null,
-    "Authorization": null
+    "Cost": {},
+    "Authorization": {},
+    "SummonConfigId": 0
   },
   {
     "PhantomSkillId": 1003,
@@ -47,8 +49,9 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": null,
-    "Authorization": null
+    "Cost": {},
+    "Authorization": {},
+    "SummonConfigId": 0
   },
   {
     "PhantomSkillId": 1005,
@@ -64,8 +67,9 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": null,
-    "Authorization": null
+    "Cost": {},
+    "Authorization": {},
+    "SummonConfigId": 0
   },
   {
     "PhantomSkillId": 1006,
@@ -81,8 +85,9 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": null,
-    "Authorization": null
+    "Cost": {},
+    "Authorization": {},
+    "SummonConfigId": 0
   },
   {
     "PhantomSkillId": 1007,
@@ -98,8 +103,9 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": null,
-    "Authorization": null
+    "Cost": {},
+    "Authorization": {},
+    "SummonConfigId": 0
   },
   {
     "PhantomSkillId": 1009,
@@ -115,8 +121,9 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": true,
-    "Cost": null,
-    "Authorization": null
+    "Cost": {},
+    "Authorization": {},
+    "SummonConfigId": 0
   },
   {
     "PhantomSkillId": 3001,
@@ -132,8 +139,9 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": null,
-    "Authorization": null
+    "Cost": {},
+    "Authorization": {},
+    "SummonConfigId": 0
   },
   {
     "PhantomSkillId": 3002,
@@ -149,8 +157,9 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": null,
-    "Authorization": null
+    "Cost": {},
+    "Authorization": {},
+    "SummonConfigId": 0
   },
   {
     "PhantomSkillId": 1010,
@@ -166,13 +175,9 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": [
-      {
-        "Key": 10808,
-        "Value": 1
-      }
-    ],
-    "Authorization": null
+    "Cost": {},
+    "Authorization": {},
+    "SummonConfigId": 0
   },
   {
     "PhantomSkillId": 1011,
@@ -188,18 +193,9 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": [
-      {
-        "Key": 10807,
-        "Value": 1
-      }
-    ],
-    "Authorization": [
-      {
-        "Key": 1,
-        "Value": 10805
-      }
-    ]
+    "Cost": {},
+    "Authorization": {},
+    "SummonConfigId": 0
   },
   {
     "PhantomSkillId": 1012,
@@ -215,12 +211,26 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": null,
-    "Authorization": [
-      {
-        "Key": 1,
-        "Value": 10806
-      }
-    ]
+    "Cost": {},
+    "Authorization": {},
+    "SummonConfigId": 0
+  },
+  {
+    "PhantomSkillId": 1013,
+    "Name": "ExploreTools_1013_Name",
+    "SkillType": 1,
+    "CurrentSkillInfo": "ExploreTools_1013_CurrentSkillInfo",
+    "HelpId": 0,
+    "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT34.SP_IconT34",
+    "BackGround": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT34.SP_IconT34",
+    "BattleViewIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT34.SP_IconT34",
+    "SortId": 14,
+    "AutoFill": true,
+    "ShowUnlock": false,
+    "SkillGroupId": 1,
+    "IsUseInPhantomTeam": false,
+    "Cost": {},
+    "Authorization": {},
+    "SummonConfigId": 24000022
   }
 ]

@@ -326,5 +326,29 @@
     "OnlyShowInMain": true,
     "RootItemIndex": 0,
     "IsWaitNormal": true
+  },
+  {
+    "ViewName": "MultiReviveView",
+    "Area": "Revive",
+    "Priority": 0,
+    "OnlyShowInMain": true,
+    "RootItemIndex": 2,
+    "IsWaitNormal": true
+  },
+  {
+    "ViewName": "ActivityUnlockTipMoonChasingView",
+    "Area": "Top",
+    "Priority": 20,
+    "OnlyShowInMain": true,
+    "RootItemIndex": 0,
+    "IsWaitNormal": true
+  },
+  {
+    "ViewName": "TowerDefenceReviveView",
+    "Area": "Revive",
+    "Priority": 0,
+    "OnlyShowInMain": true,
+    "RootItemIndex": 2,
+    "IsWaitNormal": true
   }
 ]

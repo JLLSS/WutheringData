@@ -2,23 +2,13 @@
   {
     "Id": 1,
     "MaxCount": 3,
-    "Cost": [
-      {
-        "Key": 5,
-        "Value": 60
-      }
-    ],
+    "Cost": {},
     "ResetTimeId": 2
   },
   {
     "Id": 2,
     "MaxCount": 1,
-    "Cost": [
-      {
-        "Key": 5,
-        "Value": 10
-      }
-    ],
+    "Cost": {},
     "ResetTimeId": 3
   }
 ]

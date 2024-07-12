@@ -1,16 +1,7 @@
 [
   {
     "Id": 1,
-    "FetterMap": [
-      {
-        "Key": 2,
-        "Value": 1
-      },
-      {
-        "Key": 5,
-        "Value": 2
-      }
-    ],
+    "FetterMap": {},
     "FetterGroupName": "PhantomFetter_1_Name",
     "FetterGroupDesc": "PrefabTextItem_Empty_Text",
     "FetterElementColor": "41AEFBFF",
@@ -18,16 +9,7 @@
   },
   {
     "Id": 2,
-    "FetterMap": [
-      {
-        "Key": 2,
-        "Value": 3
-      },
-      {
-        "Key": 5,
-        "Value": 4
-      }
-    ],
+    "FetterMap": {},
     "FetterGroupName": "PhantomFetter_2_Name",
     "FetterGroupDesc": "PrefabTextItem_Empty_Text",
     "FetterElementColor": "F0744EFF",
@@ -35,16 +17,7 @@
   },
   {
     "Id": 3,
-    "FetterMap": [
-      {
-        "Key": 2,
-        "Value": 5
-      },
-      {
-        "Key": 5,
-        "Value": 6
-      }
-    ],
+    "FetterMap": {},
     "FetterGroupName": "PhantomFetter_3_Name",
     "FetterGroupDesc": "PrefabTextItem_Empty_Text",
     "FetterElementColor": "B46BFFFF",
@@ -52,16 +25,7 @@
   },
   {
     "Id": 4,
-    "FetterMap": [
-      {
-        "Key": 2,
-        "Value": 7
-      },
-      {
-        "Key": 5,
-        "Value": 8
-      }
-    ],
+    "FetterMap": {},
     "FetterGroupName": "PhantomFetter_4_Name",
     "FetterGroupDesc": "PrefabTextItem_Empty_Text",
     "FetterElementColor": "55FFB5FF",
@@ -69,16 +33,7 @@
   },
   {
     "Id": 5,
-    "FetterMap": [
-      {
-        "Key": 2,
-        "Value": 9
-      },
-      {
-        "Key": 5,
-        "Value": 10
-      }
-    ],
+    "FetterMap": {},
     "FetterGroupName": "PhantomFetter_5_Name",
     "FetterGroupDesc": "PrefabTextItem_Empty_Text",
     "FetterElementColor": "F8E56CFF",
@@ -86,16 +41,7 @@
   },
   {
     "Id": 6,
-    "FetterMap": [
-      {
-        "Key": 2,
-        "Value": 11
-      },
-      {
-        "Key": 5,
-        "Value": 12
-      }
-    ],
+    "FetterMap": {},
     "FetterGroupName": "PhantomFetter_6_Name",
     "FetterGroupDesc": "PrefabTextItem_Empty_Text",
     "FetterElementColor": "C98BB3FF",
@@ -103,16 +49,7 @@
   },
   {
     "Id": 7,
-    "FetterMap": [
-      {
-        "Key": 2,
-        "Value": 13
-      },
-      {
-        "Key": 5,
-        "Value": 14
-      }
-    ],
+    "FetterMap": {},
     "FetterGroupName": "PhantomFetter_7_Name",
     "FetterGroupDesc": "PrefabTextItem_Empty_Text",
     "FetterElementColor": "9BDB2DFF",
@@ -120,16 +57,7 @@
   },
   {
     "Id": 8,
-    "FetterMap": [
-      {
-        "Key": 2,
-        "Value": 15
-      },
-      {
-        "Key": 5,
-        "Value": 16
-      }
-    ],
+    "FetterMap": {},
     "FetterGroupName": "PhantomFetter_8_Name",
     "FetterGroupDesc": "PrefabTextItem_Empty_Text",
     "FetterElementColor": "FFFFFFFF",
@@ -137,16 +65,7 @@
   },
   {
     "Id": 9,
-    "FetterMap": [
-      {
-        "Key": 2,
-        "Value": 17
-      },
-      {
-        "Key": 5,
-        "Value": 18
-      }
-    ],
+    "FetterMap": {},
     "FetterGroupName": "PhantomFetter_9_Name",
     "FetterGroupDesc": "PrefabTextItem_Empty_Text",
     "FetterElementColor": "C72C25FF",

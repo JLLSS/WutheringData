@@ -5,7 +5,7 @@
     "Name": "程序专用",
     "Effect": "",
     "IsInteraction": false,
-    "Interval": 0.0,
+    "Interval": 0,
     "NextState": 0
   },
   {
@@ -14,7 +14,7 @@
     "Name": "程序专用",
     "Effect": "",
     "IsInteraction": false,
-    "Interval": 0.0,
+    "Interval": 0,
     "NextState": 0
   },
   {
@@ -23,7 +23,7 @@
     "Name": "程序专用",
     "Effect": "",
     "IsInteraction": false,
-    "Interval": 0.0,
+    "Interval": 0,
     "NextState": 0
   },
   {
@@ -32,7 +32,7 @@
     "Name": "程序专用",
     "Effect": "",
     "IsInteraction": false,
-    "Interval": 0.0,
+    "Interval": 0,
     "NextState": 0
   },
   {
@@ -50,7 +50,7 @@
     "Name": "普通loop",
     "Effect": "",
     "IsInteraction": true,
-    "Interval": 0.0,
+    "Interval": 0,
     "NextState": 3
   },
   {
@@ -59,7 +59,7 @@
     "Name": "宝箱打开death",
     "Effect": "",
     "IsInteraction": false,
-    "Interval": 5.0,
+    "Interval": 5,
     "NextState": 0
   },
   {
@@ -68,7 +68,7 @@
     "Name": "黑石增生in",
     "Effect": "",
     "IsInteraction": false,
-    "Interval": 0.0,
+    "Interval": 0,
     "NextState": 6
   },
   {
@@ -77,7 +77,7 @@
     "Name": "黑石增生out",
     "Effect": "",
     "IsInteraction": true,
-    "Interval": 0.0,
+    "Interval": 0,
     "NextState": 0
   },
   {
@@ -86,7 +86,7 @@
     "Name": "玩法生成出生",
     "Effect": "",
     "IsInteraction": false,
-    "Interval": 1.0,
+    "Interval": 1,
     "NextState": 0
   }
 ]

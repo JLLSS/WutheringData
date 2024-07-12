@@ -11,7 +11,7 @@
     "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabNewNor.SP_TabNewNor",
     "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabNewSele.SP_TabNewSele",
     "WeaponPrefabPath": "",
-    "UpList": null,
+    "UpList": [],
     "ShowIdList": [
       1203,
       1405,
@@ -37,7 +37,7 @@
     "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabFrontNor.SP_TabFrontNor",
     "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabFrontSele.SP_TabFrontSele",
     "WeaponPrefabPath": "",
-    "UpList": null,
+    "UpList": [],
     "ShowIdList": [
       1203,
       1405,
@@ -63,7 +63,7 @@
     "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponNor01.SP_TabPermanentWeaponNor01",
     "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponSele01.SP_TabPermanentWeaponSele01",
     "WeaponPrefabPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon02.UiItem_LuckdraWeapon02",
-    "UpList": null,
+    "UpList": [],
     "ShowIdList": [
       21010015
     ],
@@ -83,7 +83,7 @@
     "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponNor02.SP_TabPermanentWeaponNor02",
     "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponSele02.SP_TabPermanentWeaponSele02",
     "WeaponPrefabPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon05.UiItem_LuckdraWeapon05",
-    "UpList": null,
+    "UpList": [],
     "ShowIdList": [
       21020015
     ],
@@ -103,7 +103,7 @@
     "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponNor.SP_TabPermanentWeaponNor",
     "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponSele.SP_TabPermanentWeaponSele",
     "WeaponPrefabPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon04.UiItem_LuckdraWeapon04",
-    "UpList": null,
+    "UpList": [],
     "ShowIdList": [
       21030015
     ],
@@ -123,7 +123,7 @@
     "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponNor03.SP_TabPermanentWeaponNor03",
     "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponSele03.SP_TabPermanentWeaponSele03",
     "WeaponPrefabPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon01.UiItem_LuckdraWeapon01",
-    "UpList": null,
+    "UpList": [],
     "ShowIdList": [
       21040015
     ],
@@ -143,7 +143,7 @@
     "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponNor04.SP_TabPermanentWeaponNor04",
     "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabPermanentWeaponSele04.SP_TabPermanentWeaponSele04",
     "WeaponPrefabPath": "/Game/Aki/UI/UIResources/UiLuckdraw/Prefabs/UiItem_LuckdraWeapon06.UiItem_LuckdraWeapon06",
-    "UpList": null,
+    "UpList": [],
     "ShowIdList": [
       21050015
     ],
@@ -271,7 +271,7 @@
     "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabJianxinNor.SP_TabJianxinNor",
     "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabJianxinSele.SP_TabJianxinSele",
     "WeaponPrefabPath": "",
-    "UpList": null,
+    "UpList": [],
     "ShowIdList": [
       1405
     ],
@@ -291,7 +291,7 @@
     "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabKakaluoNor.SP_TabKakaluoNor",
     "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabKakaluoSele.SP_TabKakaluoSele",
     "WeaponPrefabPath": "",
-    "UpList": null,
+    "UpList": [],
     "ShowIdList": [
       1301
     ],
@@ -311,7 +311,7 @@
     "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabWeilinaiNor.SP_TabWeilinaiNor",
     "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabWeilinaiSele.SP_TabWeilinaiSele",
     "WeaponPrefabPath": "",
-    "UpList": null,
+    "UpList": [],
     "ShowIdList": [
       1503
     ],
@@ -331,7 +331,7 @@
     "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabLingyangNor.SP_TabLingyangNor",
     "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabLingyangSele.SP_TabLingyangSele",
     "WeaponPrefabPath": "",
-    "UpList": null,
+    "UpList": [],
     "ShowIdList": [
       1104
     ],
@@ -351,7 +351,7 @@
     "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabAnkeNor.SP_TabAnkeNor",
     "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabAnkeSele.SP_TabAnkeSele",
     "WeaponPrefabPath": "",
-    "UpList": null,
+    "UpList": [],
     "ShowIdList": [
       1203
     ],
@@ -479,7 +479,7 @@
     "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabJianxinNor.SP_TabJianxinNor",
     "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabJianxinSele.SP_TabJianxinSele",
     "WeaponPrefabPath": "",
-    "UpList": null,
+    "UpList": [],
     "ShowIdList": [
       1405
     ],
@@ -499,7 +499,7 @@
     "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabKakaluoNor.SP_TabKakaluoNor",
     "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabKakaluoSele.SP_TabKakaluoSele",
     "WeaponPrefabPath": "",
-    "UpList": null,
+    "UpList": [],
     "ShowIdList": [
       1301
     ],
@@ -519,7 +519,7 @@
     "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabWeilinaiNor.SP_TabWeilinaiNor",
     "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabWeilinaiSele.SP_TabWeilinaiSele",
     "WeaponPrefabPath": "",
-    "UpList": null,
+    "UpList": [],
     "ShowIdList": [
       1503
     ],
@@ -539,7 +539,7 @@
     "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabLingyangNor.SP_TabLingyangNor",
     "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabLingyangSele.SP_TabLingyangSele",
     "WeaponPrefabPath": "",
-    "UpList": null,
+    "UpList": [],
     "ShowIdList": [
       1104
     ],
@@ -559,7 +559,7 @@
     "TagNotSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabAnkeNor.SP_TabAnkeNor",
     "TagSelectedSpritePath": "/Game/Aki/UI/UIResources/UiLuckdraw/Atlas/SP_TabAnkeSele.SP_TabAnkeSele",
     "WeaponPrefabPath": "",
-    "UpList": null,
+    "UpList": [],
     "ShowIdList": [
       1203
     ],

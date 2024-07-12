@@ -3,8 +3,8 @@
     "Id": 1,
     "PayId": 1,
     "Region": "China",
-    "Amount": 6.0,
-    "GlobalAmount": 1.0,
+    "Amount": 6,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay6",
     "CurrencyType": "¥"
   },
@@ -12,7 +12,7 @@
     "Id": 2,
     "PayId": 2,
     "Region": "China",
-    "Amount": 30.0,
+    "Amount": 30,
     "GlobalAmount": 4.989999771118164,
     "ProductId": "com.kurogame.aki.pay30",
     "CurrencyType": "¥"
@@ -21,8 +21,8 @@
     "Id": 3,
     "PayId": 3,
     "Region": "China",
-    "Amount": 68.0,
-    "GlobalAmount": 1.0,
+    "Amount": 68,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay68",
     "CurrencyType": "¥"
   },
@@ -30,7 +30,7 @@
     "Id": 4,
     "PayId": 4,
     "Region": "China",
-    "Amount": 98.0,
+    "Amount": 98,
     "GlobalAmount": 14.989999771118164,
     "ProductId": "com.kurogame.aki.pay98",
     "CurrencyType": "¥"
@@ -39,8 +39,8 @@
     "Id": 5,
     "PayId": 5,
     "Region": "China",
-    "Amount": 128.0,
-    "GlobalAmount": 1.0,
+    "Amount": 128,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay128",
     "CurrencyType": "¥"
   },
@@ -48,8 +48,8 @@
     "Id": 6,
     "PayId": 6,
     "Region": "China",
-    "Amount": 198.0,
-    "GlobalAmount": 1.0,
+    "Amount": 198,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay198",
     "CurrencyType": "¥"
   },
@@ -57,7 +57,7 @@
     "Id": 7,
     "PayId": 7,
     "Region": "China",
-    "Amount": 328.0,
+    "Amount": 328,
     "GlobalAmount": 49.9900016784668,
     "ProductId": "com.kurogame.aki.pay328",
     "CurrencyType": "¥"
@@ -66,7 +66,7 @@
     "Id": 8,
     "PayId": 8,
     "Region": "China",
-    "Amount": 648.0,
+    "Amount": 648,
     "GlobalAmount": 99.98999786376953,
     "ProductId": "com.kurogame.aki.pay648",
     "CurrencyType": "¥"
@@ -75,8 +75,8 @@
     "Id": 9,
     "PayId": 9,
     "Region": "China",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift1",
     "CurrencyType": "¥"
   },
@@ -84,8 +84,8 @@
     "Id": 10,
     "PayId": 10,
     "Region": "China",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift2",
     "CurrencyType": "¥"
   },
@@ -93,8 +93,8 @@
     "Id": 11,
     "PayId": 11,
     "Region": "China",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift3",
     "CurrencyType": "¥"
   },
@@ -102,8 +102,8 @@
     "Id": 12,
     "PayId": 12,
     "Region": "China",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift4",
     "CurrencyType": "¥"
   },
@@ -111,8 +111,8 @@
     "Id": 13,
     "PayId": 13,
     "Region": "China",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift5",
     "CurrencyType": "¥"
   },
@@ -120,8 +120,8 @@
     "Id": 14,
     "PayId": 14,
     "Region": "China",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift10",
     "CurrencyType": "¥"
   },
@@ -129,7 +129,7 @@
     "Id": 15,
     "PayId": 15,
     "Region": "China",
-    "Amount": 30.0,
+    "Amount": 30,
     "GlobalAmount": 4.989999771118164,
     "ProductId": "com.kurogame.aki.month",
     "CurrencyType": "¥"
@@ -138,7 +138,7 @@
     "Id": 16,
     "PayId": 16,
     "Region": "China",
-    "Amount": 68.0,
+    "Amount": 68,
     "GlobalAmount": 9.989999771118164,
     "ProductId": "com.kurogame.aki.bp68",
     "CurrencyType": "¥"
@@ -147,7 +147,7 @@
     "Id": 17,
     "PayId": 17,
     "Region": "China",
-    "Amount": 128.0,
+    "Amount": 128,
     "GlobalAmount": 19.989999771118164,
     "ProductId": "com.kurogame.aki.bp128",
     "CurrencyType": "¥"
@@ -156,8 +156,8 @@
     "Id": 18,
     "PayId": 18,
     "Region": "China",
-    "Amount": 60.0,
-    "GlobalAmount": 1.0,
+    "Amount": 60,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.bp60",
     "CurrencyType": "¥"
   },
@@ -165,8 +165,8 @@
     "Id": 19,
     "PayId": 19,
     "Region": "China",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.test",
     "CurrencyType": "¥"
   },
@@ -174,8 +174,8 @@
     "Id": 20,
     "PayId": 20,
     "Region": "China",
-    "Amount": 6.0,
-    "GlobalAmount": 1.0,
+    "Amount": 6,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift6",
     "CurrencyType": "¥"
   },
@@ -183,8 +183,8 @@
     "Id": 21,
     "PayId": 21,
     "Region": "China",
-    "Amount": 12.0,
-    "GlobalAmount": 1.0,
+    "Amount": 12,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift12",
     "CurrencyType": "¥"
   },
@@ -192,8 +192,8 @@
     "Id": 22,
     "PayId": 22,
     "Region": "China",
-    "Amount": 18.0,
-    "GlobalAmount": 1.0,
+    "Amount": 18,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift18",
     "CurrencyType": "¥"
   },
@@ -201,8 +201,8 @@
     "Id": 23,
     "PayId": 23,
     "Region": "China",
-    "Amount": 30.0,
-    "GlobalAmount": 1.0,
+    "Amount": 30,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift30",
     "CurrencyType": "¥"
   },
@@ -210,8 +210,8 @@
     "Id": 24,
     "PayId": 24,
     "Region": "China",
-    "Amount": 68.0,
-    "GlobalAmount": 1.0,
+    "Amount": 68,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift68",
     "CurrencyType": "¥"
   },
@@ -219,8 +219,8 @@
     "Id": 25,
     "PayId": 25,
     "Region": "China",
-    "Amount": 98.0,
-    "GlobalAmount": 1.0,
+    "Amount": 98,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift98",
     "CurrencyType": "¥"
   },
@@ -228,8 +228,8 @@
     "Id": 26,
     "PayId": 26,
     "Region": "China",
-    "Amount": 128.0,
-    "GlobalAmount": 1.0,
+    "Amount": 128,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift128",
     "CurrencyType": "¥"
   },
@@ -237,8 +237,8 @@
     "Id": 27,
     "PayId": 27,
     "Region": "China",
-    "Amount": 168.0,
-    "GlobalAmount": 1.0,
+    "Amount": 168,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift168",
     "CurrencyType": "¥"
   },
@@ -246,8 +246,8 @@
     "Id": 28,
     "PayId": 28,
     "Region": "China",
-    "Amount": 198.0,
-    "GlobalAmount": 1.0,
+    "Amount": 198,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift198",
     "CurrencyType": "¥"
   },
@@ -255,8 +255,8 @@
     "Id": 29,
     "PayId": 29,
     "Region": "China",
-    "Amount": 328.0,
-    "GlobalAmount": 1.0,
+    "Amount": 328,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift328",
     "CurrencyType": "¥"
   },
@@ -264,8 +264,8 @@
     "Id": 30,
     "PayId": 30,
     "Region": "China",
-    "Amount": 648.0,
-    "GlobalAmount": 1.0,
+    "Amount": 648,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift648",
     "CurrencyType": "¥"
   },
@@ -274,7 +274,7 @@
     "PayId": 10000,
     "Region": "China",
     "Amount": 0.8999999761581421,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my30",
     "CurrencyType": "¥"
   },
@@ -283,7 +283,7 @@
     "PayId": 10001,
     "Region": "China",
     "Amount": 1.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my50",
     "CurrencyType": "¥"
   },
@@ -292,7 +292,7 @@
     "PayId": 10002,
     "Region": "China",
     "Amount": 2.990000009536743,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my90",
     "CurrencyType": "¥"
   },
@@ -301,7 +301,7 @@
     "PayId": 10003,
     "Region": "China",
     "Amount": 4.590000152587891,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my150",
     "CurrencyType": "¥"
   },
@@ -310,7 +310,7 @@
     "PayId": 10004,
     "Region": "China",
     "Amount": 4.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my170",
     "CurrencyType": "¥"
   },
@@ -319,7 +319,7 @@
     "PayId": 10005,
     "Region": "China",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my300",
     "CurrencyType": "¥"
   },
@@ -328,7 +328,7 @@
     "PayId": 10006,
     "Region": "China",
     "Amount": 10.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my350",
     "CurrencyType": "¥"
   },
@@ -337,7 +337,7 @@
     "PayId": 10007,
     "Region": "China",
     "Amount": 12.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my400",
     "CurrencyType": "¥"
   },
@@ -346,7 +346,7 @@
     "PayId": 10008,
     "Region": "China",
     "Amount": 13.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my450",
     "CurrencyType": "¥"
   },
@@ -355,7 +355,7 @@
     "PayId": 10009,
     "Region": "China",
     "Amount": 15.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my500",
     "CurrencyType": "¥"
   },
@@ -364,7 +364,7 @@
     "PayId": 10010,
     "Region": "China",
     "Amount": 23.59000015258789,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my750",
     "CurrencyType": "¥"
   },
@@ -373,7 +373,7 @@
     "PayId": 10011,
     "Region": "China",
     "Amount": 30.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1000",
     "CurrencyType": "¥"
   },
@@ -382,7 +382,7 @@
     "PayId": 10012,
     "Region": "China",
     "Amount": 35.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1150",
     "CurrencyType": "¥"
   },
@@ -391,7 +391,7 @@
     "PayId": 10013,
     "Region": "China",
     "Amount": 45.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1490",
     "CurrencyType": "¥"
   },
@@ -400,7 +400,7 @@
     "PayId": 10014,
     "Region": "China",
     "Amount": 49.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1690",
     "CurrencyType": "¥"
   },
@@ -409,7 +409,7 @@
     "PayId": 10015,
     "Region": "China",
     "Amount": 62.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my2000",
     "CurrencyType": "¥"
   },
@@ -418,7 +418,7 @@
     "PayId": 10016,
     "Region": "China",
     "Amount": 78.58999633789062,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my2500",
     "CurrencyType": "¥"
   },
@@ -427,7 +427,7 @@
     "PayId": 10017,
     "Region": "China",
     "Amount": 93.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my3000",
     "CurrencyType": "¥"
   },
@@ -436,7 +436,7 @@
     "PayId": 10018,
     "Region": "China",
     "Amount": 99.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my3290",
     "CurrencyType": "¥"
   },
@@ -445,7 +445,7 @@
     "PayId": 10019,
     "Region": "China",
     "Amount": 156.58999633789062,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my5000",
     "CurrencyType": "¥"
   },
@@ -454,7 +454,7 @@
     "PayId": 10020,
     "Region": "China",
     "Amount": 313.5899963378906,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my10000",
     "CurrencyType": "¥"
   },
@@ -463,7 +463,7 @@
     "PayId": 1,
     "Region": "SEA",
     "Amount": 0.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay6",
     "CurrencyType": "¥"
   },
@@ -481,7 +481,7 @@
     "PayId": 3,
     "Region": "SEA",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay68",
     "CurrencyType": "¥"
   },
@@ -499,7 +499,7 @@
     "PayId": 5,
     "Region": "SEA",
     "Amount": 19.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay128",
     "CurrencyType": "¥"
   },
@@ -508,7 +508,7 @@
     "PayId": 6,
     "Region": "SEA",
     "Amount": 29.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay198",
     "CurrencyType": "¥"
   },
@@ -534,8 +534,8 @@
     "Id": 60,
     "PayId": 9,
     "Region": "SEA",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift1",
     "CurrencyType": "¥"
   },
@@ -543,8 +543,8 @@
     "Id": 61,
     "PayId": 10,
     "Region": "SEA",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift2",
     "CurrencyType": "¥"
   },
@@ -552,8 +552,8 @@
     "Id": 62,
     "PayId": 11,
     "Region": "SEA",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift3",
     "CurrencyType": "¥"
   },
@@ -561,8 +561,8 @@
     "Id": 63,
     "PayId": 12,
     "Region": "SEA",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift4",
     "CurrencyType": "¥"
   },
@@ -570,8 +570,8 @@
     "Id": 64,
     "PayId": 13,
     "Region": "SEA",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift5",
     "CurrencyType": "¥"
   },
@@ -579,8 +579,8 @@
     "Id": 65,
     "PayId": 14,
     "Region": "SEA",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift10",
     "CurrencyType": "¥"
   },
@@ -615,8 +615,8 @@
     "Id": 69,
     "PayId": 18,
     "Region": "SEA",
-    "Amount": 10.0,
-    "GlobalAmount": 1.0,
+    "Amount": 10,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.bp60",
     "CurrencyType": "¥"
   },
@@ -624,8 +624,8 @@
     "Id": 70,
     "PayId": 19,
     "Region": "SEA",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.test",
     "CurrencyType": "¥"
   },
@@ -634,7 +634,7 @@
     "PayId": 20,
     "Region": "SEA",
     "Amount": 0.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift6",
     "CurrencyType": "¥"
   },
@@ -643,7 +643,7 @@
     "PayId": 21,
     "Region": "SEA",
     "Amount": 1.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift12",
     "CurrencyType": "¥"
   },
@@ -652,7 +652,7 @@
     "PayId": 22,
     "Region": "SEA",
     "Amount": 2.990000009536743,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift18",
     "CurrencyType": "¥"
   },
@@ -661,7 +661,7 @@
     "PayId": 23,
     "Region": "SEA",
     "Amount": 4.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift30",
     "CurrencyType": "¥"
   },
@@ -670,7 +670,7 @@
     "PayId": 24,
     "Region": "SEA",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift68",
     "CurrencyType": "¥"
   },
@@ -679,7 +679,7 @@
     "PayId": 25,
     "Region": "SEA",
     "Amount": 14.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift98",
     "CurrencyType": "¥"
   },
@@ -688,7 +688,7 @@
     "PayId": 26,
     "Region": "SEA",
     "Amount": 19.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift128",
     "CurrencyType": "¥"
   },
@@ -697,7 +697,7 @@
     "PayId": 27,
     "Region": "SEA",
     "Amount": 24.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift168",
     "CurrencyType": "¥"
   },
@@ -706,7 +706,7 @@
     "PayId": 28,
     "Region": "SEA",
     "Amount": 29.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift198",
     "CurrencyType": "¥"
   },
@@ -715,7 +715,7 @@
     "PayId": 29,
     "Region": "SEA",
     "Amount": 49.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift328",
     "CurrencyType": "¥"
   },
@@ -724,7 +724,7 @@
     "PayId": 30,
     "Region": "SEA",
     "Amount": 99.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift648",
     "CurrencyType": "¥"
   },
@@ -733,7 +733,7 @@
     "PayId": 10000,
     "Region": "SEA",
     "Amount": 0.8999999761581421,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my30",
     "CurrencyType": "¥"
   },
@@ -742,7 +742,7 @@
     "PayId": 10001,
     "Region": "SEA",
     "Amount": 1.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my50",
     "CurrencyType": "¥"
   },
@@ -751,7 +751,7 @@
     "PayId": 10002,
     "Region": "SEA",
     "Amount": 2.990000009536743,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my90",
     "CurrencyType": "¥"
   },
@@ -760,7 +760,7 @@
     "PayId": 10003,
     "Region": "SEA",
     "Amount": 4.590000152587891,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my150",
     "CurrencyType": "¥"
   },
@@ -769,7 +769,7 @@
     "PayId": 10004,
     "Region": "SEA",
     "Amount": 4.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my170",
     "CurrencyType": "¥"
   },
@@ -778,7 +778,7 @@
     "PayId": 10005,
     "Region": "SEA",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my300",
     "CurrencyType": "¥"
   },
@@ -787,7 +787,7 @@
     "PayId": 10006,
     "Region": "SEA",
     "Amount": 10.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my350",
     "CurrencyType": "¥"
   },
@@ -796,7 +796,7 @@
     "PayId": 10007,
     "Region": "SEA",
     "Amount": 12.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my400",
     "CurrencyType": "¥"
   },
@@ -805,7 +805,7 @@
     "PayId": 10008,
     "Region": "SEA",
     "Amount": 13.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my450",
     "CurrencyType": "¥"
   },
@@ -814,7 +814,7 @@
     "PayId": 10009,
     "Region": "SEA",
     "Amount": 15.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my500",
     "CurrencyType": "¥"
   },
@@ -823,7 +823,7 @@
     "PayId": 10010,
     "Region": "SEA",
     "Amount": 23.59000015258789,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my750",
     "CurrencyType": "¥"
   },
@@ -832,7 +832,7 @@
     "PayId": 10011,
     "Region": "SEA",
     "Amount": 30.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1000",
     "CurrencyType": "¥"
   },
@@ -841,7 +841,7 @@
     "PayId": 10012,
     "Region": "SEA",
     "Amount": 35.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1150",
     "CurrencyType": "¥"
   },
@@ -850,7 +850,7 @@
     "PayId": 10013,
     "Region": "SEA",
     "Amount": 45.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1490",
     "CurrencyType": "¥"
   },
@@ -859,7 +859,7 @@
     "PayId": 10014,
     "Region": "SEA",
     "Amount": 49.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1690",
     "CurrencyType": "¥"
   },
@@ -868,7 +868,7 @@
     "PayId": 10015,
     "Region": "SEA",
     "Amount": 62.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my2000",
     "CurrencyType": "¥"
   },
@@ -877,7 +877,7 @@
     "PayId": 10016,
     "Region": "SEA",
     "Amount": 78.58999633789062,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my2500",
     "CurrencyType": "¥"
   },
@@ -886,7 +886,7 @@
     "PayId": 10017,
     "Region": "SEA",
     "Amount": 93.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my3000",
     "CurrencyType": "¥"
   },
@@ -895,7 +895,7 @@
     "PayId": 10018,
     "Region": "SEA",
     "Amount": 99.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my3290",
     "CurrencyType": "¥"
   },
@@ -904,7 +904,7 @@
     "PayId": 10019,
     "Region": "SEA",
     "Amount": 156.58999633789062,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my5000",
     "CurrencyType": "¥"
   },
@@ -913,7 +913,7 @@
     "PayId": 10020,
     "Region": "SEA",
     "Amount": 313.5899963378906,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my10000",
     "CurrencyType": "¥"
   },
@@ -922,7 +922,7 @@
     "PayId": 1,
     "Region": "America",
     "Amount": 0.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay6",
     "CurrencyType": "¥"
   },
@@ -940,7 +940,7 @@
     "PayId": 3,
     "Region": "America",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay68",
     "CurrencyType": "¥"
   },
@@ -958,7 +958,7 @@
     "PayId": 5,
     "Region": "America",
     "Amount": 19.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay128",
     "CurrencyType": "¥"
   },
@@ -967,7 +967,7 @@
     "PayId": 6,
     "Region": "America",
     "Amount": 29.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay198",
     "CurrencyType": "¥"
   },
@@ -993,8 +993,8 @@
     "Id": 111,
     "PayId": 9,
     "Region": "America",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift1",
     "CurrencyType": "¥"
   },
@@ -1002,8 +1002,8 @@
     "Id": 112,
     "PayId": 10,
     "Region": "America",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift2",
     "CurrencyType": "¥"
   },
@@ -1011,8 +1011,8 @@
     "Id": 113,
     "PayId": 11,
     "Region": "America",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift3",
     "CurrencyType": "¥"
   },
@@ -1020,8 +1020,8 @@
     "Id": 114,
     "PayId": 12,
     "Region": "America",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift4",
     "CurrencyType": "¥"
   },
@@ -1029,8 +1029,8 @@
     "Id": 115,
     "PayId": 13,
     "Region": "America",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift5",
     "CurrencyType": "¥"
   },
@@ -1038,8 +1038,8 @@
     "Id": 116,
     "PayId": 14,
     "Region": "America",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift10",
     "CurrencyType": "¥"
   },
@@ -1074,8 +1074,8 @@
     "Id": 120,
     "PayId": 18,
     "Region": "America",
-    "Amount": 10.0,
-    "GlobalAmount": 1.0,
+    "Amount": 10,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.bp60",
     "CurrencyType": "¥"
   },
@@ -1083,8 +1083,8 @@
     "Id": 121,
     "PayId": 19,
     "Region": "America",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.test",
     "CurrencyType": "¥"
   },
@@ -1093,7 +1093,7 @@
     "PayId": 20,
     "Region": "America",
     "Amount": 0.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift6",
     "CurrencyType": "¥"
   },
@@ -1102,7 +1102,7 @@
     "PayId": 21,
     "Region": "America",
     "Amount": 1.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift12",
     "CurrencyType": "¥"
   },
@@ -1111,7 +1111,7 @@
     "PayId": 22,
     "Region": "America",
     "Amount": 2.990000009536743,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift18",
     "CurrencyType": "¥"
   },
@@ -1120,7 +1120,7 @@
     "PayId": 23,
     "Region": "America",
     "Amount": 4.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift30",
     "CurrencyType": "¥"
   },
@@ -1129,7 +1129,7 @@
     "PayId": 24,
     "Region": "America",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift68",
     "CurrencyType": "¥"
   },
@@ -1138,7 +1138,7 @@
     "PayId": 25,
     "Region": "America",
     "Amount": 14.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift98",
     "CurrencyType": "¥"
   },
@@ -1147,7 +1147,7 @@
     "PayId": 26,
     "Region": "America",
     "Amount": 19.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift128",
     "CurrencyType": "¥"
   },
@@ -1156,7 +1156,7 @@
     "PayId": 27,
     "Region": "America",
     "Amount": 24.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift168",
     "CurrencyType": "¥"
   },
@@ -1165,7 +1165,7 @@
     "PayId": 28,
     "Region": "America",
     "Amount": 29.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift198",
     "CurrencyType": "¥"
   },
@@ -1174,7 +1174,7 @@
     "PayId": 29,
     "Region": "America",
     "Amount": 49.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift328",
     "CurrencyType": "¥"
   },
@@ -1183,7 +1183,7 @@
     "PayId": 30,
     "Region": "America",
     "Amount": 99.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift648",
     "CurrencyType": "¥"
   },
@@ -1192,7 +1192,7 @@
     "PayId": 10000,
     "Region": "America",
     "Amount": 0.8999999761581421,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my30",
     "CurrencyType": "¥"
   },
@@ -1201,7 +1201,7 @@
     "PayId": 10001,
     "Region": "America",
     "Amount": 1.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my50",
     "CurrencyType": "¥"
   },
@@ -1210,7 +1210,7 @@
     "PayId": 10002,
     "Region": "America",
     "Amount": 2.990000009536743,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my90",
     "CurrencyType": "¥"
   },
@@ -1219,7 +1219,7 @@
     "PayId": 10003,
     "Region": "America",
     "Amount": 4.590000152587891,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my150",
     "CurrencyType": "¥"
   },
@@ -1228,7 +1228,7 @@
     "PayId": 10004,
     "Region": "America",
     "Amount": 4.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my170",
     "CurrencyType": "¥"
   },
@@ -1237,7 +1237,7 @@
     "PayId": 10005,
     "Region": "America",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my300",
     "CurrencyType": "¥"
   },
@@ -1246,7 +1246,7 @@
     "PayId": 10006,
     "Region": "America",
     "Amount": 10.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my350",
     "CurrencyType": "¥"
   },
@@ -1255,7 +1255,7 @@
     "PayId": 10007,
     "Region": "America",
     "Amount": 12.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my400",
     "CurrencyType": "¥"
   },
@@ -1264,7 +1264,7 @@
     "PayId": 10008,
     "Region": "America",
     "Amount": 13.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my450",
     "CurrencyType": "¥"
   },
@@ -1273,7 +1273,7 @@
     "PayId": 10009,
     "Region": "America",
     "Amount": 15.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my500",
     "CurrencyType": "¥"
   },
@@ -1282,7 +1282,7 @@
     "PayId": 10010,
     "Region": "America",
     "Amount": 23.59000015258789,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my750",
     "CurrencyType": "¥"
   },
@@ -1291,7 +1291,7 @@
     "PayId": 10011,
     "Region": "America",
     "Amount": 30.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1000",
     "CurrencyType": "¥"
   },
@@ -1300,7 +1300,7 @@
     "PayId": 10012,
     "Region": "America",
     "Amount": 35.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1150",
     "CurrencyType": "¥"
   },
@@ -1309,7 +1309,7 @@
     "PayId": 10013,
     "Region": "America",
     "Amount": 45.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1490",
     "CurrencyType": "¥"
   },
@@ -1318,7 +1318,7 @@
     "PayId": 10014,
     "Region": "America",
     "Amount": 49.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1690",
     "CurrencyType": "¥"
   },
@@ -1327,7 +1327,7 @@
     "PayId": 10015,
     "Region": "America",
     "Amount": 62.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my2000",
     "CurrencyType": "¥"
   },
@@ -1336,7 +1336,7 @@
     "PayId": 10016,
     "Region": "America",
     "Amount": 78.58999633789062,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my2500",
     "CurrencyType": "¥"
   },
@@ -1345,7 +1345,7 @@
     "PayId": 10017,
     "Region": "America",
     "Amount": 93.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my3000",
     "CurrencyType": "¥"
   },
@@ -1354,7 +1354,7 @@
     "PayId": 10018,
     "Region": "America",
     "Amount": 99.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my3290",
     "CurrencyType": "¥"
   },
@@ -1363,7 +1363,7 @@
     "PayId": 10019,
     "Region": "America",
     "Amount": 156.58999633789062,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my5000",
     "CurrencyType": "¥"
   },
@@ -1372,7 +1372,7 @@
     "PayId": 10020,
     "Region": "America",
     "Amount": 313.5899963378906,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my10000",
     "CurrencyType": "¥"
   },
@@ -1381,7 +1381,7 @@
     "PayId": 1,
     "Region": "Asia",
     "Amount": 0.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay6",
     "CurrencyType": "¥"
   },
@@ -1399,7 +1399,7 @@
     "PayId": 3,
     "Region": "Asia",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay68",
     "CurrencyType": "¥"
   },
@@ -1417,7 +1417,7 @@
     "PayId": 5,
     "Region": "Asia",
     "Amount": 19.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay128",
     "CurrencyType": "¥"
   },
@@ -1426,7 +1426,7 @@
     "PayId": 6,
     "Region": "Asia",
     "Amount": 29.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay198",
     "CurrencyType": "¥"
   },
@@ -1452,8 +1452,8 @@
     "Id": 162,
     "PayId": 9,
     "Region": "Asia",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift1",
     "CurrencyType": "¥"
   },
@@ -1461,8 +1461,8 @@
     "Id": 163,
     "PayId": 10,
     "Region": "Asia",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift2",
     "CurrencyType": "¥"
   },
@@ -1470,8 +1470,8 @@
     "Id": 164,
     "PayId": 11,
     "Region": "Asia",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift3",
     "CurrencyType": "¥"
   },
@@ -1479,8 +1479,8 @@
     "Id": 165,
     "PayId": 12,
     "Region": "Asia",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift4",
     "CurrencyType": "¥"
   },
@@ -1488,8 +1488,8 @@
     "Id": 166,
     "PayId": 13,
     "Region": "Asia",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift5",
     "CurrencyType": "¥"
   },
@@ -1497,8 +1497,8 @@
     "Id": 167,
     "PayId": 14,
     "Region": "Asia",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift10",
     "CurrencyType": "¥"
   },
@@ -1533,8 +1533,8 @@
     "Id": 171,
     "PayId": 18,
     "Region": "Asia",
-    "Amount": 10.0,
-    "GlobalAmount": 1.0,
+    "Amount": 10,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.bp60",
     "CurrencyType": "¥"
   },
@@ -1542,8 +1542,8 @@
     "Id": 172,
     "PayId": 19,
     "Region": "Asia",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.test",
     "CurrencyType": "¥"
   },
@@ -1552,7 +1552,7 @@
     "PayId": 20,
     "Region": "Asia",
     "Amount": 0.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift6",
     "CurrencyType": "¥"
   },
@@ -1561,7 +1561,7 @@
     "PayId": 21,
     "Region": "Asia",
     "Amount": 1.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift12",
     "CurrencyType": "¥"
   },
@@ -1570,7 +1570,7 @@
     "PayId": 22,
     "Region": "Asia",
     "Amount": 2.990000009536743,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift18",
     "CurrencyType": "¥"
   },
@@ -1579,7 +1579,7 @@
     "PayId": 23,
     "Region": "Asia",
     "Amount": 4.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift30",
     "CurrencyType": "¥"
   },
@@ -1588,7 +1588,7 @@
     "PayId": 24,
     "Region": "Asia",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift68",
     "CurrencyType": "¥"
   },
@@ -1597,7 +1597,7 @@
     "PayId": 25,
     "Region": "Asia",
     "Amount": 14.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift98",
     "CurrencyType": "¥"
   },
@@ -1606,7 +1606,7 @@
     "PayId": 26,
     "Region": "Asia",
     "Amount": 19.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift128",
     "CurrencyType": "¥"
   },
@@ -1615,7 +1615,7 @@
     "PayId": 27,
     "Region": "Asia",
     "Amount": 24.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift168",
     "CurrencyType": "¥"
   },
@@ -1624,7 +1624,7 @@
     "PayId": 28,
     "Region": "Asia",
     "Amount": 29.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift198",
     "CurrencyType": "¥"
   },
@@ -1633,7 +1633,7 @@
     "PayId": 29,
     "Region": "Asia",
     "Amount": 49.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift328",
     "CurrencyType": "¥"
   },
@@ -1642,7 +1642,7 @@
     "PayId": 30,
     "Region": "Asia",
     "Amount": 99.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift648",
     "CurrencyType": "¥"
   },
@@ -1651,7 +1651,7 @@
     "PayId": 10000,
     "Region": "Asia",
     "Amount": 0.8999999761581421,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my30",
     "CurrencyType": "¥"
   },
@@ -1660,7 +1660,7 @@
     "PayId": 10001,
     "Region": "Asia",
     "Amount": 1.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my50",
     "CurrencyType": "¥"
   },
@@ -1669,7 +1669,7 @@
     "PayId": 10002,
     "Region": "Asia",
     "Amount": 2.990000009536743,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my90",
     "CurrencyType": "¥"
   },
@@ -1678,7 +1678,7 @@
     "PayId": 10003,
     "Region": "Asia",
     "Amount": 4.590000152587891,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my150",
     "CurrencyType": "¥"
   },
@@ -1687,7 +1687,7 @@
     "PayId": 10004,
     "Region": "Asia",
     "Amount": 4.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my170",
     "CurrencyType": "¥"
   },
@@ -1696,7 +1696,7 @@
     "PayId": 10005,
     "Region": "Asia",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my300",
     "CurrencyType": "¥"
   },
@@ -1705,7 +1705,7 @@
     "PayId": 10006,
     "Region": "Asia",
     "Amount": 10.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my350",
     "CurrencyType": "¥"
   },
@@ -1714,7 +1714,7 @@
     "PayId": 10007,
     "Region": "Asia",
     "Amount": 12.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my400",
     "CurrencyType": "¥"
   },
@@ -1723,7 +1723,7 @@
     "PayId": 10008,
     "Region": "Asia",
     "Amount": 13.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my450",
     "CurrencyType": "¥"
   },
@@ -1732,7 +1732,7 @@
     "PayId": 10009,
     "Region": "Asia",
     "Amount": 15.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my500",
     "CurrencyType": "¥"
   },
@@ -1741,7 +1741,7 @@
     "PayId": 10010,
     "Region": "Asia",
     "Amount": 23.59000015258789,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my750",
     "CurrencyType": "¥"
   },
@@ -1750,7 +1750,7 @@
     "PayId": 10011,
     "Region": "Asia",
     "Amount": 30.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1000",
     "CurrencyType": "¥"
   },
@@ -1759,7 +1759,7 @@
     "PayId": 10012,
     "Region": "Asia",
     "Amount": 35.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1150",
     "CurrencyType": "¥"
   },
@@ -1768,7 +1768,7 @@
     "PayId": 10013,
     "Region": "Asia",
     "Amount": 45.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1490",
     "CurrencyType": "¥"
   },
@@ -1777,7 +1777,7 @@
     "PayId": 10014,
     "Region": "Asia",
     "Amount": 49.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1690",
     "CurrencyType": "¥"
   },
@@ -1786,7 +1786,7 @@
     "PayId": 10015,
     "Region": "Asia",
     "Amount": 62.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my2000",
     "CurrencyType": "¥"
   },
@@ -1795,7 +1795,7 @@
     "PayId": 10016,
     "Region": "Asia",
     "Amount": 78.58999633789062,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my2500",
     "CurrencyType": "¥"
   },
@@ -1804,7 +1804,7 @@
     "PayId": 10017,
     "Region": "Asia",
     "Amount": 93.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my3000",
     "CurrencyType": "¥"
   },
@@ -1813,7 +1813,7 @@
     "PayId": 10018,
     "Region": "Asia",
     "Amount": 99.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my3290",
     "CurrencyType": "¥"
   },
@@ -1822,7 +1822,7 @@
     "PayId": 10019,
     "Region": "Asia",
     "Amount": 156.58999633789062,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my5000",
     "CurrencyType": "¥"
   },
@@ -1831,7 +1831,7 @@
     "PayId": 10020,
     "Region": "Asia",
     "Amount": 313.5899963378906,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my10000",
     "CurrencyType": "¥"
   },
@@ -1840,7 +1840,7 @@
     "PayId": 1,
     "Region": "Europe",
     "Amount": 0.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay6",
     "CurrencyType": "¥"
   },
@@ -1858,7 +1858,7 @@
     "PayId": 3,
     "Region": "Europe",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay68",
     "CurrencyType": "¥"
   },
@@ -1876,7 +1876,7 @@
     "PayId": 5,
     "Region": "Europe",
     "Amount": 19.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay128",
     "CurrencyType": "¥"
   },
@@ -1885,7 +1885,7 @@
     "PayId": 6,
     "Region": "Europe",
     "Amount": 29.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay198",
     "CurrencyType": "¥"
   },
@@ -1911,8 +1911,8 @@
     "Id": 213,
     "PayId": 9,
     "Region": "Europe",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift1",
     "CurrencyType": "¥"
   },
@@ -1920,8 +1920,8 @@
     "Id": 214,
     "PayId": 10,
     "Region": "Europe",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift2",
     "CurrencyType": "¥"
   },
@@ -1929,8 +1929,8 @@
     "Id": 215,
     "PayId": 11,
     "Region": "Europe",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift3",
     "CurrencyType": "¥"
   },
@@ -1938,8 +1938,8 @@
     "Id": 216,
     "PayId": 12,
     "Region": "Europe",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift4",
     "CurrencyType": "¥"
   },
@@ -1947,8 +1947,8 @@
     "Id": 217,
     "PayId": 13,
     "Region": "Europe",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift5",
     "CurrencyType": "¥"
   },
@@ -1956,8 +1956,8 @@
     "Id": 218,
     "PayId": 14,
     "Region": "Europe",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift10",
     "CurrencyType": "¥"
   },
@@ -1992,8 +1992,8 @@
     "Id": 222,
     "PayId": 18,
     "Region": "Europe",
-    "Amount": 10.0,
-    "GlobalAmount": 1.0,
+    "Amount": 10,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.bp60",
     "CurrencyType": "¥"
   },
@@ -2001,8 +2001,8 @@
     "Id": 223,
     "PayId": 19,
     "Region": "Europe",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.test",
     "CurrencyType": "¥"
   },
@@ -2011,7 +2011,7 @@
     "PayId": 20,
     "Region": "Europe",
     "Amount": 0.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift6",
     "CurrencyType": "¥"
   },
@@ -2020,7 +2020,7 @@
     "PayId": 21,
     "Region": "Europe",
     "Amount": 1.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift12",
     "CurrencyType": "¥"
   },
@@ -2029,7 +2029,7 @@
     "PayId": 22,
     "Region": "Europe",
     "Amount": 2.990000009536743,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift18",
     "CurrencyType": "¥"
   },
@@ -2038,7 +2038,7 @@
     "PayId": 23,
     "Region": "Europe",
     "Amount": 4.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift30",
     "CurrencyType": "¥"
   },
@@ -2047,7 +2047,7 @@
     "PayId": 24,
     "Region": "Europe",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift68",
     "CurrencyType": "¥"
   },
@@ -2056,7 +2056,7 @@
     "PayId": 25,
     "Region": "Europe",
     "Amount": 14.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift98",
     "CurrencyType": "¥"
   },
@@ -2065,7 +2065,7 @@
     "PayId": 26,
     "Region": "Europe",
     "Amount": 19.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift128",
     "CurrencyType": "¥"
   },
@@ -2074,7 +2074,7 @@
     "PayId": 27,
     "Region": "Europe",
     "Amount": 24.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift168",
     "CurrencyType": "¥"
   },
@@ -2083,7 +2083,7 @@
     "PayId": 28,
     "Region": "Europe",
     "Amount": 29.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift198",
     "CurrencyType": "¥"
   },
@@ -2092,7 +2092,7 @@
     "PayId": 29,
     "Region": "Europe",
     "Amount": 49.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift328",
     "CurrencyType": "¥"
   },
@@ -2101,7 +2101,7 @@
     "PayId": 30,
     "Region": "Europe",
     "Amount": 99.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift648",
     "CurrencyType": "¥"
   },
@@ -2110,7 +2110,7 @@
     "PayId": 10000,
     "Region": "Europe",
     "Amount": 0.8999999761581421,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my30",
     "CurrencyType": "¥"
   },
@@ -2119,7 +2119,7 @@
     "PayId": 10001,
     "Region": "Europe",
     "Amount": 1.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my50",
     "CurrencyType": "¥"
   },
@@ -2128,7 +2128,7 @@
     "PayId": 10002,
     "Region": "Europe",
     "Amount": 2.990000009536743,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my90",
     "CurrencyType": "¥"
   },
@@ -2137,7 +2137,7 @@
     "PayId": 10003,
     "Region": "Europe",
     "Amount": 4.590000152587891,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my150",
     "CurrencyType": "¥"
   },
@@ -2146,7 +2146,7 @@
     "PayId": 10004,
     "Region": "Europe",
     "Amount": 4.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my170",
     "CurrencyType": "¥"
   },
@@ -2155,7 +2155,7 @@
     "PayId": 10005,
     "Region": "Europe",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my300",
     "CurrencyType": "¥"
   },
@@ -2164,7 +2164,7 @@
     "PayId": 10006,
     "Region": "Europe",
     "Amount": 10.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my350",
     "CurrencyType": "¥"
   },
@@ -2173,7 +2173,7 @@
     "PayId": 10007,
     "Region": "Europe",
     "Amount": 12.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my400",
     "CurrencyType": "¥"
   },
@@ -2182,7 +2182,7 @@
     "PayId": 10008,
     "Region": "Europe",
     "Amount": 13.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my450",
     "CurrencyType": "¥"
   },
@@ -2191,7 +2191,7 @@
     "PayId": 10009,
     "Region": "Europe",
     "Amount": 15.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my500",
     "CurrencyType": "¥"
   },
@@ -2200,7 +2200,7 @@
     "PayId": 10010,
     "Region": "Europe",
     "Amount": 23.59000015258789,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my750",
     "CurrencyType": "¥"
   },
@@ -2209,7 +2209,7 @@
     "PayId": 10011,
     "Region": "Europe",
     "Amount": 30.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1000",
     "CurrencyType": "¥"
   },
@@ -2218,7 +2218,7 @@
     "PayId": 10012,
     "Region": "Europe",
     "Amount": 35.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1150",
     "CurrencyType": "¥"
   },
@@ -2227,7 +2227,7 @@
     "PayId": 10013,
     "Region": "Europe",
     "Amount": 45.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1490",
     "CurrencyType": "¥"
   },
@@ -2236,7 +2236,7 @@
     "PayId": 10014,
     "Region": "Europe",
     "Amount": 49.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1690",
     "CurrencyType": "¥"
   },
@@ -2245,7 +2245,7 @@
     "PayId": 10015,
     "Region": "Europe",
     "Amount": 62.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my2000",
     "CurrencyType": "¥"
   },
@@ -2254,7 +2254,7 @@
     "PayId": 10016,
     "Region": "Europe",
     "Amount": 78.58999633789062,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my2500",
     "CurrencyType": "¥"
   },
@@ -2263,7 +2263,7 @@
     "PayId": 10017,
     "Region": "Europe",
     "Amount": 93.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my3000",
     "CurrencyType": "¥"
   },
@@ -2272,7 +2272,7 @@
     "PayId": 10018,
     "Region": "Europe",
     "Amount": 99.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my3290",
     "CurrencyType": "¥"
   },
@@ -2281,7 +2281,7 @@
     "PayId": 10019,
     "Region": "Europe",
     "Amount": 156.58999633789062,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my5000",
     "CurrencyType": "¥"
   },
@@ -2290,7 +2290,7 @@
     "PayId": 10020,
     "Region": "Europe",
     "Amount": 313.5899963378906,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my10000",
     "CurrencyType": "¥"
   },
@@ -2299,7 +2299,7 @@
     "PayId": 1,
     "Region": "HMT",
     "Amount": 0.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay6",
     "CurrencyType": "¥"
   },
@@ -2317,7 +2317,7 @@
     "PayId": 3,
     "Region": "HMT",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay68",
     "CurrencyType": "¥"
   },
@@ -2335,7 +2335,7 @@
     "PayId": 5,
     "Region": "HMT",
     "Amount": 19.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay128",
     "CurrencyType": "¥"
   },
@@ -2344,7 +2344,7 @@
     "PayId": 6,
     "Region": "HMT",
     "Amount": 29.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay198",
     "CurrencyType": "¥"
   },
@@ -2370,8 +2370,8 @@
     "Id": 264,
     "PayId": 9,
     "Region": "HMT",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift1",
     "CurrencyType": "¥"
   },
@@ -2379,8 +2379,8 @@
     "Id": 265,
     "PayId": 10,
     "Region": "HMT",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift2",
     "CurrencyType": "¥"
   },
@@ -2388,8 +2388,8 @@
     "Id": 266,
     "PayId": 11,
     "Region": "HMT",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift3",
     "CurrencyType": "¥"
   },
@@ -2397,8 +2397,8 @@
     "Id": 267,
     "PayId": 12,
     "Region": "HMT",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift4",
     "CurrencyType": "¥"
   },
@@ -2406,8 +2406,8 @@
     "Id": 268,
     "PayId": 13,
     "Region": "HMT",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift5",
     "CurrencyType": "¥"
   },
@@ -2415,8 +2415,8 @@
     "Id": 269,
     "PayId": 14,
     "Region": "HMT",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift10",
     "CurrencyType": "¥"
   },
@@ -2451,8 +2451,8 @@
     "Id": 273,
     "PayId": 18,
     "Region": "HMT",
-    "Amount": 10.0,
-    "GlobalAmount": 1.0,
+    "Amount": 10,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.bp60",
     "CurrencyType": "¥"
   },
@@ -2460,8 +2460,8 @@
     "Id": 274,
     "PayId": 19,
     "Region": "HMT",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.test",
     "CurrencyType": "¥"
   },
@@ -2470,7 +2470,7 @@
     "PayId": 20,
     "Region": "HMT",
     "Amount": 0.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift6",
     "CurrencyType": "¥"
   },
@@ -2479,7 +2479,7 @@
     "PayId": 21,
     "Region": "HMT",
     "Amount": 1.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift12",
     "CurrencyType": "¥"
   },
@@ -2488,7 +2488,7 @@
     "PayId": 22,
     "Region": "HMT",
     "Amount": 2.990000009536743,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift18",
     "CurrencyType": "¥"
   },
@@ -2497,7 +2497,7 @@
     "PayId": 23,
     "Region": "HMT",
     "Amount": 4.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift30",
     "CurrencyType": "¥"
   },
@@ -2506,7 +2506,7 @@
     "PayId": 24,
     "Region": "HMT",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift68",
     "CurrencyType": "¥"
   },
@@ -2515,7 +2515,7 @@
     "PayId": 25,
     "Region": "HMT",
     "Amount": 14.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift98",
     "CurrencyType": "¥"
   },
@@ -2524,7 +2524,7 @@
     "PayId": 26,
     "Region": "HMT",
     "Amount": 19.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift128",
     "CurrencyType": "¥"
   },
@@ -2533,7 +2533,7 @@
     "PayId": 27,
     "Region": "HMT",
     "Amount": 24.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift168",
     "CurrencyType": "¥"
   },
@@ -2542,7 +2542,7 @@
     "PayId": 28,
     "Region": "HMT",
     "Amount": 29.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift198",
     "CurrencyType": "¥"
   },
@@ -2551,7 +2551,7 @@
     "PayId": 29,
     "Region": "HMT",
     "Amount": 49.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift328",
     "CurrencyType": "¥"
   },
@@ -2560,7 +2560,7 @@
     "PayId": 30,
     "Region": "HMT",
     "Amount": 99.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift648",
     "CurrencyType": "¥"
   },
@@ -2569,7 +2569,7 @@
     "PayId": 10000,
     "Region": "HMT",
     "Amount": 0.8999999761581421,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my30",
     "CurrencyType": "¥"
   },
@@ -2578,7 +2578,7 @@
     "PayId": 10001,
     "Region": "HMT",
     "Amount": 1.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my50",
     "CurrencyType": "¥"
   },
@@ -2587,7 +2587,7 @@
     "PayId": 10002,
     "Region": "HMT",
     "Amount": 2.990000009536743,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my90",
     "CurrencyType": "¥"
   },
@@ -2596,7 +2596,7 @@
     "PayId": 10003,
     "Region": "HMT",
     "Amount": 4.590000152587891,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my150",
     "CurrencyType": "¥"
   },
@@ -2605,7 +2605,7 @@
     "PayId": 10004,
     "Region": "HMT",
     "Amount": 4.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my170",
     "CurrencyType": "¥"
   },
@@ -2614,7 +2614,7 @@
     "PayId": 10005,
     "Region": "HMT",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my300",
     "CurrencyType": "¥"
   },
@@ -2623,7 +2623,7 @@
     "PayId": 10006,
     "Region": "HMT",
     "Amount": 10.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my350",
     "CurrencyType": "¥"
   },
@@ -2632,7 +2632,7 @@
     "PayId": 10007,
     "Region": "HMT",
     "Amount": 12.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my400",
     "CurrencyType": "¥"
   },
@@ -2641,7 +2641,7 @@
     "PayId": 10008,
     "Region": "HMT",
     "Amount": 13.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my450",
     "CurrencyType": "¥"
   },
@@ -2650,7 +2650,7 @@
     "PayId": 10009,
     "Region": "HMT",
     "Amount": 15.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my500",
     "CurrencyType": "¥"
   },
@@ -2659,7 +2659,7 @@
     "PayId": 10010,
     "Region": "HMT",
     "Amount": 23.59000015258789,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my750",
     "CurrencyType": "¥"
   },
@@ -2668,7 +2668,7 @@
     "PayId": 10011,
     "Region": "HMT",
     "Amount": 30.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1000",
     "CurrencyType": "¥"
   },
@@ -2677,7 +2677,7 @@
     "PayId": 10012,
     "Region": "HMT",
     "Amount": 35.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1150",
     "CurrencyType": "¥"
   },
@@ -2686,7 +2686,7 @@
     "PayId": 10013,
     "Region": "HMT",
     "Amount": 45.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1490",
     "CurrencyType": "¥"
   },
@@ -2695,7 +2695,7 @@
     "PayId": 10014,
     "Region": "HMT",
     "Amount": 49.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1690",
     "CurrencyType": "¥"
   },
@@ -2704,7 +2704,7 @@
     "PayId": 10015,
     "Region": "HMT",
     "Amount": 62.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my2000",
     "CurrencyType": "¥"
   },
@@ -2713,7 +2713,7 @@
     "PayId": 10016,
     "Region": "HMT",
     "Amount": 78.58999633789062,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my2500",
     "CurrencyType": "¥"
   },
@@ -2722,7 +2722,7 @@
     "PayId": 10017,
     "Region": "HMT",
     "Amount": 93.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my3000",
     "CurrencyType": "¥"
   },
@@ -2731,7 +2731,7 @@
     "PayId": 10018,
     "Region": "HMT",
     "Amount": 99.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my3290",
     "CurrencyType": "¥"
   },
@@ -2740,7 +2740,7 @@
     "PayId": 10019,
     "Region": "HMT",
     "Amount": 156.58999633789062,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my5000",
     "CurrencyType": "¥"
   },
@@ -2749,7 +2749,7 @@
     "PayId": 10020,
     "Region": "HMT",
     "Amount": 313.5899963378906,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my10000",
     "CurrencyType": "¥"
   },
@@ -2758,7 +2758,7 @@
     "PayId": 1,
     "Region": "Default",
     "Amount": 0.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay6",
     "CurrencyType": "¥"
   },
@@ -2776,7 +2776,7 @@
     "PayId": 3,
     "Region": "Default",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay68",
     "CurrencyType": "¥"
   },
@@ -2794,7 +2794,7 @@
     "PayId": 5,
     "Region": "Default",
     "Amount": 19.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay128",
     "CurrencyType": "¥"
   },
@@ -2803,7 +2803,7 @@
     "PayId": 6,
     "Region": "Default",
     "Amount": 29.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay198",
     "CurrencyType": "¥"
   },
@@ -2829,8 +2829,8 @@
     "Id": 315,
     "PayId": 9,
     "Region": "Default",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift1",
     "CurrencyType": "¥"
   },
@@ -2838,8 +2838,8 @@
     "Id": 316,
     "PayId": 10,
     "Region": "Default",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift2",
     "CurrencyType": "¥"
   },
@@ -2847,8 +2847,8 @@
     "Id": 317,
     "PayId": 11,
     "Region": "Default",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift3",
     "CurrencyType": "¥"
   },
@@ -2856,8 +2856,8 @@
     "Id": 318,
     "PayId": 12,
     "Region": "Default",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift4",
     "CurrencyType": "¥"
   },
@@ -2865,8 +2865,8 @@
     "Id": 319,
     "PayId": 13,
     "Region": "Default",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift5",
     "CurrencyType": "¥"
   },
@@ -2874,8 +2874,8 @@
     "Id": 320,
     "PayId": 14,
     "Region": "Default",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift10",
     "CurrencyType": "¥"
   },
@@ -2910,8 +2910,8 @@
     "Id": 324,
     "PayId": 18,
     "Region": "Default",
-    "Amount": 10.0,
-    "GlobalAmount": 1.0,
+    "Amount": 10,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.bp60",
     "CurrencyType": "¥"
   },
@@ -2919,8 +2919,8 @@
     "Id": 325,
     "PayId": 19,
     "Region": "Default",
-    "Amount": 1.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.test",
     "CurrencyType": "¥"
   },
@@ -2929,7 +2929,7 @@
     "PayId": 20,
     "Region": "Default",
     "Amount": 0.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift6",
     "CurrencyType": "¥"
   },
@@ -2938,7 +2938,7 @@
     "PayId": 21,
     "Region": "Default",
     "Amount": 1.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift12",
     "CurrencyType": "¥"
   },
@@ -2947,7 +2947,7 @@
     "PayId": 22,
     "Region": "Default",
     "Amount": 2.990000009536743,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift18",
     "CurrencyType": "¥"
   },
@@ -2956,7 +2956,7 @@
     "PayId": 23,
     "Region": "Default",
     "Amount": 4.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift30",
     "CurrencyType": "¥"
   },
@@ -2965,7 +2965,7 @@
     "PayId": 24,
     "Region": "Default",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift68",
     "CurrencyType": "¥"
   },
@@ -2974,7 +2974,7 @@
     "PayId": 25,
     "Region": "Default",
     "Amount": 14.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift98",
     "CurrencyType": "¥"
   },
@@ -2983,7 +2983,7 @@
     "PayId": 26,
     "Region": "Default",
     "Amount": 19.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift128",
     "CurrencyType": "¥"
   },
@@ -2992,7 +2992,7 @@
     "PayId": 27,
     "Region": "Default",
     "Amount": 24.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift168",
     "CurrencyType": "¥"
   },
@@ -3001,7 +3001,7 @@
     "PayId": 28,
     "Region": "Default",
     "Amount": 29.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift198",
     "CurrencyType": "¥"
   },
@@ -3010,7 +3010,7 @@
     "PayId": 29,
     "Region": "Default",
     "Amount": 49.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift328",
     "CurrencyType": "¥"
   },
@@ -3019,7 +3019,7 @@
     "PayId": 30,
     "Region": "Default",
     "Amount": 99.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.gift648",
     "CurrencyType": "¥"
   },
@@ -3028,7 +3028,7 @@
     "PayId": 10000,
     "Region": "Default",
     "Amount": 0.8999999761581421,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my30",
     "CurrencyType": "¥"
   },
@@ -3037,7 +3037,7 @@
     "PayId": 10001,
     "Region": "Default",
     "Amount": 1.9900000095367432,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my50",
     "CurrencyType": "¥"
   },
@@ -3046,7 +3046,7 @@
     "PayId": 10002,
     "Region": "Default",
     "Amount": 2.990000009536743,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my90",
     "CurrencyType": "¥"
   },
@@ -3055,7 +3055,7 @@
     "PayId": 10003,
     "Region": "Default",
     "Amount": 4.590000152587891,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my150",
     "CurrencyType": "¥"
   },
@@ -3064,7 +3064,7 @@
     "PayId": 10004,
     "Region": "Default",
     "Amount": 4.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my170",
     "CurrencyType": "¥"
   },
@@ -3073,7 +3073,7 @@
     "PayId": 10005,
     "Region": "Default",
     "Amount": 9.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my300",
     "CurrencyType": "¥"
   },
@@ -3082,7 +3082,7 @@
     "PayId": 10006,
     "Region": "Default",
     "Amount": 10.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my350",
     "CurrencyType": "¥"
   },
@@ -3091,7 +3091,7 @@
     "PayId": 10007,
     "Region": "Default",
     "Amount": 12.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my400",
     "CurrencyType": "¥"
   },
@@ -3100,7 +3100,7 @@
     "PayId": 10008,
     "Region": "Default",
     "Amount": 13.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my450",
     "CurrencyType": "¥"
   },
@@ -3109,7 +3109,7 @@
     "PayId": 10009,
     "Region": "Default",
     "Amount": 15.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my500",
     "CurrencyType": "¥"
   },
@@ -3118,7 +3118,7 @@
     "PayId": 10010,
     "Region": "Default",
     "Amount": 23.59000015258789,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my750",
     "CurrencyType": "¥"
   },
@@ -3127,7 +3127,7 @@
     "PayId": 10011,
     "Region": "Default",
     "Amount": 30.989999771118164,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1000",
     "CurrencyType": "¥"
   },
@@ -3136,7 +3136,7 @@
     "PayId": 10012,
     "Region": "Default",
     "Amount": 35.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1150",
     "CurrencyType": "¥"
   },
@@ -3145,7 +3145,7 @@
     "PayId": 10013,
     "Region": "Default",
     "Amount": 45.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1490",
     "CurrencyType": "¥"
   },
@@ -3154,7 +3154,7 @@
     "PayId": 10014,
     "Region": "Default",
     "Amount": 49.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my1690",
     "CurrencyType": "¥"
   },
@@ -3163,7 +3163,7 @@
     "PayId": 10015,
     "Region": "Default",
     "Amount": 62.9900016784668,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my2000",
     "CurrencyType": "¥"
   },
@@ -3172,7 +3172,7 @@
     "PayId": 10016,
     "Region": "Default",
     "Amount": 78.58999633789062,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my2500",
     "CurrencyType": "¥"
   },
@@ -3181,7 +3181,7 @@
     "PayId": 10017,
     "Region": "Default",
     "Amount": 93.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my3000",
     "CurrencyType": "¥"
   },
@@ -3190,7 +3190,7 @@
     "PayId": 10018,
     "Region": "Default",
     "Amount": 99.98999786376953,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my3290",
     "CurrencyType": "¥"
   },
@@ -3199,7 +3199,7 @@
     "PayId": 10019,
     "Region": "Default",
     "Amount": 156.58999633789062,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my5000",
     "CurrencyType": "¥"
   },
@@ -3208,7 +3208,7 @@
     "PayId": 10020,
     "Region": "Default",
     "Amount": 313.5899963378906,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.wutheringwaves.my10000",
     "CurrencyType": "¥"
   },
@@ -3216,8 +3216,8 @@
     "Id": 358,
     "PayId": 31,
     "Region": "China",
-    "Amount": 1296.0,
-    "GlobalAmount": 1.0,
+    "Amount": 1296,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay1296",
     "CurrencyType": "¥"
   },
@@ -3225,8 +3225,8 @@
     "Id": 359,
     "PayId": 32,
     "Region": "China",
-    "Amount": 3240.0,
-    "GlobalAmount": 1.0,
+    "Amount": 3240,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay3240",
     "CurrencyType": "¥"
   },
@@ -3234,8 +3234,8 @@
     "Id": 360,
     "PayId": 33,
     "Region": "China",
-    "Amount": 6480.0,
-    "GlobalAmount": 1.0,
+    "Amount": 6480,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay6480",
     "CurrencyType": "¥"
   },
@@ -3244,7 +3244,7 @@
     "PayId": 31,
     "Region": "SEA",
     "Amount": 199.97999572753906,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay1296",
     "CurrencyType": "¥"
   },
@@ -3253,7 +3253,7 @@
     "PayId": 32,
     "Region": "SEA",
     "Amount": 499.95001220703125,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay3240",
     "CurrencyType": "¥"
   },
@@ -3262,7 +3262,7 @@
     "PayId": 33,
     "Region": "SEA",
     "Amount": 999.9000244140625,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay6480",
     "CurrencyType": "¥"
   },
@@ -3271,7 +3271,7 @@
     "PayId": 31,
     "Region": "America",
     "Amount": 199.97999572753906,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay1296",
     "CurrencyType": "¥"
   },
@@ -3280,7 +3280,7 @@
     "PayId": 32,
     "Region": "America",
     "Amount": 499.95001220703125,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay3240",
     "CurrencyType": "¥"
   },
@@ -3289,7 +3289,7 @@
     "PayId": 33,
     "Region": "America",
     "Amount": 999.9000244140625,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay6480",
     "CurrencyType": "¥"
   },
@@ -3298,7 +3298,7 @@
     "PayId": 31,
     "Region": "Asia",
     "Amount": 199.97999572753906,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay1296",
     "CurrencyType": "¥"
   },
@@ -3307,7 +3307,7 @@
     "PayId": 32,
     "Region": "Asia",
     "Amount": 499.95001220703125,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay3240",
     "CurrencyType": "¥"
   },
@@ -3316,7 +3316,7 @@
     "PayId": 33,
     "Region": "Asia",
     "Amount": 999.9000244140625,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay6480",
     "CurrencyType": "¥"
   },
@@ -3325,7 +3325,7 @@
     "PayId": 31,
     "Region": "Europe",
     "Amount": 199.97999572753906,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay1296",
     "CurrencyType": "¥"
   },
@@ -3334,7 +3334,7 @@
     "PayId": 32,
     "Region": "Europe",
     "Amount": 499.95001220703125,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay3240",
     "CurrencyType": "¥"
   },
@@ -3343,7 +3343,7 @@
     "PayId": 33,
     "Region": "Europe",
     "Amount": 999.9000244140625,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay6480",
     "CurrencyType": "¥"
   },
@@ -3352,7 +3352,7 @@
     "PayId": 31,
     "Region": "HMT",
     "Amount": 199.97999572753906,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay1296",
     "CurrencyType": "¥"
   },
@@ -3361,7 +3361,7 @@
     "PayId": 32,
     "Region": "HMT",
     "Amount": 499.95001220703125,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay3240",
     "CurrencyType": "¥"
   },
@@ -3370,7 +3370,7 @@
     "PayId": 33,
     "Region": "HMT",
     "Amount": 999.9000244140625,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay6480",
     "CurrencyType": "¥"
   },
@@ -3379,7 +3379,7 @@
     "PayId": 31,
     "Region": "Default",
     "Amount": 199.97999572753906,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay1296",
     "CurrencyType": "¥"
   },
@@ -3388,7 +3388,7 @@
     "PayId": 32,
     "Region": "Default",
     "Amount": 499.95001220703125,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay3240",
     "CurrencyType": "¥"
   },
@@ -3397,7 +3397,7 @@
     "PayId": 33,
     "Region": "Default",
     "Amount": 999.9000244140625,
-    "GlobalAmount": 1.0,
+    "GlobalAmount": 1,
     "ProductId": "com.kurogame.aki.pay6480",
     "CurrencyType": "¥"
   }

@@ -5,13 +5,7 @@
     "Language": [
       "all"
     ],
-    "Channel": [
-      18,
-      19,
-      56,
-      161,
-      167
-    ]
+    "Channel": []
   },
   {
     "Id": 2,
@@ -19,8 +13,6 @@
     "Language": [
       "all"
     ],
-    "Channel": [
-      0
-    ]
+    "Channel": []
   }
 ]

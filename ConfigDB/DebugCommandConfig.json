@@ -2,28 +2,28 @@
   {
     "Id": 1,
     "GetTargetStage": 1,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 1,
-    "ParamEffect": null
+    "ParamEffect": []
   },
   {
     "Id": 2,
     "GetTargetStage": 1,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 2,
-    "ParamEffect": null
+    "ParamEffect": []
   },
   {
     "Id": 3,
     "GetTargetStage": 2,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 2,
-    "ParamEffect": null
+    "ParamEffect": []
   },
   {
     "Id": 4,
     "GetTargetStage": 3,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 5,
     "ParamEffect": [
       "show collision",
@@ -35,21 +35,21 @@
   {
     "Id": 5,
     "GetTargetStage": 3,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 4,
-    "ParamEffect": null
+    "ParamEffect": []
   },
   {
     "Id": 6,
     "GetTargetStage": 1,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 3,
-    "ParamEffect": null
+    "ParamEffect": []
   },
   {
     "Id": 7,
     "GetTargetStage": 0,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 0,
     "ParamEffect": [
       "Buff信息",
@@ -60,7 +60,7 @@
   {
     "Id": 8,
     "GetTargetStage": 0,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 1,
     "ParamEffect": [
       "Tag信息",
@@ -71,7 +71,7 @@
   {
     "Id": 9,
     "GetTargetStage": 0,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 2,
     "ParamEffect": [
       "属性信息1600",
@@ -81,7 +81,7 @@
   {
     "Id": 10,
     "GetTargetStage": 0,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 3,
     "ParamEffect": [
       "被攻击者",
@@ -92,7 +92,7 @@
   {
     "Id": 11,
     "GetTargetStage": 0,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 4,
     "ParamEffect": [
       "运动历史信息",
@@ -103,7 +103,7 @@
   {
     "Id": 12,
     "GetTargetStage": 0,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 5,
     "ParamEffect": [
       "所有属性信息",
@@ -114,7 +114,7 @@
   {
     "Id": 13,
     "GetTargetStage": 0,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 6,
     "ParamEffect": [
       "GE历史信息",
@@ -125,7 +125,7 @@
   {
     "Id": 14,
     "GetTargetStage": 0,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 7,
     "ParamEffect": [
       "黑板信息",
@@ -136,7 +136,7 @@
   {
     "Id": 15,
     "GetTargetStage": 0,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 8,
     "ParamEffect": [
       "添加Buff",
@@ -153,7 +153,7 @@
   {
     "Id": 16,
     "GetTargetStage": 0,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 9,
     "ParamEffect": [
       "移动参数",
@@ -164,7 +164,7 @@
   {
     "Id": 17,
     "GetTargetStage": 0,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 10,
     "ParamEffect": [
       "命令行参数",
@@ -179,7 +179,7 @@
   {
     "Id": 18,
     "GetTargetStage": 0,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 11,
     "ParamEffect": [
       "设置位置",
@@ -190,8 +190,8 @@
   {
     "Id": 19,
     "GetTargetStage": 0,
-    "ParamGetTarget": null,
+    "ParamGetTarget": [],
     "EffectStage": 12,
-    "ParamEffect": null
+    "ParamEffect": []
   }
 ]

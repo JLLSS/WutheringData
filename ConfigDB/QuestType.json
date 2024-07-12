@@ -7,7 +7,7 @@
     "TypeColor": "",
     "TextColor": "",
     "NeedRedDot": false,
-    "MapId": null
+    "MapId": []
   },
   {
     "Id": 1,
@@ -17,7 +17,7 @@
     "TypeColor": "A69B62",
     "TextColor": "F7D16E",
     "NeedRedDot": true,
-    "MapId": null
+    "MapId": []
   },
   {
     "Id": 2,
@@ -27,7 +27,7 @@
     "TypeColor": "5F89A1",
     "TextColor": "92D2E5",
     "NeedRedDot": true,
-    "MapId": null
+    "MapId": []
   },
   {
     "Id": 3,
@@ -37,7 +37,7 @@
     "TypeColor": "74669C",
     "TextColor": "A972ED",
     "NeedRedDot": true,
-    "MapId": null
+    "MapId": []
   },
   {
     "Id": 4,
@@ -47,7 +47,7 @@
     "TypeColor": "82955C",
     "TextColor": "AAD673FF",
     "NeedRedDot": true,
-    "MapId": null
+    "MapId": []
   },
   {
     "Id": 100,
@@ -86,7 +86,7 @@
     "TypeColor": "AC8C58",
     "TextColor": "DCC186",
     "NeedRedDot": true,
-    "MapId": null
+    "MapId": []
   },
   {
     "Id": 8,
@@ -96,7 +96,7 @@
     "TypeColor": "5F89A1",
     "TextColor": "92D2E5",
     "NeedRedDot": true,
-    "MapId": null
+    "MapId": []
   },
   {
     "Id": 9,
@@ -106,6 +106,6 @@
     "TypeColor": "609177",
     "TextColor": "53BE94",
     "NeedRedDot": true,
-    "MapId": null
+    "MapId": []
   }
 ]

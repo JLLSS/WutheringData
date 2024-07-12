@@ -8,24 +8,7 @@
     "OpenTreasureBoxEvent": "play_vo_sanhua_chest",
     "ScanTreasureBoxEvent": "play_vo_sanhua_scan",
     "JoinTeamEvent": "play_vo_sanhua_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_sanhua_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_sanhua_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_sanhua_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_sanhua_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_sanhua_tired",
       "play_vo_sanhua_tired_low"
@@ -38,7 +21,15 @@
       "play_vo_sanhua_rankup03",
       "play_vo_sanhua_rankup04",
       "play_vo_sanhua_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_sanhua_evasion_success",
+    "ParryEvent": "play_vo_sanhua_parry_success",
+    "EnterBattleEvent": "play_vo_sanhua_enter_battle",
+    "UnderAttackEvent": "play_vo_sanhua_behit",
+    "KnockUpEvent": "play_vo_sanhua_behit_fly",
+    "EnterGlideEvent": "play_vo_sanhua_fly",
+    "UseExploreHookEvent": "play_vo_sanhua_hook",
+    "ClimbLeapEvent": "play_vo_sanhua_jump"
   },
   {
     "Id": 1103,
@@ -49,24 +40,7 @@
     "OpenTreasureBoxEvent": "play_vo_baizhi_chest",
     "ScanTreasureBoxEvent": "play_vo_baizhi_scan",
     "JoinTeamEvent": "play_vo_baizhi_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_baizhi_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_baizhi_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_baizhi_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_baizhi_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_baizhi_tired",
       "play_vo_baizhi_tired_low"
@@ -79,7 +53,15 @@
       "play_vo_baizhi_rankup03",
       "play_vo_baizhi_rankup04",
       "play_vo_baizhi_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_baizhi_evasion_success",
+    "ParryEvent": "play_vo_baizhi_parry_success",
+    "EnterBattleEvent": "play_vo_baizhi_enter_battle",
+    "UnderAttackEvent": "play_vo_baizhi_behit",
+    "KnockUpEvent": "play_vo_baizhi_behit_fly",
+    "EnterGlideEvent": "play_vo_baizhi_fly",
+    "UseExploreHookEvent": "play_vo_baizhi_hook",
+    "ClimbLeapEvent": "play_vo_baizhi_jump"
   },
   {
     "Id": 1104,
@@ -90,24 +72,7 @@
     "OpenTreasureBoxEvent": "play_vo_lingyang_chest",
     "ScanTreasureBoxEvent": "play_vo_lingyang_scan",
     "JoinTeamEvent": "play_vo_lingyang_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_lingyang_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_lingyang_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_lingyang_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_lingyang_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_lingyang_tired",
       "play_vo_lingyang_tired_low"
@@ -120,7 +85,15 @@
       "play_vo_lingyang_rankup03",
       "play_vo_lingyang_rankup04",
       "play_vo_lingyang_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_lingyang_evasion_success",
+    "ParryEvent": "play_vo_lingyang_parry_success",
+    "EnterBattleEvent": "play_vo_lingyang_enter_battle",
+    "UnderAttackEvent": "play_vo_lingyang_behit",
+    "KnockUpEvent": "play_vo_lingyang_behit_fly",
+    "EnterGlideEvent": "play_vo_lingyang_fly",
+    "UseExploreHookEvent": "play_vo_lingyang_hook",
+    "ClimbLeapEvent": "play_vo_lingyang_jump"
   },
   {
     "Id": 1202,
@@ -131,24 +104,7 @@
     "OpenTreasureBoxEvent": "play_vo_chixia_chest",
     "ScanTreasureBoxEvent": "play_vo_chixia_scan",
     "JoinTeamEvent": "play_vo_chixia_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_chixia_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_chixia_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_chixia_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_chixia_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_chixia_tired",
       "play_vo_chixia_tired_low"
@@ -161,7 +117,15 @@
       "play_vo_chixia_rankup03",
       "play_vo_chixia_rankup04",
       "play_vo_chixia_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_chixia_evasion_success",
+    "ParryEvent": "play_vo_chixia_parry_success",
+    "EnterBattleEvent": "play_vo_chixia_enter_battle",
+    "UnderAttackEvent": "play_vo_chixia_behit",
+    "KnockUpEvent": "play_vo_chixia_behit_fly",
+    "EnterGlideEvent": "play_vo_chixia_fly",
+    "UseExploreHookEvent": "play_vo_chixia_hook",
+    "ClimbLeapEvent": "play_vo_chixia_jump"
   },
   {
     "Id": 1203,
@@ -172,24 +136,7 @@
     "OpenTreasureBoxEvent": "play_vo_anke_chest",
     "ScanTreasureBoxEvent": "play_vo_anke_scan",
     "JoinTeamEvent": "play_vo_anke_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_anke_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_anke_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_anke_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_anke_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_anke_tired",
       "play_vo_anke_tired_low"
@@ -202,7 +149,15 @@
       "play_vo_anke_rankup03",
       "play_vo_anke_rankup04",
       "play_vo_anke_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_anke_evasion_success",
+    "ParryEvent": "play_vo_anke_parry_success",
+    "EnterBattleEvent": "play_vo_anke_enter_battle",
+    "UnderAttackEvent": "play_vo_anke_behit",
+    "KnockUpEvent": "play_vo_anke_behit_fly",
+    "EnterGlideEvent": "play_vo_anke_fly",
+    "UseExploreHookEvent": "play_vo_anke_hook",
+    "ClimbLeapEvent": "play_vo_anke_jump"
   },
   {
     "Id": 1204,
@@ -213,24 +168,7 @@
     "OpenTreasureBoxEvent": "play_vo_motefei_chest",
     "ScanTreasureBoxEvent": "play_vo_motefei_scan",
     "JoinTeamEvent": "play_vo_motefei_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_motefei_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_motefei_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_motefei_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_motefei_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_motefei_tired",
       "play_vo_motefei_tired_low"
@@ -243,7 +181,15 @@
       "play_vo_motefei_rankup03",
       "play_vo_motefei_rankup04",
       "play_vo_motefei_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_motefei_evasion_success",
+    "ParryEvent": "play_vo_motefei_parry_success",
+    "EnterBattleEvent": "play_vo_motefei_enter_battle",
+    "UnderAttackEvent": "play_vo_motefei_behit",
+    "KnockUpEvent": "play_vo_motefei_behit_fly",
+    "EnterGlideEvent": "play_vo_motefei_fly",
+    "UseExploreHookEvent": "play_vo_motefei_hook",
+    "ClimbLeapEvent": "play_vo_motefei_jump"
   },
   {
     "Id": 1301,
@@ -254,24 +200,7 @@
     "OpenTreasureBoxEvent": "play_vo_kakaluo_chest",
     "ScanTreasureBoxEvent": "play_vo_kakaluo_scan",
     "JoinTeamEvent": "play_vo_kakaluo_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_kakaluo_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_kakaluo_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_kakaluo_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_kakaluo_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_kakaluo_tired",
       "play_vo_kakaluo_tired_low"
@@ -284,7 +213,15 @@
       "play_vo_kakaluo_rankup03",
       "play_vo_kakaluo_rankup04",
       "play_vo_kakaluo_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_kakaluo_evasion_success",
+    "ParryEvent": "play_vo_kakaluo_parry_success",
+    "EnterBattleEvent": "play_vo_kakaluo_enter_battle",
+    "UnderAttackEvent": "play_vo_kakaluo_behit",
+    "KnockUpEvent": "play_vo_kakaluo_behit_fly",
+    "EnterGlideEvent": "play_vo_kakaluo_fly",
+    "UseExploreHookEvent": "play_vo_kakaluo_hook",
+    "ClimbLeapEvent": "play_vo_kakaluo_jump"
   },
   {
     "Id": 1302,
@@ -295,24 +232,7 @@
     "OpenTreasureBoxEvent": "play_vo_yinlin_chest",
     "ScanTreasureBoxEvent": "play_vo_yinlin_scan",
     "JoinTeamEvent": "play_vo_yinlin_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_yinlin_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_yinlin_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_yinlin_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_yinlin_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_yinlin_tired",
       "play_vo_yinlin_tired_low"
@@ -325,7 +245,15 @@
       "play_vo_yinlin_rankup03",
       "play_vo_yinlin_rankup04",
       "play_vo_yinlin_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_yinlin_evasion_success",
+    "ParryEvent": "play_vo_yinlin_parry_success",
+    "EnterBattleEvent": "play_vo_yinlin_enter_battle",
+    "UnderAttackEvent": "play_vo_yinlin_behit",
+    "KnockUpEvent": "play_vo_yinlin_behit_fly",
+    "EnterGlideEvent": "play_vo_yinlin_fly",
+    "UseExploreHookEvent": "play_vo_yinlin_hook",
+    "ClimbLeapEvent": "play_vo_yinlin_jump"
   },
   {
     "Id": 1303,
@@ -336,24 +264,7 @@
     "OpenTreasureBoxEvent": "play_vo_yuanwu_chest",
     "ScanTreasureBoxEvent": "play_vo_yuanwu_scan",
     "JoinTeamEvent": "play_vo_yuanwu_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_yuanwu_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_yuanwu_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_yuanwu_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_yuanwu_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_yuanwu_tired",
       "play_vo_yuanwu_tired_low"
@@ -366,7 +277,15 @@
       "play_vo_yuanwu_rankup03",
       "play_vo_yuanwu_rankup04",
       "play_vo_yuanwu_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_yuanwu_evasion_success",
+    "ParryEvent": "play_vo_yuanwu_parry_success",
+    "EnterBattleEvent": "play_vo_yuanwu_enter_battle",
+    "UnderAttackEvent": "play_vo_yuanwu_behit",
+    "KnockUpEvent": "play_vo_yuanwu_behit_fly",
+    "EnterGlideEvent": "play_vo_yuanwu_fly",
+    "UseExploreHookEvent": "play_vo_yuanwu_hook",
+    "ClimbLeapEvent": "play_vo_yuanwu_jump"
   },
   {
     "Id": 1402,
@@ -377,24 +296,7 @@
     "OpenTreasureBoxEvent": "play_vo_yangyang_chest",
     "ScanTreasureBoxEvent": "play_vo_yangyang_scan",
     "JoinTeamEvent": "play_vo_yangyang_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_yangyang_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_yangyang_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_yangyang_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_yangyang_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_yangyang_tired",
       "play_vo_yangyang_tired_low"
@@ -407,7 +309,15 @@
       "play_vo_yangyang_rankup03",
       "play_vo_yangyang_rankup04",
       "play_vo_yangyang_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_yangyang_evasion_success",
+    "ParryEvent": "play_vo_yangyang_parry_success",
+    "EnterBattleEvent": "play_vo_yangyang_enter_battle",
+    "UnderAttackEvent": "play_vo_yangyang_behit",
+    "KnockUpEvent": "play_vo_yangyang_behit_fly",
+    "EnterGlideEvent": "play_vo_yangyang_fly",
+    "UseExploreHookEvent": "play_vo_yangyang_hook",
+    "ClimbLeapEvent": "play_vo_yangyang_jump"
   },
   {
     "Id": 1403,
@@ -418,24 +328,7 @@
     "OpenTreasureBoxEvent": "play_vo_qiushui_chest",
     "ScanTreasureBoxEvent": "play_vo_qiushui_scan",
     "JoinTeamEvent": "play_vo_qiushui_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_qiushui_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_qiushui_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_qiushui_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_qiushui_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_qiushui_tired",
       "play_vo_qiushui_tired_low"
@@ -448,7 +341,15 @@
       "play_vo_qiushui_rankup03",
       "play_vo_qiushui_rankup04",
       "play_vo_qiushui_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_qiushui_evasion_success",
+    "ParryEvent": "play_vo_qiushui_parry_success",
+    "EnterBattleEvent": "play_vo_qiushui_enter_battle",
+    "UnderAttackEvent": "play_vo_qiushui_behit",
+    "KnockUpEvent": "play_vo_qiushui_behit_fly",
+    "EnterGlideEvent": "play_vo_qiushui_fly",
+    "UseExploreHookEvent": "play_vo_qiushui_hook",
+    "ClimbLeapEvent": "play_vo_qiushui_jump"
   },
   {
     "Id": 1404,
@@ -459,24 +360,7 @@
     "OpenTreasureBoxEvent": "play_vo_jiyan_chest",
     "ScanTreasureBoxEvent": "play_vo_jiyan_scan",
     "JoinTeamEvent": "play_vo_jiyan_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_jiyan_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_jiyan_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_jiyan_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_jiyan_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_jiyan_tired",
       "play_vo_jiyan_tired_low"
@@ -489,7 +373,15 @@
       "play_vo_jiyan_rankup03",
       "play_vo_jiyan_rankup04",
       "play_vo_jiyan_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_jiyan_evasion_success",
+    "ParryEvent": "play_vo_jiyan_parry_success",
+    "EnterBattleEvent": "play_vo_jiyan_enter_battle",
+    "UnderAttackEvent": "play_vo_jiyan_behit",
+    "KnockUpEvent": "play_vo_jiyan_behit_fly",
+    "EnterGlideEvent": "play_vo_jiyan_fly",
+    "UseExploreHookEvent": "play_vo_jiyan_hook",
+    "ClimbLeapEvent": "play_vo_jiyan_jump"
   },
   {
     "Id": 1405,
@@ -500,24 +392,7 @@
     "OpenTreasureBoxEvent": "play_vo_jianxin_chest",
     "ScanTreasureBoxEvent": "play_vo_jianxin_scan",
     "JoinTeamEvent": "play_vo_jianxin_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_jianxin_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_jianxin_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_jianxin_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_jianxin_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_jianxin_tired",
       "play_vo_jianxin_tired_low"
@@ -530,7 +405,15 @@
       "play_vo_jianxin_rankup03",
       "play_vo_jianxin_rankup04",
       "play_vo_jianxin_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_jianxin_evasion_success",
+    "ParryEvent": "play_vo_jianxin_parry_success",
+    "EnterBattleEvent": "play_vo_jianxin_enter_battle",
+    "UnderAttackEvent": "play_vo_jianxin_behit",
+    "KnockUpEvent": "play_vo_jianxin_behit_fly",
+    "EnterGlideEvent": "play_vo_jianxin_fly",
+    "UseExploreHookEvent": "play_vo_jianxin_hook",
+    "ClimbLeapEvent": "play_vo_jianxin_jump"
   },
   {
     "Id": 1501,
@@ -541,24 +424,7 @@
     "OpenTreasureBoxEvent": "play_vo_nanzhu_chest",
     "ScanTreasureBoxEvent": "play_vo_nanzhu_scan",
     "JoinTeamEvent": "play_vo_nanzhu_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_nanzhu_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_nanzhu_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_nanzhu_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_nanzhu_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_nanzhu_tired",
       "play_vo_nanzhu_tired_low"
@@ -571,7 +437,15 @@
       "play_vo_nanzhu_rankup03",
       "play_vo_nanzhu_rankup04",
       "play_vo_nanzhu_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_nanzhu_evasion_success",
+    "ParryEvent": "play_vo_nanzhu_parry_success",
+    "EnterBattleEvent": "play_vo_nanzhu_enter_battle",
+    "UnderAttackEvent": "play_vo_nanzhu_behit",
+    "KnockUpEvent": "play_vo_nanzhu_behit_fly",
+    "EnterGlideEvent": "play_vo_nanzhu_fly",
+    "UseExploreHookEvent": "play_vo_nanzhu_hook",
+    "ClimbLeapEvent": "play_vo_nanzhu_jump"
   },
   {
     "Id": 1502,
@@ -582,24 +456,7 @@
     "OpenTreasureBoxEvent": "play_vo_nvzhu_chest",
     "ScanTreasureBoxEvent": "play_vo_nvzhu_scan",
     "JoinTeamEvent": "play_vo_nvzhu_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_nvzhu_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_nvzhu_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_nvzhu_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_nvzhu_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_nvzhu_tired",
       "play_vo_nvzhu_tired_low"
@@ -612,7 +469,15 @@
       "play_vo_nvzhu_rankup03",
       "play_vo_nvzhu_rankup04",
       "play_vo_nvzhu_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_nvzhu_evasion_success",
+    "ParryEvent": "play_vo_nvzhu_parry_success",
+    "EnterBattleEvent": "play_vo_nvzhu_enter_battle",
+    "UnderAttackEvent": "play_vo_nvzhu_behit",
+    "KnockUpEvent": "play_vo_nvzhu_behit_fly",
+    "EnterGlideEvent": "play_vo_nvzhu_fly",
+    "UseExploreHookEvent": "play_vo_nvzhu_hook",
+    "ClimbLeapEvent": "play_vo_nvzhu_jump"
   },
   {
     "Id": 1503,
@@ -623,24 +488,7 @@
     "OpenTreasureBoxEvent": "play_vo_weilinai_chest",
     "ScanTreasureBoxEvent": "play_vo_weilinai_scan",
     "JoinTeamEvent": "play_vo_weilinai_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_weilinai_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_weilinai_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_weilinai_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_weilinai_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_weilinai_tired",
       "play_vo_weilinai_tired_low"
@@ -653,7 +501,15 @@
       "play_vo_weilinai_rankup03",
       "play_vo_weilinai_rankup04",
       "play_vo_weilinai_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_weilinai_evasion_success",
+    "ParryEvent": "play_vo_weilinai_parry_success",
+    "EnterBattleEvent": "play_vo_weilinai_enter_battle",
+    "UnderAttackEvent": "play_vo_weilinai_behit",
+    "KnockUpEvent": "play_vo_weilinai_behit_fly",
+    "EnterGlideEvent": "play_vo_weilinai_fly",
+    "UseExploreHookEvent": "play_vo_weilinai_hook",
+    "ClimbLeapEvent": "play_vo_weilinai_jump"
   },
   {
     "Id": 1601,
@@ -664,24 +520,7 @@
     "OpenTreasureBoxEvent": "play_vo_taoqi_chest",
     "ScanTreasureBoxEvent": "play_vo_taoqi_scan",
     "JoinTeamEvent": "play_vo_taoqi_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_taoqi_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_taoqi_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_taoqi_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_taoqi_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_taoqi_tired",
       "play_vo_taoqi_tired_low"
@@ -694,7 +533,15 @@
       "play_vo_taoqi_rankup03",
       "play_vo_taoqi_rankup04",
       "play_vo_taoqi_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_taoqi_evasion_success",
+    "ParryEvent": "play_vo_taoqi_parry_success",
+    "EnterBattleEvent": "play_vo_taoqi_enter_battle",
+    "UnderAttackEvent": "play_vo_taoqi_behit",
+    "KnockUpEvent": "play_vo_taoqi_behit_fly",
+    "EnterGlideEvent": "play_vo_taoqi_fly",
+    "UseExploreHookEvent": "play_vo_taoqi_hook",
+    "ClimbLeapEvent": "play_vo_taoqi_jump"
   },
   {
     "Id": 1602,
@@ -705,24 +552,7 @@
     "OpenTreasureBoxEvent": "play_vo_danjin_chest",
     "ScanTreasureBoxEvent": "play_vo_danjin_scan",
     "JoinTeamEvent": "play_vo_danjin_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_danjin_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_danjin_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_danjin_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_danjin_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_danjin_tired",
       "play_vo_danjin_tired_low"
@@ -735,7 +565,15 @@
       "play_vo_danjin_rankup03",
       "play_vo_danjin_rankup04",
       "play_vo_danjin_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_danjin_evasion_success",
+    "ParryEvent": "play_vo_danjin_parry_success",
+    "EnterBattleEvent": "play_vo_danjin_enter_battle",
+    "UnderAttackEvent": "play_vo_danjin_behit",
+    "KnockUpEvent": "play_vo_danjin_behit_fly",
+    "EnterGlideEvent": "play_vo_danjin_fly",
+    "UseExploreHookEvent": "play_vo_danjin_hook",
+    "ClimbLeapEvent": "play_vo_danjin_jump"
   },
   {
     "Id": 1604,
@@ -746,24 +584,7 @@
     "OpenTreasureBoxEvent": "play_vo_nvzhu_chest",
     "ScanTreasureBoxEvent": "play_vo_nvzhu_scan",
     "JoinTeamEvent": "play_vo_nvzhu_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_nvzhu_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_nvzhu_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_nvzhu_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_nvzhu_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_nvzhu_tired",
       "play_vo_nvzhu_tired_low"
@@ -776,7 +597,15 @@
       "play_vo_nvzhu_rankup03",
       "play_vo_nvzhu_rankup04",
       "play_vo_nvzhu_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_nvzhu_evasion_success",
+    "ParryEvent": "play_vo_nvzhu_parry_success",
+    "EnterBattleEvent": "play_vo_nvzhu_enter_battle",
+    "UnderAttackEvent": "play_vo_nvzhu_behit",
+    "KnockUpEvent": "play_vo_nvzhu_behit_fly",
+    "EnterGlideEvent": "play_vo_nvzhu_fly",
+    "UseExploreHookEvent": "play_vo_nvzhu_hook",
+    "ClimbLeapEvent": "play_vo_nvzhu_jump"
   },
   {
     "Id": 1605,
@@ -787,24 +616,7 @@
     "OpenTreasureBoxEvent": "play_vo_nanzhu_chest",
     "ScanTreasureBoxEvent": "play_vo_nanzhu_scan",
     "JoinTeamEvent": "play_vo_nanzhu_join_team",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_nanzhu_hp70"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_nanzhu_hp50"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_nanzhu_hp30"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_nanzhu_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_nanzhu_tired",
       "play_vo_nanzhu_tired_low"
@@ -817,7 +629,15 @@
       "play_vo_nanzhu_rankup03",
       "play_vo_nanzhu_rankup04",
       "play_vo_nanzhu_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_nanzhu_evasion_success",
+    "ParryEvent": "play_vo_nanzhu_parry_success",
+    "EnterBattleEvent": "play_vo_nanzhu_enter_battle",
+    "UnderAttackEvent": "play_vo_nanzhu_behit",
+    "KnockUpEvent": "play_vo_nanzhu_behit_fly",
+    "EnterGlideEvent": "play_vo_nanzhu_fly",
+    "UseExploreHookEvent": "play_vo_nanzhu_hook",
+    "ClimbLeapEvent": "play_vo_nanzhu_jump"
   },
   {
     "Id": 1304,
@@ -828,24 +648,7 @@
     "OpenTreasureBoxEvent": "play_vo_jinxi_com_openbox",
     "ScanTreasureBoxEvent": "play_vo_jinxi_com_scan",
     "JoinTeamEvent": "play_vo_jinxi_sys_jointeam",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_jinxi_com_hpdown01"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_jinxi_com_hpdown02"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_jinxi_com_hpdown03"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_jinxi_com_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_jinxi_com_tired",
       "play_vo_jinxi_com_tiredlow"
@@ -858,7 +661,15 @@
       "play_vo_jinxi_sys_rankup03",
       "play_vo_jinxi_sys_rankup04",
       "play_vo_jinxi_sys_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_jinxi_bat_limitdodge",
+    "ParryEvent": "play_vo_jinxi_bat_counteratk",
+    "EnterBattleEvent": "play_vo_jinxi_com_engage",
+    "UnderAttackEvent": "play_vo_jinxi_com_behit",
+    "KnockUpEvent": "play_vo_jinxi_com_behitfly",
+    "EnterGlideEvent": "play_vo_jinxi_com_fly",
+    "UseExploreHookEvent": "play_vo_jinxi_com_hook",
+    "ClimbLeapEvent": "play_vo_jinxi_com_jump"
   },
   {
     "Id": 1205,
@@ -869,24 +680,7 @@
     "OpenTreasureBoxEvent": "play_vo_changli_com_openbox",
     "ScanTreasureBoxEvent": "play_vo_changli_com_scan",
     "JoinTeamEvent": "play_vo_changli_sys_jointeam",
-    "LostHealthEventMap": [
-      {
-        "Key": 70,
-        "Value": "play_vo_changli_com_hpdown01"
-      },
-      {
-        "Key": 50,
-        "Value": "play_vo_changli_com_hpdown02"
-      },
-      {
-        "Key": 30,
-        "Value": "play_vo_changli_com_hpdown03"
-      },
-      {
-        "Key": 0,
-        "Value": "play_vo_changli_com_die"
-      }
-    ],
+    "LostHealthEventMap": {},
     "LowStrengthEventList": [
       "play_vo_changli_com_tired",
       "play_vo_changli_com_tiredlow"
@@ -899,6 +693,78 @@
       "play_vo_changli_sys_rankup03",
       "play_vo_changli_sys_rankup04",
       "play_vo_changli_sys_rankup05"
-    ]
+    ],
+    "ExtremeDodgeEvent": "play_vo_changli_bat_limitdodge",
+    "ParryEvent": "play_vo_changli_bat_counteratk",
+    "EnterBattleEvent": "play_vo_changli_com_engage",
+    "UnderAttackEvent": "play_vo_changli_com_behit",
+    "KnockUpEvent": "play_vo_changli_com_behitfly",
+    "EnterGlideEvent": "play_vo_changli_com_fly",
+    "UseExploreHookEvent": "play_vo_changli_com_hook",
+    "ClimbLeapEvent": "play_vo_changli_com_jump"
+  },
+  {
+    "Id": 1305,
+    "Name": "xiangliyao",
+    "FastClimbEvent": "play_vo_xiangliyao_com_fastclimb",
+    "VisionMorphEvent": "play_vo_xiangliyao_bat_hxchange",
+    "VisionSummonEvent": "play_vo_xiangliyao_bat_hxsummon",
+    "OpenTreasureBoxEvent": "play_vo_xiangliyao_com_openbox",
+    "ScanTreasureBoxEvent": "play_vo_xiangliyao_com_scan",
+    "JoinTeamEvent": "play_vo_xiangliyao_sys_jointeam",
+    "LostHealthEventMap": {},
+    "LowStrengthEventList": [
+      "play_vo_xiangliyao_com_tired",
+      "play_vo_xiangliyao_com_tiredlow"
+    ],
+    "BreakUpEventList": [
+      "play_vo_xiangliyao_sys_rankup01",
+      "play_vo_xiangliyao_sys_rankup02",
+      "play_vo_xiangliyao_sys_rankup01",
+      "play_vo_xiangliyao_sys_rankup02",
+      "play_vo_xiangliyao_sys_rankup03",
+      "play_vo_xiangliyao_sys_rankup04",
+      "play_vo_xiangliyao_sys_rankup05"
+    ],
+    "ExtremeDodgeEvent": "play_vo_xiangliyao_bat_limitdodge",
+    "ParryEvent": "play_vo_xiangliyao_bat_counteratk",
+    "EnterBattleEvent": "play_vo_xiangliyao_com_engage",
+    "UnderAttackEvent": "play_vo_xiangliyao_com_behit",
+    "KnockUpEvent": "play_vo_xiangliyao_com_behitfly",
+    "EnterGlideEvent": "play_vo_xiangliyao_com_fly",
+    "UseExploreHookEvent": "play_vo_xiangliyao_com_hook",
+    "ClimbLeapEvent": "play_vo_xiangliyao_com_jump"
+  },
+  {
+    "Id": 1105,
+    "Name": "zhezhi",
+    "FastClimbEvent": "play_vo_zhezhi_com_fastclimb",
+    "VisionMorphEvent": "play_vo_zhezhi_bat_hxchange",
+    "VisionSummonEvent": "play_vo_zhezhi_bat_hxsummon",
+    "OpenTreasureBoxEvent": "play_vo_zhezhi_com_openbox",
+    "ScanTreasureBoxEvent": "play_vo_zhezhi_com_scan",
+    "JoinTeamEvent": "play_vo_zhezhi_sys_jointeam",
+    "LostHealthEventMap": {},
+    "LowStrengthEventList": [
+      "play_vo_zhezhi_com_tired",
+      "play_vo_zhezhi_com_tiredlow"
+    ],
+    "BreakUpEventList": [
+      "play_vo_zhezhi_sys_rankup01",
+      "play_vo_zhezhi_sys_rankup02",
+      "play_vo_zhezhi_sys_rankup01",
+      "play_vo_zhezhi_sys_rankup02",
+      "play_vo_zhezhi_sys_rankup03",
+      "play_vo_zhezhi_sys_rankup04",
+      "play_vo_zhezhi_sys_rankup05"
+    ],
+    "ExtremeDodgeEvent": "play_vo_zhezhi_bat_limitdodge",
+    "ParryEvent": "play_vo_zhezhi_bat_counteratk",
+    "EnterBattleEvent": "play_vo_zhezhi_com_engage",
+    "UnderAttackEvent": "play_vo_zhezhi_com_behit",
+    "KnockUpEvent": "play_vo_zhezhi_com_behitfly",
+    "EnterGlideEvent": "play_vo_zhezhi_com_fly",
+    "UseExploreHookEvent": "play_vo_zhezhi_com_hook",
+    "ClimbLeapEvent": "play_vo_zhezhi_com_jump"
   }
 ]

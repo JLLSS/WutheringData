@@ -5,12 +5,7 @@
     "Level": 0,
     "ConditionId": 0,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 3000
   },
   {
@@ -19,16 +14,7 @@
     "Level": 1,
     "ConditionId": 504001,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 3
-      },
-      {
-        "Key": 41100032,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 14000
   },
   {
@@ -37,16 +23,7 @@
     "Level": 2,
     "ConditionId": 504002,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 12
-      },
-      {
-        "Key": 41100032,
-        "Value": 12
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 54000
   },
   {
@@ -55,16 +32,7 @@
     "Level": 3,
     "ConditionId": 504003,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 6
-      },
-      {
-        "Key": 41100033,
-        "Value": 9
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 86000
   },
   {
@@ -73,7 +41,7 @@
     "Level": 4,
     "ConditionId": 504004,
     "LevelLimit": 70,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -82,16 +50,7 @@
     "Level": 2,
     "ConditionId": 504002,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 12
-      },
-      {
-        "Key": 41100032,
-        "Value": 12
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 54000
   },
   {
@@ -100,16 +59,7 @@
     "Level": 3,
     "ConditionId": 504003,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 6
-      },
-      {
-        "Key": 41100033,
-        "Value": 9
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 86000
   },
   {
@@ -118,7 +68,7 @@
     "Level": 4,
     "ConditionId": 504004,
     "LevelLimit": 70,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -127,12 +77,7 @@
     "Level": 0,
     "ConditionId": 0,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 3000
   },
   {
@@ -141,16 +86,7 @@
     "Level": 1,
     "ConditionId": 504001,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 3
-      },
-      {
-        "Key": 41100032,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 14000
   },
   {
@@ -159,16 +95,7 @@
     "Level": 4,
     "ConditionId": 504004,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 10
-      },
-      {
-        "Key": 41100033,
-        "Value": 22
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 140000
   },
   {
@@ -177,16 +104,7 @@
     "Level": 5,
     "ConditionId": 504005,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 6
-      },
-      {
-        "Key": 41100034,
-        "Value": 18
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 243000
   },
   {
@@ -195,7 +113,7 @@
     "Level": 6,
     "ConditionId": 504006,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -204,12 +122,7 @@
     "Level": 0,
     "ConditionId": 0,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 3000
   },
   {
@@ -218,16 +131,7 @@
     "Level": 1,
     "ConditionId": 504001,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 3
-      },
-      {
-        "Key": 41100032,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 14000
   },
   {
@@ -236,16 +140,7 @@
     "Level": 2,
     "ConditionId": 504002,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 12
-      },
-      {
-        "Key": 41100032,
-        "Value": 12
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 54000
   },
   {
@@ -254,16 +149,7 @@
     "Level": 3,
     "ConditionId": 504003,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 6
-      },
-      {
-        "Key": 41100033,
-        "Value": 9
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 86000
   },
   {
@@ -272,16 +158,7 @@
     "Level": 4,
     "ConditionId": 504004,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 10
-      },
-      {
-        "Key": 41100033,
-        "Value": 22
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 140000
   },
   {
@@ -290,16 +167,7 @@
     "Level": 5,
     "ConditionId": 504005,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 6
-      },
-      {
-        "Key": 41100034,
-        "Value": 18
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 243000
   },
   {
@@ -308,7 +176,7 @@
     "Level": 6,
     "ConditionId": 504006,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -317,12 +185,7 @@
     "Level": 0,
     "ConditionId": 0,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 3000
   },
   {
@@ -331,16 +194,7 @@
     "Level": 1,
     "ConditionId": 504001,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 3
-      },
-      {
-        "Key": 41100032,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 14000
   },
   {
@@ -349,16 +203,7 @@
     "Level": 2,
     "ConditionId": 504002,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 12
-      },
-      {
-        "Key": 41100032,
-        "Value": 12
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 54000
   },
   {
@@ -367,16 +212,7 @@
     "Level": 3,
     "ConditionId": 504003,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 6
-      },
-      {
-        "Key": 41100033,
-        "Value": 9
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 86000
   },
   {
@@ -385,16 +221,7 @@
     "Level": 4,
     "ConditionId": 504004,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 10
-      },
-      {
-        "Key": 41100033,
-        "Value": 22
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 140000
   },
   {
@@ -403,16 +230,7 @@
     "Level": 5,
     "ConditionId": 504005,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 6
-      },
-      {
-        "Key": 41100034,
-        "Value": 18
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 243000
   },
   {
@@ -421,7 +239,7 @@
     "Level": 6,
     "ConditionId": 504006,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -430,12 +248,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100011,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 10000
   },
   {
@@ -444,16 +257,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020041,
-        "Value": 6
-      },
-      {
-        "Key": 41100012,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 20000
   },
   {
@@ -462,16 +266,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020042,
-        "Value": 8
-      },
-      {
-        "Key": 41100013,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 40000
   },
   {
@@ -480,16 +275,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020043,
-        "Value": 6
-      },
-      {
-        "Key": 41100013,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 60000
   },
   {
@@ -498,16 +284,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 8
-      },
-      {
-        "Key": 41100014,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 80000
   },
   {
@@ -516,16 +293,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 12
-      },
-      {
-        "Key": 41100014,
-        "Value": 8
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 120000
   },
   {
@@ -534,7 +302,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -543,12 +311,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 10000
   },
   {
@@ -557,16 +320,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020011,
-        "Value": 6
-      },
-      {
-        "Key": 41100022,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 20000
   },
   {
@@ -575,16 +329,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 6
-      },
-      {
-        "Key": 41100023,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 60000
   },
   {
@@ -593,16 +338,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 8
-      },
-      {
-        "Key": 41100024,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 80000
   },
   {
@@ -611,16 +347,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 12
-      },
-      {
-        "Key": 41100024,
-        "Value": 8
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 120000
   },
   {
@@ -629,7 +356,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -638,12 +365,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 10000
   },
   {
@@ -652,16 +374,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020021,
-        "Value": 6
-      },
-      {
-        "Key": 41100032,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 20000
   },
   {
@@ -670,16 +383,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020023,
-        "Value": 6
-      },
-      {
-        "Key": 41100033,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 60000
   },
   {
@@ -688,16 +392,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 8
-      },
-      {
-        "Key": 41100034,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 80000
   },
   {
@@ -706,16 +401,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 12
-      },
-      {
-        "Key": 41100034,
-        "Value": 8
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 120000
   },
   {
@@ -724,7 +410,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -733,12 +419,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 10000
   },
   {
@@ -747,16 +428,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020051,
-        "Value": 6
-      },
-      {
-        "Key": 41100022,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 20000
   },
   {
@@ -765,16 +437,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020053,
-        "Value": 6
-      },
-      {
-        "Key": 41100023,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 60000
   },
   {
@@ -783,16 +446,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 8
-      },
-      {
-        "Key": 41100024,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 80000
   },
   {
@@ -801,16 +455,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 12
-      },
-      {
-        "Key": 41100024,
-        "Value": 8
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 120000
   },
   {
@@ -819,7 +464,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -828,12 +473,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 10000
   },
   {
@@ -842,16 +482,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020031,
-        "Value": 6
-      },
-      {
-        "Key": 41100032,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 20000
   },
   {
@@ -860,16 +491,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020033,
-        "Value": 6
-      },
-      {
-        "Key": 41100033,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 60000
   },
   {
@@ -878,16 +500,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 8
-      },
-      {
-        "Key": 41100034,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 80000
   },
   {
@@ -896,16 +509,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 12
-      },
-      {
-        "Key": 41100034,
-        "Value": 8
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 120000
   },
   {
@@ -914,7 +518,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -923,12 +527,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100011,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -937,16 +536,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020043,
-        "Value": 5
-      },
-      {
-        "Key": 41100013,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -955,16 +545,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 7
-      },
-      {
-        "Key": 41100014,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -973,16 +554,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 10
-      },
-      {
-        "Key": 41100014,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -991,7 +563,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -1000,12 +572,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -1014,16 +581,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020011,
-        "Value": 5
-      },
-      {
-        "Key": 41100022,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -1032,16 +590,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -1050,16 +599,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 7
-      },
-      {
-        "Key": 41100024,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -1068,16 +608,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 10
-      },
-      {
-        "Key": 41100024,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -1086,7 +617,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -1095,12 +626,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -1109,16 +635,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020021,
-        "Value": 5
-      },
-      {
-        "Key": 41100032,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -1127,16 +644,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020023,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -1145,16 +653,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 7
-      },
-      {
-        "Key": 41100034,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -1163,16 +662,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 10
-      },
-      {
-        "Key": 41100034,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -1181,7 +671,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -1190,12 +680,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -1204,16 +689,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020051,
-        "Value": 5
-      },
-      {
-        "Key": 41100022,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -1222,16 +698,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020053,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -1240,16 +707,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 7
-      },
-      {
-        "Key": 41100024,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -1258,16 +716,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 10
-      },
-      {
-        "Key": 41100024,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -1276,7 +725,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -1285,12 +734,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -1299,16 +743,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020031,
-        "Value": 5
-      },
-      {
-        "Key": 41100032,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -1317,16 +752,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020033,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -1335,16 +761,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 7
-      },
-      {
-        "Key": 41100034,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -1353,16 +770,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 10
-      },
-      {
-        "Key": 41100034,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -1371,7 +779,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -1380,12 +788,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100011,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -1394,16 +797,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020041,
-        "Value": 5
-      },
-      {
-        "Key": 41100012,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -1412,16 +806,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 7
-      },
-      {
-        "Key": 41100014,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -1430,16 +815,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 10
-      },
-      {
-        "Key": 41100014,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -1448,7 +824,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -1457,12 +833,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -1471,16 +842,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020011,
-        "Value": 5
-      },
-      {
-        "Key": 41100022,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -1489,16 +851,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 7
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -1507,16 +860,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -1525,16 +869,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 7
-      },
-      {
-        "Key": 41100024,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -1543,16 +878,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 10
-      },
-      {
-        "Key": 41100024,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -1561,7 +887,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -1570,12 +896,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -1584,16 +905,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020021,
-        "Value": 5
-      },
-      {
-        "Key": 41100032,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -1602,16 +914,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020022,
-        "Value": 7
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -1620,16 +923,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020023,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -1638,16 +932,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 7
-      },
-      {
-        "Key": 41100034,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -1656,16 +941,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 10
-      },
-      {
-        "Key": 41100034,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -1674,7 +950,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -1683,12 +959,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -1697,16 +968,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020051,
-        "Value": 5
-      },
-      {
-        "Key": 41100022,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -1715,16 +977,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020052,
-        "Value": 7
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -1733,16 +986,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020053,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -1751,16 +995,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 7
-      },
-      {
-        "Key": 41100024,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -1769,7 +1004,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -1778,12 +1013,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -1792,16 +1022,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020031,
-        "Value": 5
-      },
-      {
-        "Key": 41100032,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -1810,16 +1031,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020032,
-        "Value": 7
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -1828,16 +1040,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020033,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -1846,16 +1049,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 7
-      },
-      {
-        "Key": 41100034,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -1864,16 +1058,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 10
-      },
-      {
-        "Key": 41100034,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -1882,7 +1067,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -1891,12 +1076,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100011,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -1905,16 +1085,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020041,
-        "Value": 5
-      },
-      {
-        "Key": 41100012,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -1923,16 +1094,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020042,
-        "Value": 7
-      },
-      {
-        "Key": 41100013,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -1941,16 +1103,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020043,
-        "Value": 5
-      },
-      {
-        "Key": 41100013,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -1959,16 +1112,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 7
-      },
-      {
-        "Key": 41100014,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -1977,16 +1121,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 10
-      },
-      {
-        "Key": 41100014,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -1995,7 +1130,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -2004,12 +1139,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -2018,16 +1148,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020011,
-        "Value": 5
-      },
-      {
-        "Key": 41100022,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -2036,16 +1157,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 7
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -2054,16 +1166,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -2072,16 +1175,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 7
-      },
-      {
-        "Key": 41100024,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -2090,16 +1184,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 10
-      },
-      {
-        "Key": 41100024,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -2108,7 +1193,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -2117,12 +1202,7 @@
     "Level": 0,
     "ConditionId": 0,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 3000
   },
   {
@@ -2131,16 +1211,7 @@
     "Level": 1,
     "ConditionId": 504001,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 3
-      },
-      {
-        "Key": 41100032,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 14000
   },
   {
@@ -2149,16 +1220,7 @@
     "Level": 2,
     "ConditionId": 504002,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 12
-      },
-      {
-        "Key": 41100032,
-        "Value": 12
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 54000
   },
   {
@@ -2167,16 +1229,7 @@
     "Level": 3,
     "ConditionId": 504003,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 6
-      },
-      {
-        "Key": 41100033,
-        "Value": 9
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 86000
   },
   {
@@ -2185,16 +1238,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 8
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 40000
   },
   {
@@ -2203,16 +1247,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020022,
-        "Value": 8
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 40000
   },
   {
@@ -2221,16 +1256,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020052,
-        "Value": 8
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 40000
   },
   {
@@ -2239,16 +1265,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020032,
-        "Value": 8
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 40000
   },
   {
@@ -2257,16 +1274,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020041,
-        "Value": 5
-      },
-      {
-        "Key": 41100012,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -2275,16 +1283,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020042,
-        "Value": 7
-      },
-      {
-        "Key": 41100013,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -2293,16 +1292,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 7
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -2311,16 +1301,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020022,
-        "Value": 7
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -2329,16 +1310,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020052,
-        "Value": 7
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -2347,16 +1319,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020032,
-        "Value": 7
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -2365,16 +1328,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020042,
-        "Value": 7
-      },
-      {
-        "Key": 41100013,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -2383,16 +1337,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020043,
-        "Value": 5
-      },
-      {
-        "Key": 41100013,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -2401,16 +1346,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 10
-      },
-      {
-        "Key": 41100024,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -2419,12 +1355,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -2433,16 +1364,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020021,
-        "Value": 5
-      },
-      {
-        "Key": 41100032,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -2451,16 +1373,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020022,
-        "Value": 7
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -2469,16 +1382,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020023,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -2487,16 +1391,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 7
-      },
-      {
-        "Key": 41100034,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -2505,16 +1400,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 10
-      },
-      {
-        "Key": 41100034,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -2523,7 +1409,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -2532,12 +1418,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -2546,16 +1427,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020051,
-        "Value": 5
-      },
-      {
-        "Key": 41100022,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -2564,16 +1436,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020052,
-        "Value": 7
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -2582,16 +1445,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020053,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -2600,16 +1454,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 7
-      },
-      {
-        "Key": 41100024,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -2618,16 +1463,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 10
-      },
-      {
-        "Key": 41100024,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -2636,7 +1472,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -2645,12 +1481,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -2659,16 +1490,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020031,
-        "Value": 5
-      },
-      {
-        "Key": 41100032,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -2677,16 +1499,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020032,
-        "Value": 7
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -2695,16 +1508,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020033,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -2713,16 +1517,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 7
-      },
-      {
-        "Key": 41100034,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -2731,16 +1526,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 10
-      },
-      {
-        "Key": 41100034,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -2749,7 +1535,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -2758,12 +1544,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100011,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -2772,16 +1553,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020041,
-        "Value": 4
-      },
-      {
-        "Key": 41100012,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -2790,16 +1562,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020042,
-        "Value": 5
-      },
-      {
-        "Key": 41100013,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -2808,16 +1571,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020043,
-        "Value": 4
-      },
-      {
-        "Key": 41100013,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -2826,16 +1580,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 5
-      },
-      {
-        "Key": 41100014,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -2844,16 +1589,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 8
-      },
-      {
-        "Key": 41100014,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -2862,7 +1598,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -2871,12 +1607,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -2885,16 +1616,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020011,
-        "Value": 4
-      },
-      {
-        "Key": 41100022,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -2903,16 +1625,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -2921,16 +1634,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 4
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -2939,16 +1643,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 5
-      },
-      {
-        "Key": 41100024,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -2957,16 +1652,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 8
-      },
-      {
-        "Key": 41100024,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -2975,7 +1661,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -2984,12 +1670,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -2998,16 +1679,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020021,
-        "Value": 4
-      },
-      {
-        "Key": 41100032,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -3016,16 +1688,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020022,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -3034,16 +1697,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020023,
-        "Value": 4
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -3052,16 +1706,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 5
-      },
-      {
-        "Key": 41100034,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -3070,16 +1715,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 8
-      },
-      {
-        "Key": 41100034,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -3088,7 +1724,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -3097,12 +1733,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -3111,16 +1742,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020051,
-        "Value": 4
-      },
-      {
-        "Key": 41100022,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -3129,16 +1751,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020052,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -3147,16 +1760,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020053,
-        "Value": 4
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -3165,16 +1769,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 5
-      },
-      {
-        "Key": 41100024,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -3183,16 +1778,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 8
-      },
-      {
-        "Key": 41100024,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -3201,7 +1787,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -3210,12 +1796,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -3224,16 +1805,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020031,
-        "Value": 4
-      },
-      {
-        "Key": 41100032,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -3242,16 +1814,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020032,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -3260,16 +1823,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020033,
-        "Value": 4
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -3278,16 +1832,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 5
-      },
-      {
-        "Key": 41100034,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -3296,16 +1841,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 8
-      },
-      {
-        "Key": 41100034,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -3314,7 +1850,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -3323,12 +1859,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100011,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -3337,16 +1868,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020041,
-        "Value": 4
-      },
-      {
-        "Key": 41100012,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -3355,16 +1877,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020042,
-        "Value": 5
-      },
-      {
-        "Key": 41100013,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -3373,16 +1886,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020043,
-        "Value": 4
-      },
-      {
-        "Key": 41100013,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -3391,16 +1895,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 5
-      },
-      {
-        "Key": 41100014,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -3409,16 +1904,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 8
-      },
-      {
-        "Key": 41100014,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -3427,7 +1913,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -3436,12 +1922,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -3450,16 +1931,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020011,
-        "Value": 4
-      },
-      {
-        "Key": 41100022,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -3468,16 +1940,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -3486,16 +1949,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 4
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -3504,16 +1958,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 5
-      },
-      {
-        "Key": 41100024,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -3522,16 +1967,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 8
-      },
-      {
-        "Key": 41100024,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -3540,7 +1976,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -3549,12 +1985,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -3563,16 +1994,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020021,
-        "Value": 4
-      },
-      {
-        "Key": 41100032,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -3581,16 +2003,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020022,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -3599,16 +2012,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020023,
-        "Value": 4
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -3617,16 +2021,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 5
-      },
-      {
-        "Key": 41100034,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -3635,16 +2030,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 8
-      },
-      {
-        "Key": 41100034,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -3653,7 +2039,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -3662,12 +2048,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -3676,16 +2057,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020051,
-        "Value": 4
-      },
-      {
-        "Key": 41100022,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -3694,16 +2066,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020052,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -3712,16 +2075,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020053,
-        "Value": 4
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -3730,16 +2084,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 5
-      },
-      {
-        "Key": 41100024,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -3748,16 +2093,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 8
-      },
-      {
-        "Key": 41100024,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -3766,7 +2102,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -3775,12 +2111,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -3789,16 +2120,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020031,
-        "Value": 4
-      },
-      {
-        "Key": 41100032,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -3807,16 +2129,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020032,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -3825,16 +2138,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020033,
-        "Value": 4
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -3843,16 +2147,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 5
-      },
-      {
-        "Key": 41100034,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -3861,16 +2156,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 8
-      },
-      {
-        "Key": 41100034,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -3879,7 +2165,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -3888,12 +2174,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100011,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 4000
   },
   {
@@ -3902,16 +2183,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020041,
-        "Value": 3
-      },
-      {
-        "Key": 41100012,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -3920,16 +2192,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020042,
-        "Value": 4
-      },
-      {
-        "Key": 41100013,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -3938,16 +2201,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020043,
-        "Value": 3
-      },
-      {
-        "Key": 41100013,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -3956,16 +2210,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 4
-      },
-      {
-        "Key": 41100014,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -3974,12 +2219,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 4000
   },
   {
@@ -3988,16 +2228,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020011,
-        "Value": 3
-      },
-      {
-        "Key": 41100022,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -4006,16 +2237,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 4
-      },
-      {
-        "Key": 41100023,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -4024,16 +2246,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 3
-      },
-      {
-        "Key": 41100023,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -4042,16 +2255,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 4
-      },
-      {
-        "Key": 41100024,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -4060,12 +2264,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 4000
   },
   {
@@ -4074,16 +2273,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020021,
-        "Value": 3
-      },
-      {
-        "Key": 41100032,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -4092,16 +2282,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020022,
-        "Value": 4
-      },
-      {
-        "Key": 41100033,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -4110,16 +2291,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020023,
-        "Value": 3
-      },
-      {
-        "Key": 41100033,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -4128,16 +2300,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 4
-      },
-      {
-        "Key": 41100034,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -4146,12 +2309,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 4000
   },
   {
@@ -4160,16 +2318,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020051,
-        "Value": 3
-      },
-      {
-        "Key": 41100022,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -4178,16 +2327,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020052,
-        "Value": 4
-      },
-      {
-        "Key": 41100023,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -4196,16 +2336,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020053,
-        "Value": 3
-      },
-      {
-        "Key": 41100023,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -4214,16 +2345,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 4
-      },
-      {
-        "Key": 41100024,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -4232,12 +2354,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 4000
   },
   {
@@ -4246,16 +2363,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020031,
-        "Value": 3
-      },
-      {
-        "Key": 41100032,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -4264,16 +2372,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020032,
-        "Value": 4
-      },
-      {
-        "Key": 41100033,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -4282,16 +2381,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020033,
-        "Value": 3
-      },
-      {
-        "Key": 41100033,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -4300,16 +2390,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 4
-      },
-      {
-        "Key": 41100034,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -4318,12 +2399,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100011,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 2000
   },
   {
@@ -4332,16 +2408,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020041,
-        "Value": 2
-      },
-      {
-        "Key": 41100012,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 4000
   },
   {
@@ -4350,16 +2417,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020042,
-        "Value": 2
-      },
-      {
-        "Key": 41100013,
-        "Value": 1
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -4368,16 +2426,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020043,
-        "Value": 2
-      },
-      {
-        "Key": 41100013,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -4386,16 +2435,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 2
-      },
-      {
-        "Key": 41100014,
-        "Value": 1
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -4404,12 +2444,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 2000
   },
   {
@@ -4418,16 +2453,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020011,
-        "Value": 2
-      },
-      {
-        "Key": 41100022,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 4000
   },
   {
@@ -4436,16 +2462,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 2
-      },
-      {
-        "Key": 41100023,
-        "Value": 1
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -4454,16 +2471,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 2
-      },
-      {
-        "Key": 41100023,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -4472,16 +2480,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 2
-      },
-      {
-        "Key": 41100024,
-        "Value": 1
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -4490,12 +2489,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 2000
   },
   {
@@ -4504,16 +2498,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020021,
-        "Value": 2
-      },
-      {
-        "Key": 41100032,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 4000
   },
   {
@@ -4522,16 +2507,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020022,
-        "Value": 2
-      },
-      {
-        "Key": 41100033,
-        "Value": 1
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -4540,16 +2516,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020023,
-        "Value": 2
-      },
-      {
-        "Key": 41100033,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -4558,16 +2525,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 2
-      },
-      {
-        "Key": 41100034,
-        "Value": 1
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -4576,12 +2534,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 2000
   },
   {
@@ -4590,16 +2543,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020051,
-        "Value": 2
-      },
-      {
-        "Key": 41100022,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 4000
   },
   {
@@ -4608,16 +2552,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020052,
-        "Value": 2
-      },
-      {
-        "Key": 41100023,
-        "Value": 1
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -4626,16 +2561,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020053,
-        "Value": 2
-      },
-      {
-        "Key": 41100023,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -4644,16 +2570,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 2
-      },
-      {
-        "Key": 41100024,
-        "Value": 1
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -4662,12 +2579,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 2000
   },
   {
@@ -4676,16 +2588,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020031,
-        "Value": 2
-      },
-      {
-        "Key": 41100032,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 4000
   },
   {
@@ -4694,16 +2597,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020032,
-        "Value": 2
-      },
-      {
-        "Key": 41100033,
-        "Value": 1
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -4712,16 +2606,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020033,
-        "Value": 2
-      },
-      {
-        "Key": 41100033,
-        "Value": 2
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -4730,16 +2615,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 2
-      },
-      {
-        "Key": 41100034,
-        "Value": 1
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -4748,12 +2624,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100011,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -4762,16 +2633,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020041,
-        "Value": 4
-      },
-      {
-        "Key": 41100012,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -4780,16 +2642,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020042,
-        "Value": 5
-      },
-      {
-        "Key": 41100013,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -4798,16 +2651,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020043,
-        "Value": 4
-      },
-      {
-        "Key": 41100013,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -4816,16 +2660,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 5
-      },
-      {
-        "Key": 41100014,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -4834,16 +2669,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 8
-      },
-      {
-        "Key": 41100014,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -4852,7 +2678,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -4861,12 +2687,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -4875,16 +2696,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020011,
-        "Value": 4
-      },
-      {
-        "Key": 41100022,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -4893,16 +2705,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -4911,16 +2714,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 4
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -4929,16 +2723,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 5
-      },
-      {
-        "Key": 41100024,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -4947,16 +2732,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 8
-      },
-      {
-        "Key": 41100024,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -4965,7 +2741,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -4974,12 +2750,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -4988,16 +2759,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020031,
-        "Value": 4
-      },
-      {
-        "Key": 41100032,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -5006,16 +2768,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020032,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -5024,16 +2777,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020033,
-        "Value": 4
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -5042,16 +2786,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 5
-      },
-      {
-        "Key": 41100034,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -5060,16 +2795,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 8
-      },
-      {
-        "Key": 41100034,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -5078,7 +2804,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -5087,12 +2813,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100011,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -5101,16 +2822,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020041,
-        "Value": 4
-      },
-      {
-        "Key": 41100012,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -5119,16 +2831,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020042,
-        "Value": 5
-      },
-      {
-        "Key": 41100013,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -5137,16 +2840,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020043,
-        "Value": 4
-      },
-      {
-        "Key": 41100013,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -5155,16 +2849,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 5
-      },
-      {
-        "Key": 41100014,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -5173,16 +2858,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 8
-      },
-      {
-        "Key": 41100014,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -5191,7 +2867,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -5200,12 +2876,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -5214,16 +2885,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020011,
-        "Value": 4
-      },
-      {
-        "Key": 41100022,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -5232,16 +2894,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -5250,16 +2903,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 4
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -5268,16 +2912,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 5
-      },
-      {
-        "Key": 41100024,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -5286,16 +2921,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 8
-      },
-      {
-        "Key": 41100024,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -5304,7 +2930,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -5313,12 +2939,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -5327,16 +2948,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020021,
-        "Value": 4
-      },
-      {
-        "Key": 41100032,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -5345,16 +2957,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020022,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -5363,16 +2966,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020023,
-        "Value": 4
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -5381,16 +2975,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 5
-      },
-      {
-        "Key": 41100034,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -5399,16 +2984,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 8
-      },
-      {
-        "Key": 41100034,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -5417,7 +2993,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -5426,12 +3002,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -5440,16 +3011,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020051,
-        "Value": 4
-      },
-      {
-        "Key": 41100022,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -5458,16 +3020,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020052,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -5476,16 +3029,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020053,
-        "Value": 4
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -5494,16 +3038,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 5
-      },
-      {
-        "Key": 41100024,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -5512,16 +3047,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 8
-      },
-      {
-        "Key": 41100024,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -5530,7 +3056,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -5539,12 +3065,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -5553,16 +3074,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020031,
-        "Value": 4
-      },
-      {
-        "Key": 41100032,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -5571,16 +3083,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020032,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -5589,16 +3092,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020033,
-        "Value": 4
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -5607,16 +3101,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 5
-      },
-      {
-        "Key": 41100034,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -5625,16 +3110,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 8
-      },
-      {
-        "Key": 41100034,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -5643,7 +3119,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -5652,12 +3128,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100011,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -5666,16 +3137,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020041,
-        "Value": 5
-      },
-      {
-        "Key": 41100012,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -5684,16 +3146,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020042,
-        "Value": 7
-      },
-      {
-        "Key": 41100013,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -5702,16 +3155,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020043,
-        "Value": 5
-      },
-      {
-        "Key": 41100013,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -5720,16 +3164,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 7
-      },
-      {
-        "Key": 41100014,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -5738,16 +3173,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 10
-      },
-      {
-        "Key": 41100014,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -5756,7 +3182,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -5765,12 +3191,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -5779,16 +3200,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020011,
-        "Value": 5
-      },
-      {
-        "Key": 41100022,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -5797,16 +3209,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 7
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -5815,16 +3218,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -5833,16 +3227,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 7
-      },
-      {
-        "Key": 41100024,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -5851,16 +3236,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 10
-      },
-      {
-        "Key": 41100024,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -5869,7 +3245,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -5878,12 +3254,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -5892,16 +3263,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020021,
-        "Value": 5
-      },
-      {
-        "Key": 41100032,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -5910,16 +3272,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020022,
-        "Value": 7
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -5928,16 +3281,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020023,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -5946,16 +3290,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 7
-      },
-      {
-        "Key": 41100034,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -5964,16 +3299,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 10
-      },
-      {
-        "Key": 41100034,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -5982,7 +3308,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -5991,12 +3317,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -6005,16 +3326,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020051,
-        "Value": 5
-      },
-      {
-        "Key": 41100022,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -6023,16 +3335,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020052,
-        "Value": 7
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -6041,16 +3344,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020053,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -6059,16 +3353,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 7
-      },
-      {
-        "Key": 41100024,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -6077,16 +3362,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 10
-      },
-      {
-        "Key": 41100024,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -6095,7 +3371,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -6104,12 +3380,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100011,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -6118,16 +3389,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020041,
-        "Value": 5
-      },
-      {
-        "Key": 41100012,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -6136,16 +3398,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020042,
-        "Value": 7
-      },
-      {
-        "Key": 41100013,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -6154,16 +3407,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020043,
-        "Value": 5
-      },
-      {
-        "Key": 41100013,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -6172,16 +3416,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 7
-      },
-      {
-        "Key": 41100014,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -6190,16 +3425,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 10
-      },
-      {
-        "Key": 41100014,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -6208,7 +3434,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -6217,12 +3443,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -6231,16 +3452,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020011,
-        "Value": 5
-      },
-      {
-        "Key": 41100022,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -6249,16 +3461,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 7
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -6267,16 +3470,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -6285,16 +3479,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 7
-      },
-      {
-        "Key": 41100024,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -6303,16 +3488,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 10
-      },
-      {
-        "Key": 41100024,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -6321,7 +3497,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -6330,12 +3506,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -6344,16 +3515,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020021,
-        "Value": 5
-      },
-      {
-        "Key": 41100032,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -6362,16 +3524,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020022,
-        "Value": 7
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -6380,16 +3533,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020023,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -6398,16 +3542,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 7
-      },
-      {
-        "Key": 41100034,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -6416,16 +3551,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 10
-      },
-      {
-        "Key": 41100034,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -6434,7 +3560,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -6443,12 +3569,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -6457,16 +3578,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020031,
-        "Value": 5
-      },
-      {
-        "Key": 41100032,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -6475,16 +3587,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020032,
-        "Value": 7
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -6493,16 +3596,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020033,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -6511,16 +3605,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 7
-      },
-      {
-        "Key": 41100034,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -6529,16 +3614,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 10
-      },
-      {
-        "Key": 41100034,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -6547,7 +3623,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -6556,12 +3632,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100011,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -6570,16 +3641,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020041,
-        "Value": 5
-      },
-      {
-        "Key": 41100012,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -6588,16 +3650,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020042,
-        "Value": 7
-      },
-      {
-        "Key": 41100013,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -6606,16 +3659,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020043,
-        "Value": 5
-      },
-      {
-        "Key": 41100013,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -6624,16 +3668,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 7
-      },
-      {
-        "Key": 41100014,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -6642,16 +3677,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 10
-      },
-      {
-        "Key": 41100014,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -6660,7 +3686,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -6669,12 +3695,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -6683,16 +3704,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020011,
-        "Value": 5
-      },
-      {
-        "Key": 41100022,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -6701,16 +3713,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 7
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -6719,16 +3722,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -6737,16 +3731,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 7
-      },
-      {
-        "Key": 41100024,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -6755,16 +3740,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 10
-      },
-      {
-        "Key": 41100024,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -6773,7 +3749,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -6782,12 +3758,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -6796,16 +3767,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020021,
-        "Value": 5
-      },
-      {
-        "Key": 41100032,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -6814,16 +3776,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020022,
-        "Value": 7
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -6832,16 +3785,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020023,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -6850,16 +3794,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 7
-      },
-      {
-        "Key": 41100034,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -6868,16 +3803,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 10
-      },
-      {
-        "Key": 41100034,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -6886,7 +3812,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -6895,12 +3821,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -6909,16 +3830,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020051,
-        "Value": 5
-      },
-      {
-        "Key": 41100022,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -6927,16 +3839,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020052,
-        "Value": 7
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -6945,16 +3848,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020053,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -6963,16 +3857,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 7
-      },
-      {
-        "Key": 41100024,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -6981,16 +3866,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 10
-      },
-      {
-        "Key": 41100024,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -6999,7 +3875,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -7008,12 +3884,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -7022,16 +3893,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020031,
-        "Value": 5
-      },
-      {
-        "Key": 41100032,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -7040,16 +3902,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020032,
-        "Value": 7
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -7058,16 +3911,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020033,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -7076,16 +3920,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 7
-      },
-      {
-        "Key": 41100034,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -7094,16 +3929,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 10
-      },
-      {
-        "Key": 41100034,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -7112,7 +3938,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -7121,12 +3947,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100011,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 10000
   },
   {
@@ -7135,16 +3956,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020041,
-        "Value": 6
-      },
-      {
-        "Key": 41100012,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 20000
   },
   {
@@ -7153,16 +3965,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020042,
-        "Value": 8
-      },
-      {
-        "Key": 41100013,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 40000
   },
   {
@@ -7171,16 +3974,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020043,
-        "Value": 6
-      },
-      {
-        "Key": 41100013,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 60000
   },
   {
@@ -7189,16 +3983,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 8
-      },
-      {
-        "Key": 41100014,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 80000
   },
   {
@@ -7207,16 +3992,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 12
-      },
-      {
-        "Key": 41100014,
-        "Value": 8
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 120000
   },
   {
@@ -7225,7 +4001,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -7234,12 +4010,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 10000
   },
   {
@@ -7248,16 +4019,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020031,
-        "Value": 6
-      },
-      {
-        "Key": 41100032,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 20000
   },
   {
@@ -7266,16 +4028,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020032,
-        "Value": 8
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 40000
   },
   {
@@ -7284,16 +4037,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020033,
-        "Value": 6
-      },
-      {
-        "Key": 41100033,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 60000
   },
   {
@@ -7302,16 +4046,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 8
-      },
-      {
-        "Key": 41100034,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 80000
   },
   {
@@ -7320,16 +4055,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020034,
-        "Value": 12
-      },
-      {
-        "Key": 41100034,
-        "Value": 8
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 120000
   },
   {
@@ -7338,7 +4064,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -7347,12 +4073,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100031,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -7361,16 +4082,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020021,
-        "Value": 4
-      },
-      {
-        "Key": 41100032,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -7379,16 +4091,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020022,
-        "Value": 5
-      },
-      {
-        "Key": 41100033,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -7397,16 +4100,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020023,
-        "Value": 4
-      },
-      {
-        "Key": 41100033,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -7415,16 +4109,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 5
-      },
-      {
-        "Key": 41100034,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -7433,16 +4118,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020024,
-        "Value": 8
-      },
-      {
-        "Key": 41100034,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -7451,7 +4127,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -7460,12 +4136,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -7474,16 +4145,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020051,
-        "Value": 4
-      },
-      {
-        "Key": 41100022,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -7492,16 +4154,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020052,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -7510,16 +4163,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020053,
-        "Value": 4
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -7528,16 +4172,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 5
-      },
-      {
-        "Key": 41100024,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -7546,16 +4181,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 8
-      },
-      {
-        "Key": 41100024,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -7564,7 +4190,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -7573,12 +4199,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 8000
   },
   {
@@ -7587,16 +4208,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020051,
-        "Value": 5
-      },
-      {
-        "Key": 41100022,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 16000
   },
   {
@@ -7605,16 +4217,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020052,
-        "Value": 7
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 32000
   },
   {
@@ -7623,16 +4226,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020053,
-        "Value": 5
-      },
-      {
-        "Key": 41100023,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -7641,16 +4235,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 7
-      },
-      {
-        "Key": 41100024,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 64000
   },
   {
@@ -7659,16 +4244,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020054,
-        "Value": 10
-      },
-      {
-        "Key": 41100024,
-        "Value": 7
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 96000
   },
   {
@@ -7677,7 +4253,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -7686,12 +4262,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100011,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 10000
   },
   {
@@ -7700,16 +4271,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020041,
-        "Value": 6
-      },
-      {
-        "Key": 41100012,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 20000
   },
   {
@@ -7718,16 +4280,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020042,
-        "Value": 8
-      },
-      {
-        "Key": 41100013,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 40000
   },
   {
@@ -7736,16 +4289,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020043,
-        "Value": 6
-      },
-      {
-        "Key": 41100013,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 60000
   },
   {
@@ -7754,16 +4298,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 8
-      },
-      {
-        "Key": 41100014,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 80000
   },
   {
@@ -7772,16 +4307,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 12
-      },
-      {
-        "Key": 41100014,
-        "Value": 8
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 120000
   },
   {
@@ -7790,7 +4316,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -7799,12 +4325,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100021,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 10000
   },
   {
@@ -7813,16 +4334,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020011,
-        "Value": 6
-      },
-      {
-        "Key": 41100022,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 20000
   },
   {
@@ -7831,16 +4343,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020012,
-        "Value": 8
-      },
-      {
-        "Key": 41100023,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 40000
   },
   {
@@ -7849,16 +4352,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020013,
-        "Value": 6
-      },
-      {
-        "Key": 41100023,
-        "Value": 6
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 60000
   },
   {
@@ -7867,16 +4361,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 8
-      },
-      {
-        "Key": 41100024,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 80000
   },
   {
@@ -7885,16 +4370,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020014,
-        "Value": 12
-      },
-      {
-        "Key": 41100024,
-        "Value": 8
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 120000
   },
   {
@@ -7903,7 +4379,7 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
     "GoldConsume": 0
   },
   {
@@ -7912,12 +4388,7 @@
     "Level": 0,
     "ConditionId": 504002,
     "LevelLimit": 20,
-    "Consume": [
-      {
-        "Key": 41100011,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 6000
   },
   {
@@ -7926,16 +4397,7 @@
     "Level": 1,
     "ConditionId": 504003,
     "LevelLimit": 40,
-    "Consume": [
-      {
-        "Key": 43020041,
-        "Value": 4
-      },
-      {
-        "Key": 41100012,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 12000
   },
   {
@@ -7944,16 +4406,7 @@
     "Level": 2,
     "ConditionId": 504004,
     "LevelLimit": 50,
-    "Consume": [
-      {
-        "Key": 43020042,
-        "Value": 5
-      },
-      {
-        "Key": 41100013,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 24000
   },
   {
@@ -7962,16 +4415,7 @@
     "Level": 3,
     "ConditionId": 504005,
     "LevelLimit": 60,
-    "Consume": [
-      {
-        "Key": 43020043,
-        "Value": 4
-      },
-      {
-        "Key": 41100013,
-        "Value": 4
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 36000
   },
   {
@@ -7980,16 +4424,7 @@
     "Level": 4,
     "ConditionId": 504006,
     "LevelLimit": 70,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 5
-      },
-      {
-        "Key": 41100014,
-        "Value": 3
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 48000
   },
   {
@@ -7998,16 +4433,7 @@
     "Level": 5,
     "ConditionId": 504007,
     "LevelLimit": 80,
-    "Consume": [
-      {
-        "Key": 43020044,
-        "Value": 8
-      },
-      {
-        "Key": 41100014,
-        "Value": 5
-      }
-    ],
+    "Consume": {},
     "GoldConsume": 72000
   },
   {
@@ -8016,7 +4442,133 @@
     "Level": 6,
     "ConditionId": 504007,
     "LevelLimit": 90,
-    "Consume": null,
+    "Consume": {},
+    "GoldConsume": 0
+  },
+  {
+    "Id": 689,
+    "BreachId": 21050026,
+    "Level": 0,
+    "ConditionId": 504002,
+    "LevelLimit": 20,
+    "Consume": {},
+    "GoldConsume": 10000
+  },
+  {
+    "Id": 690,
+    "BreachId": 21050026,
+    "Level": 1,
+    "ConditionId": 504003,
+    "LevelLimit": 40,
+    "Consume": {},
+    "GoldConsume": 20000
+  },
+  {
+    "Id": 691,
+    "BreachId": 21050026,
+    "Level": 2,
+    "ConditionId": 504004,
+    "LevelLimit": 50,
+    "Consume": {},
+    "GoldConsume": 40000
+  },
+  {
+    "Id": 692,
+    "BreachId": 21050026,
+    "Level": 3,
+    "ConditionId": 504005,
+    "LevelLimit": 60,
+    "Consume": {},
+    "GoldConsume": 60000
+  },
+  {
+    "Id": 693,
+    "BreachId": 21050026,
+    "Level": 4,
+    "ConditionId": 504006,
+    "LevelLimit": 70,
+    "Consume": {},
+    "GoldConsume": 80000
+  },
+  {
+    "Id": 694,
+    "BreachId": 21050026,
+    "Level": 5,
+    "ConditionId": 504007,
+    "LevelLimit": 80,
+    "Consume": {},
+    "GoldConsume": 120000
+  },
+  {
+    "Id": 695,
+    "BreachId": 21050026,
+    "Level": 6,
+    "ConditionId": 504007,
+    "LevelLimit": 90,
+    "Consume": {},
+    "GoldConsume": 0
+  },
+  {
+    "Id": 697,
+    "BreachId": 21040016,
+    "Level": 0,
+    "ConditionId": 504002,
+    "LevelLimit": 20,
+    "Consume": {},
+    "GoldConsume": 10000
+  },
+  {
+    "Id": 698,
+    "BreachId": 21040016,
+    "Level": 1,
+    "ConditionId": 504003,
+    "LevelLimit": 40,
+    "Consume": {},
+    "GoldConsume": 20000
+  },
+  {
+    "Id": 699,
+    "BreachId": 21040016,
+    "Level": 2,
+    "ConditionId": 504004,
+    "LevelLimit": 50,
+    "Consume": {},
+    "GoldConsume": 40000
+  },
+  {
+    "Id": 700,
+    "BreachId": 21040016,
+    "Level": 3,
+    "ConditionId": 504005,
+    "LevelLimit": 60,
+    "Consume": {},
+    "GoldConsume": 60000
+  },
+  {
+    "Id": 701,
+    "BreachId": 21040016,
+    "Level": 4,
+    "ConditionId": 504006,
+    "LevelLimit": 70,
+    "Consume": {},
+    "GoldConsume": 80000
+  },
+  {
+    "Id": 702,
+    "BreachId": 21040016,
+    "Level": 5,
+    "ConditionId": 504007,
+    "LevelLimit": 80,
+    "Consume": {},
+    "GoldConsume": 120000
+  },
+  {
+    "Id": 703,
+    "BreachId": 21040016,
+    "Level": 6,
+    "ConditionId": 504007,
+    "LevelLimit": 90,
+    "Consume": {},
     "GoldConsume": 0
   }
 ]

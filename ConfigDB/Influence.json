@@ -11,8 +11,8 @@
     "RelationCondition": 0,
     "LastRelation": 0,
     "ReputationMax": 10000,
-    "ReputationItem": null,
-    "ReputationReward": null
+    "ReputationItem": [],
+    "ReputationReward": []
   },
   {
     "Id": 1,
@@ -26,8 +26,8 @@
     "RelationCondition": 0,
     "LastRelation": 0,
     "ReputationMax": 10000,
-    "ReputationItem": null,
-    "ReputationReward": null
+    "ReputationItem": [],
+    "ReputationReward": []
   },
   {
     "Id": 2,
@@ -41,8 +41,8 @@
     "RelationCondition": 0,
     "LastRelation": 0,
     "ReputationMax": 10000,
-    "ReputationItem": null,
-    "ReputationReward": null
+    "ReputationItem": [],
+    "ReputationReward": []
   },
   {
     "Id": 3,
@@ -56,8 +56,8 @@
     "RelationCondition": 0,
     "LastRelation": 0,
     "ReputationMax": 10000,
-    "ReputationItem": null,
-    "ReputationReward": null
+    "ReputationItem": [],
+    "ReputationReward": []
   },
   {
     "Id": 4,
@@ -71,8 +71,8 @@
     "RelationCondition": 0,
     "LastRelation": 0,
     "ReputationMax": 10000,
-    "ReputationItem": null,
-    "ReputationReward": null
+    "ReputationItem": [],
+    "ReputationReward": []
   },
   {
     "Id": 5,
@@ -86,8 +86,8 @@
     "RelationCondition": 0,
     "LastRelation": 0,
     "ReputationMax": 10000,
-    "ReputationItem": null,
-    "ReputationReward": null
+    "ReputationItem": [],
+    "ReputationReward": []
   },
   {
     "Id": 6,
@@ -101,8 +101,8 @@
     "RelationCondition": 0,
     "LastRelation": 0,
     "ReputationMax": 10000,
-    "ReputationItem": null,
-    "ReputationReward": null
+    "ReputationItem": [],
+    "ReputationReward": []
   },
   {
     "Id": 7,
@@ -116,8 +116,8 @@
     "RelationCondition": 0,
     "LastRelation": 0,
     "ReputationMax": 10000,
-    "ReputationItem": null,
-    "ReputationReward": null
+    "ReputationItem": [],
+    "ReputationReward": []
   },
   {
     "Id": 8,
@@ -131,8 +131,8 @@
     "RelationCondition": 0,
     "LastRelation": 0,
     "ReputationMax": 10000,
-    "ReputationItem": null,
-    "ReputationReward": null
+    "ReputationItem": [],
+    "ReputationReward": []
   },
   {
     "Id": 9,
@@ -146,7 +146,7 @@
     "RelationCondition": 0,
     "LastRelation": 0,
     "ReputationMax": 10000,
-    "ReputationItem": null,
-    "ReputationReward": null
+    "ReputationItem": [],
+    "ReputationReward": []
   }
 ]

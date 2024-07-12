@@ -6,15 +6,10 @@
     "Desc": "MapNote_2_Desc",
     "Priority": 1,
     "Rank": 1,
-    "MarkIdMap": [
-      {
-        "Key": 1,
-        "Value": 3000
-      }
-    ],
-    "MarkId": null,
+    "MarkIdMap": {},
+    "MarkId": [],
     "ConditionId": 0,
-    "QuestIdList": null
+    "QuestIdList": []
   },
   {
     "Id": 3,
@@ -23,15 +18,10 @@
     "Desc": "MapNote_3_Desc",
     "Priority": 2,
     "Rank": 2,
-    "MarkIdMap": [
-      {
-        "Key": 1,
-        "Value": 301203
-      }
-    ],
-    "MarkId": null,
+    "MarkIdMap": {},
+    "MarkId": [],
     "ConditionId": 0,
-    "QuestIdList": null
+    "QuestIdList": []
   },
   {
     "Id": 4,
@@ -40,8 +30,8 @@
     "Desc": "WorldLevelUpgradeNotice_Mapnote",
     "Priority": 3,
     "Rank": 3,
-    "MarkIdMap": null,
-    "MarkId": null,
+    "MarkIdMap": {},
+    "MarkId": [],
     "ConditionId": 0,
     "QuestIdList": [
       880000001,
@@ -56,15 +46,10 @@
     "Desc": "HuangLongExploreLevelReward_Text",
     "Priority": 4,
     "Rank": 4,
-    "MarkIdMap": [
-      {
-        "Key": 1,
-        "Value": 3
-      }
-    ],
-    "MarkId": null,
+    "MarkIdMap": {},
+    "MarkId": [],
     "ConditionId": 0,
-    "QuestIdList": null
+    "QuestIdList": []
   },
   {
     "Id": 8,
@@ -73,9 +58,21 @@
     "Desc": "MapNote_LordGym_Desc",
     "Priority": 4,
     "Rank": 4,
-    "MarkIdMap": null,
-    "MarkId": null,
+    "MarkIdMap": {},
+    "MarkId": [],
     "ConditionId": 0,
-    "QuestIdList": null
+    "QuestIdList": []
+  },
+  {
+    "Id": 9,
+    "Type": 0,
+    "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_02_UI.SP_IconMap_Activity_02_UI",
+    "Desc": "MapNote_9_Desc",
+    "Priority": 10,
+    "Rank": 1,
+    "MarkIdMap": {},
+    "MarkId": [],
+    "ConditionId": 0,
+    "QuestIdList": []
   }
 ]

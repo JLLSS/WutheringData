@@ -10,14 +10,14 @@
       1.25
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1QunJing1Md00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000010_TypeDescrtption",
@@ -41,14 +41,14 @@
       1.25
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1QunJing2Md00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000020_TypeDescrtption",
@@ -67,19 +67,19 @@
     "Name": "MonsterHandBook_310000030_Name",
     "MeshId": 390009,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1LeilieMd00301/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000030_TypeDescrtption",
@@ -98,19 +98,19 @@
     "Name": "MonsterHandBook_310000040_Name",
     "MeshId": 390038,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1BinglieMd00201/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000040_TypeDescrtption",
@@ -129,19 +129,19 @@
     "Name": "MonsterHandBook_310000050_Name",
     "MeshId": 390047,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1FenglieMd00401/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000050_TypeDescrtption",
@@ -160,19 +160,19 @@
     "Name": "MonsterHandBook_310000060_Name",
     "MeshId": 390026,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1HuojinMd00101/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000060_TypeDescrtption",
@@ -191,19 +191,19 @@
     "Name": "MonsterHandBook_310000070_Name",
     "MeshId": 390024,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1AnjinMd00601/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000070_TypeDescrtption",
@@ -227,14 +227,14 @@
       1.25
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1HKacacaMd00101/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000080_TypeDescrtption",
@@ -253,19 +253,19 @@
     "Name": "MonsterHandBook_310000090_Name",
     "MeshId": 390048,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1GAziziMd00501/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000090_TypeDescrtption",
@@ -289,14 +289,14 @@
       1.25
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1FHuxiuxiuMd00401/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000100_TypeDescrtption",
@@ -315,19 +315,19 @@
     "Name": "MonsterHandBook_310000110_Name",
     "MeshId": 390039,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1AWukakaMd00601/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000110_TypeDescrtption",
@@ -346,19 +346,19 @@
     "Name": "MonsterHandBook_310000120_Name",
     "MeshId": 390049,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1GuguhetunMd00201/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000120_TypeDescrtption",
@@ -377,19 +377,19 @@
     "Name": "MonsterHandBook_310000130_Name",
     "MeshId": 390074,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1JiujiuhetunMd00401/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000130_TypeDescrtption",
@@ -413,14 +413,14 @@
       0.5
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00201/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000140_TypeDescrtption",
@@ -444,14 +444,14 @@
       0.5
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00101/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000150_TypeDescrtption",
@@ -475,14 +475,14 @@
       0.5
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00501/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000160_TypeDescrtption",
@@ -506,14 +506,14 @@
       0.5
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1SiXiaoMd00601/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000170_TypeDescrtption",
@@ -537,14 +537,14 @@
       1.2999999523162842
     ],
     "Position": [
-      40.0,
-      0.0,
-      -50.0
+      40,
+      0,
+      -50
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1YouyidieMd00501/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000180_TypeDescrtption",
@@ -563,19 +563,19 @@
     "Name": "MonsterHandBook_310000190_Name",
     "MeshId": 390050,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      60.0,
-      -50.0,
-      0.0
+      60,
+      -50,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1DujiaoshouMd00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000190_TypeDescrtption",
@@ -599,14 +599,14 @@
       1.75
     ],
     "Position": [
-      10.0,
-      0.0,
-      0.0
+      10,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1DundishuMd00601/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000200_TypeDescrtption",
@@ -630,14 +630,14 @@
       0.8500000238418579
     ],
     "Position": [
-      35.0,
-      -50.0,
-      0.0
+      35,
+      -50,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1ShihuaxiMd00101/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000210_TypeDescrtption",
@@ -661,14 +661,14 @@
       0.75
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1ShuimuguMd00601/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000220_TypeDescrtption",
@@ -687,25 +687,25 @@
     "Name": "MonsterHandBook_310000230_Name",
     "MeshId": 390021,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1LiufangzhemanMd00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000230_TypeDescrtption",
     "Descrtption": "MonsterHandBook_310000230_Descrtption",
     "FightSkillDescrtption": "MonsterHandBook_310000230_FightSkillDescrtption",
-    "PhantomItem": null
+    "PhantomItem": []
   },
   {
     "Id": 310000240,
@@ -713,25 +713,25 @@
     "Name": "MonsterHandBook_310000240_Name",
     "MeshId": 390022,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1LiufangzhewomanMd00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000240_TypeDescrtption",
     "Descrtption": "MonsterHandBook_310000240_Descrtption",
     "FightSkillDescrtption": "MonsterHandBook_310000240_FightSkillDescrtption",
-    "PhantomItem": null
+    "PhantomItem": []
   },
   {
     "Id": 310000250,
@@ -739,19 +739,19 @@
     "Name": "MonsterHandBook_310000250_Name",
     "MeshId": 390085,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1DaodanyuanMd00401/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000250_TypeDescrtption",
@@ -775,14 +775,14 @@
       0.8999999761581421
     ],
     "Position": [
-      50.0,
-      -50.0,
-      0.0
+      50,
+      -50,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      40.0
+      0,
+      0,
+      40
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1JingaoxieMd00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000260_TypeDescrtption",
@@ -801,19 +801,19 @@
     "Name": "MonsterHandBook_310000270_Name",
     "MeshId": 390081,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      30.0
+      0,
+      0,
+      30
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1LuguiMd00201/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000270_TypeDescrtption",
@@ -832,19 +832,19 @@
     "Name": "MonsterHandBook_310000280_Name",
     "MeshId": 390079,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      40.0,
-      -70.0,
-      0.0
+      40,
+      -70,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1BinlangMd00101/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000280_TypeDescrtption",
@@ -868,14 +868,14 @@
       0.75
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1QunJingMd00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_320000010_TypeDescrtption",
@@ -899,14 +899,14 @@
       0.800000011920929
     ],
     "Position": [
-      50.0,
-      0.0,
-      0.0
+      50,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1JingNiaoMd00301/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_320000020_TypeDescrtption",
@@ -930,14 +930,14 @@
       0.800000011920929
     ],
     "Position": [
-      50.0,
-      0.0,
-      0.0
+      50,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1JingNiaoMd00401/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_320000030_TypeDescrtption",
@@ -956,19 +956,19 @@
     "Name": "MonsterHandBook_320000040_Name",
     "MeshId": 301004,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1LeiFaMd00301/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_320000040_TypeDescrtption",
@@ -992,14 +992,14 @@
       0.8500000238418579
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1AnFaMd00601/CommonAnim/stand2.stand2",
     "TypeDescrtption": "MonsterHandBook_320000050_TypeDescrtption",
@@ -1023,14 +1023,14 @@
       0.5
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1GuangtankeMd00501/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_320000060_TypeDescrtption",
@@ -1054,14 +1054,14 @@
       0.5
     ],
     "Position": [
-      25.0,
-      0.0,
-      0.0
+      25,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1AntankeMd00601/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_320000070_TypeDescrtption",
@@ -1085,14 +1085,14 @@
       0.800000011920929
     ],
     "Position": [
-      50.0,
-      -160.0,
-      0.0
+      50,
+      -160,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1ShihuaxiMd00101/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_320000080_TypeDescrtption",
@@ -1116,14 +1116,14 @@
       0.75
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1ShuimuguMd00601/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_320000090_TypeDescrtption",
@@ -1147,14 +1147,14 @@
       0.8500000238418579
     ],
     "Position": [
-      40.0,
-      -70.0,
-      0.0
+      40,
+      -70,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1BinlangMd00601/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_320000100_TypeDescrtption",
@@ -1178,14 +1178,14 @@
       0.8999999761581421
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1DaodanyuanMd00401/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_320000110_TypeDescrtption",
@@ -1209,14 +1209,14 @@
       0.8999999761581421
     ],
     "Position": [
-      60.0,
-      -100.0,
-      0.0
+      60,
+      -100,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1JiancuxiongMd00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_320000120_TypeDescrtption",
@@ -1240,14 +1240,14 @@
       0.5
     ],
     "Position": [
-      50.0,
-      -50.0,
-      0.0
+      50,
+      -50,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1FengrenlianMd00401/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_320000130_TypeDescrtption",
@@ -1266,25 +1266,25 @@
     "Name": "MonsterHandBook_320000140_Name",
     "MeshId": 390036,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1LiufangzheleaderMd00601/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_320000140_TypeDescrtption",
     "Descrtption": "MonsterHandBook_320000140_Descrtption",
     "FightSkillDescrtption": "MonsterHandBook_320000140_FightSkillDescrtption",
-    "PhantomItem": null
+    "PhantomItem": []
   },
   {
     "Id": 320000150,
@@ -1292,25 +1292,25 @@
     "Name": "MonsterHandBook_320000150_Name",
     "MeshId": 390037,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1LiufanggongmingMd00501/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_320000150_TypeDescrtption",
     "Descrtption": "MonsterHandBook_320000150_Descrtption",
     "FightSkillDescrtption": "MonsterHandBook_320000150_FightSkillDescrtption",
-    "PhantomItem": null
+    "PhantomItem": []
   },
   {
     "Id": 320000160,
@@ -1318,25 +1318,25 @@
     "Name": "MonsterHandBook_320000160_Name",
     "MeshId": 390094,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Elite/ME1ChuxingrenMd00601/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_320000160_TypeDescrtption",
     "Descrtption": "MonsterHandBook_320000160_Descrtption",
     "FightSkillDescrtption": "MonsterHandBook_320000160_FightSkillDescrtption",
-    "PhantomItem": null
+    "PhantomItem": []
   },
   {
     "Id": 330000010,
@@ -1349,14 +1349,14 @@
       0.699999988079071
     ],
     "Position": [
-      30.0,
-      -50.0,
-      0.0
+      30,
+      -50,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00301/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_330000010_TypeDescrtption",
@@ -1380,14 +1380,14 @@
       0.699999988079071
     ],
     "Position": [
-      40.0,
-      -100.0,
-      0.0
+      40,
+      -100,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Lord/ML1QishiMd00001/CommonAnim/Layer2/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_330000020_TypeDescrtption",
@@ -1411,20 +1411,20 @@
       0.4000000059604645
     ],
     "Position": [
-      60.0,
-      0.0,
-      0.0
+      60,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      30.0
+      0,
+      0,
+      30
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Lord/ML1WuChangluMd00601/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_330000030_TypeDescrtption",
     "Descrtption": "MonsterHandBook_330000030_Descrtption",
     "FightSkillDescrtption": "MonsterHandBook_330000030_FightSkillDescrtption",
-    "PhantomItem": null
+    "PhantomItem": []
   },
   {
     "Id": 330000040,
@@ -1437,14 +1437,14 @@
       0.3499999940395355
     ],
     "Position": [
-      30.0,
-      0.0,
-      10.0
+      30,
+      0,
+      10
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Lord/ML1HuiYingMd00101/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_330000040_TypeDescrtption",
@@ -1468,14 +1468,14 @@
       0.3499999940395355
     ],
     "Position": [
-      30.0,
-      -50.0,
-      0.0
+      30,
+      -50,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Lord/ML1FerLianMd00201/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_330000050_TypeDescrtption",
@@ -1499,14 +1499,14 @@
       0.5
     ],
     "Position": [
-      40.0,
-      0.0,
-      40.0
+      40,
+      0,
+      40
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      30.0
+      0,
+      0,
+      30
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Lord/ML1AiShengGuYuanMd00501/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_330000060_TypeDescrtption",
@@ -1525,19 +1525,19 @@
     "Name": "MonsterHandBook_340000010_Name",
     "MeshId": 390008,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      20.0,
-      0.0,
-      0.0
+      20,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/Layer3/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_340000010_TypeDescrtption",
@@ -1561,14 +1561,14 @@
       0.20000000298023224
     ],
     "Position": [
-      30.0,
-      -90.0,
-      0.0
+      30,
+      -90,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      30.0
+      0,
+      0,
+      30
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Boss/MB1MingzhongzhiguiMd00201/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_340000020_TypeDescrtption",
@@ -1587,25 +1587,25 @@
     "Name": "MonsterInfo_320000170_Name",
     "MeshId": 390232,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1QunJing1Md00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000010_TypeDescrtption",
     "Descrtption": "MonsterHandBook_310000010_Descrtption",
     "FightSkillDescrtption": "MonsterHandBook_310000010_FightSkillDescrtption",
-    "PhantomItem": null
+    "PhantomItem": []
   },
   {
     "Id": 310000290,
@@ -1613,25 +1613,25 @@
     "Name": "MonsterInfo_320000290_Name",
     "MeshId": 390096,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1ZhantuanlizuMd00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_320000170_TypeDescrtption",
     "Descrtption": "MonsterHandBook_320000170_Descrtption",
     "FightSkillDescrtption": "MonsterHandBook_320000170_FightSkillDescrtption",
-    "PhantomItem": null
+    "PhantomItem": []
   },
   {
     "Id": 310000300,
@@ -1639,25 +1639,25 @@
     "Name": "MonsterInfo_310000300_Name",
     "MeshId": 390235,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1QunJing1Md00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000010_TypeDescrtption",
     "Descrtption": "MonsterHandBook_310000010_Descrtption",
     "FightSkillDescrtption": "MonsterHandBook_310000010_FightSkillDescrtption",
-    "PhantomItem": null
+    "PhantomItem": []
   },
   {
     "Id": 310000310,
@@ -1665,25 +1665,25 @@
     "Name": "MonsterInfo_310000310_Name",
     "MeshId": 390099,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1QunJing1Md00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000010_TypeDescrtption",
     "Descrtption": "MonsterHandBook_310000010_Descrtption",
     "FightSkillDescrtption": "MonsterHandBook_310000010_FightSkillDescrtption",
-    "PhantomItem": null
+    "PhantomItem": []
   },
   {
     "Id": 310000320,
@@ -1691,25 +1691,25 @@
     "Name": "MonsterInfo_310000320_Name",
     "MeshId": 390100,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1QunJing1Md00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000010_TypeDescrtption",
     "Descrtption": "MonsterHandBook_310000010_Descrtption",
     "FightSkillDescrtption": "MonsterHandBook_310000010_FightSkillDescrtption",
-    "PhantomItem": null
+    "PhantomItem": []
   },
   {
     "Id": 310000330,
@@ -1717,25 +1717,25 @@
     "Name": "MonsterInfo_310000330_Name",
     "MeshId": 390113,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1QunJing1Md00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000010_TypeDescrtption",
     "Descrtption": "MonsterHandBook_310000010_Descrtption",
     "FightSkillDescrtption": "MonsterHandBook_310000010_FightSkillDescrtption",
-    "PhantomItem": null
+    "PhantomItem": []
   },
   {
     "Id": 310000340,
@@ -1743,25 +1743,25 @@
     "Name": "MonsterInfo_310000340_Name",
     "MeshId": 390102,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1QunJing1Md00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000010_TypeDescrtption",
     "Descrtption": "MonsterHandBook_310000010_Descrtption",
     "FightSkillDescrtption": "MonsterHandBook_310000010_FightSkillDescrtption",
-    "PhantomItem": null
+    "PhantomItem": []
   },
   {
     "Id": 320000180,
@@ -1769,25 +1769,25 @@
     "Name": "MonsterInfo_320000180_Name",
     "MeshId": 390114,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1QunJing1Md00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000010_TypeDescrtption",
     "Descrtption": "MonsterHandBook_310000010_Descrtption",
     "FightSkillDescrtption": "MonsterHandBook_310000010_FightSkillDescrtption",
-    "PhantomItem": null
+    "PhantomItem": []
   },
   {
     "Id": 340000050,
@@ -1795,25 +1795,25 @@
     "Name": "MonsterInfo_340000050_Name",
     "MeshId": 390077,
     "Scale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1QunJing1Md00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000010_TypeDescrtption",
     "Descrtption": "MonsterHandBook_310000010_Descrtption",
     "FightSkillDescrtption": "MonsterHandBook_310000010_FightSkillDescrtption",
-    "PhantomItem": null
+    "PhantomItem": []
   },
   {
     "Id": 340000060,
@@ -1826,20 +1826,20 @@
       0.5
     ],
     "Position": [
-      40.0,
-      0.0,
-      40.0
+      40,
+      0,
+      40
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      30.0
+      0,
+      0,
+      30
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1QunJing1Md00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000010_TypeDescrtption",
     "Descrtption": "MonsterHandBook_310000010_Descrtption",
     "FightSkillDescrtption": "MonsterHandBook_310000010_FightSkillDescrtption",
-    "PhantomItem": null
+    "PhantomItem": []
   },
   {
     "Id": 340000080,
@@ -1852,20 +1852,20 @@
       0.699999988079071
     ],
     "Position": [
-      30.0,
-      -50.0,
-      0.0
+      30,
+      -50,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1QunJing1Md00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000010_TypeDescrtption",
     "Descrtption": "MonsterHandBook_310000010_Descrtption",
     "FightSkillDescrtption": "MonsterHandBook_310000010_FightSkillDescrtption",
-    "PhantomItem": null
+    "PhantomItem": []
   },
   {
     "Id": 350000010,
@@ -1878,14 +1878,14 @@
       1.25
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1QunJing1Md00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000010_TypeDescrtption",
@@ -1909,14 +1909,14 @@
       1.25
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1QunJing1Md00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000010_TypeDescrtption",
@@ -1940,14 +1940,14 @@
       1.25
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1QunJing1Md00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000010_TypeDescrtption",
@@ -1971,14 +1971,14 @@
       1.25
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1QunJing1Md00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000010_TypeDescrtption",
@@ -2002,14 +2002,14 @@
       1.25
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      0.0
+      0,
+      0,
+      0
     ],
     "StandAnim": "/Game/Aki/Character/Monster/Ordinary/MO1QunJing1Md00001/CommonAnim/Stand2.Stand2",
     "TypeDescrtption": "MonsterHandBook_310000010_TypeDescrtption",

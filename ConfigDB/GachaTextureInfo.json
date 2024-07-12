@@ -5,7 +5,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_anke_UI.T_Luckdraw_anke_UI",
     "ShowSequence": 1203,
     "BindPoint": "RoleCase",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 100707
   },
   {
@@ -14,7 +14,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_jueyuan_UI.T_Luckdraw_jueyuan_UI",
     "ShowSequence": 1503,
     "BindPoint": "RoleCase",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 100703
   },
   {
@@ -23,7 +23,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_bailian_UI.T_Luckdraw_bailian_UI",
     "ShowSequence": 1103,
     "BindPoint": "RoleCase",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 100706
   },
   {
@@ -32,7 +32,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_danjin_UI.T_Luckdraw_danjin_UI",
     "ShowSequence": 1602,
     "BindPoint": "RoleCase",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 100708
   },
   {
@@ -41,7 +41,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_maxiaofang_UI.T_Luckdraw_maxiaofang_UI",
     "ShowSequence": 1202,
     "BindPoint": "RoleCase",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 100702
   },
   {
@@ -50,7 +50,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_sanhua_UI.T_Luckdraw_sanhua_UI",
     "ShowSequence": 1102,
     "BindPoint": "RoleCase",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 100704
   },
   {
@@ -59,7 +59,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_taohua_UI.T_Luckdraw_taohua_UI",
     "ShowSequence": 1601,
     "BindPoint": "RoleCase",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 100705
   },
   {
@@ -68,7 +68,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_yanyan_UI.T_Luckdraw_yanyan_UI",
     "ShowSequence": 1402,
     "BindPoint": "RoleCase",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 100701
   },
   {
@@ -77,7 +77,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010015_UI.T_Luckdraw21010015_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21110501
   },
   {
@@ -86,7 +86,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020015_UI.T_Luckdraw21020015_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21210501
   },
   {
@@ -95,7 +95,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030015_UI.T_Luckdraw21030015_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21310501
   },
   {
@@ -104,7 +104,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050015_UI.T_Luckdraw21050015_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21510501
   },
   {
@@ -113,7 +113,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010013_UI.T_Luckdraw21010013_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21010301
   },
   {
@@ -122,7 +122,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020013_UI.T_Luckdraw21020013_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21020301
   },
   {
@@ -131,7 +131,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030013_UI.T_Luckdraw21030013_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21030301
   },
   {
@@ -140,7 +140,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050013_UI.T_Luckdraw21050013_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21050301
   },
   {
@@ -149,7 +149,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010024_UI.T_Luckdraw21010024_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21010401
   },
   {
@@ -158,7 +158,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020024_UI.T_Luckdraw21020024_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21020401
   },
   {
@@ -167,7 +167,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030024_UI.T_Luckdraw21030024_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21030401
   },
   {
@@ -176,7 +176,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050024_UI.T_Luckdraw21050024_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21050401
   },
   {
@@ -185,7 +185,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_qiushui_UI.T_Luckdraw_qiushui_UI",
     "ShowSequence": 1403,
     "BindPoint": "RoleCase",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 100709
   },
   {
@@ -194,7 +194,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_jiyan_UI.T_Luckdraw_jiyan_UI",
     "ShowSequence": 1404,
     "BindPoint": "RoleCase",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 100710
   },
   {
@@ -203,7 +203,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_baer_UI.T_Luckdraw_baer_UI",
     "ShowSequence": 1204,
     "BindPoint": "RoleCase",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 100711
   },
   {
@@ -212,7 +212,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1404_UI.T_IconRup_Part_1404_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 0
   },
   {
@@ -221,7 +221,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1603_UI.T_IconRup_Part_1603_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 0
   },
   {
@@ -230,7 +230,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1402_UI.T_IconRup_Part_1402_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 0
   },
   {
@@ -239,7 +239,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1202_UI.T_IconRup_Part_1202_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 0
   },
   {
@@ -248,7 +248,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1102_UI.T_IconRup_Part_1102_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 0
   },
   {
@@ -257,7 +257,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1601_UI.T_IconRup_Part_1601_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 0
   },
   {
@@ -266,7 +266,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1103_UI.T_IconRup_Part_1103_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 0
   },
   {
@@ -275,7 +275,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1403_UI.T_IconRup_Part_1403_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 0
   },
   {
@@ -284,7 +284,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1204_UI.T_IconRup_Part_1204_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 0
   },
   {
@@ -293,7 +293,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_kakaluo_UI.T_Luckdraw_kakaluo_UI",
     "ShowSequence": 1301,
     "BindPoint": "RoleCase",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 100713
   },
   {
@@ -302,7 +302,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_yinlin_UI.T_Luckdraw_yinlin_UI",
     "ShowSequence": 1302,
     "BindPoint": "RoleCase",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 100714
   },
   {
@@ -311,7 +311,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_yuanwu_UI.T_Luckdraw_yuanwu_UI",
     "ShowSequence": 1303,
     "BindPoint": "RoleCase",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 100716
   },
   {
@@ -320,7 +320,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040015_UI.T_Luckdraw21040015_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21410501
   },
   {
@@ -329,7 +329,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040024_UI.T_Luckdraw21040024_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21040401
   },
   {
@@ -338,7 +338,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040013_UI.T_Luckdraw21040013_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21401301
   },
   {
@@ -347,7 +347,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010023_UI.T_Luckdraw21010023_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21102301
   },
   {
@@ -356,7 +356,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020023_UI.T_Luckdraw21020023_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21202301
   },
   {
@@ -365,7 +365,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050023_UI.T_Luckdraw21050023_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21502301
   },
   {
@@ -374,7 +374,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1503_UI.T_IconRup_Part_1503_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 0
   },
   {
@@ -383,7 +383,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1203_UI.T_IconRup_Part_1203_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 0
   },
   {
@@ -392,7 +392,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1602_UI.T_IconRup_Part_1602_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 0
   },
   {
@@ -401,7 +401,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1301_UI.T_IconRup_Part_1301_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 0
   },
   {
@@ -410,7 +410,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1302_UI.T_IconRup_Part_1302_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 0
   },
   {
@@ -419,7 +419,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1104_UI.T_IconRup_Part_1104_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 0
   },
   {
@@ -428,7 +428,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1303_UI.T_IconRup_Part_1303_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 0
   },
   {
@@ -437,7 +437,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 0
   },
   {
@@ -446,7 +446,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 0
   },
   {
@@ -455,7 +455,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_lingyang_UI.T_Luckdraw_lingyang_UI",
     "ShowSequence": 1104,
     "BindPoint": "RoleCase",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 100715
   },
   {
@@ -464,7 +464,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_jianxin_UI.T_Luckdraw_jianxin_UI",
     "ShowSequence": 1405,
     "BindPoint": "RoleCase",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 100717
   },
   {
@@ -473,7 +473,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030023_UI.T_Luckdraw21030023_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21302301
   },
   {
@@ -482,7 +482,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040023_UI.T_Luckdraw21040023_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21402301
   },
   {
@@ -491,7 +491,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010043_UI.T_Luckdraw21010043_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21104301
   },
   {
@@ -500,7 +500,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020043_UI.T_Luckdraw21020043_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21204301
   },
   {
@@ -509,7 +509,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050043_UI.T_Luckdraw21050043_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21504301
   },
   {
@@ -518,7 +518,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010016_UI.T_Luckdraw21010016_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21111501
   },
   {
@@ -527,7 +527,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010044_UI.T_Luckdraw21010044_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21104401
   },
   {
@@ -536,7 +536,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020044_UI.T_Luckdraw21020044_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21204401
   },
   {
@@ -545,7 +545,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030044_UI.T_Luckdraw21030044_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21304401
   },
   {
@@ -554,7 +554,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040044_UI.T_Luckdraw21040044_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21404401
   },
   {
@@ -563,7 +563,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050044_UI.T_Luckdraw21050044_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21504401
   },
   {
@@ -572,7 +572,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010064_UI.T_Luckdraw21010064_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21106401
   },
   {
@@ -581,7 +581,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020064_UI.T_Luckdraw21020064_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21206401
   },
   {
@@ -590,7 +590,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030064_UI.T_Luckdraw21030064_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21306401
   },
   {
@@ -599,7 +599,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040064_UI.T_Luckdraw21040064_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21406401
   },
   {
@@ -608,7 +608,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050064_UI.T_Luckdraw21050064_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21506401
   },
   {
@@ -617,7 +617,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21030043_UI.T_Luckdraw21030043_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21304301
   },
   {
@@ -626,7 +626,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21040043_UI.T_Luckdraw21040043_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21404301
   },
   {
@@ -635,7 +635,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21050016_UI.T_Luckdraw21050016_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21501601
   },
   {
@@ -644,7 +644,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_jinxi_UI.T_Luckdraw_jinxi_UI",
     "ShowSequence": 1304,
     "BindPoint": "RoleCase",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 100718
   },
   {
@@ -653,7 +653,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_changli_UI.T_Luckdraw_changli_UI",
     "ShowSequence": 1205,
     "BindPoint": "RoleCase",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 100719
   },
   {
@@ -662,7 +662,7 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21010026_UI.T_Luckdraw21010026_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21501101
   },
   {
@@ -671,7 +671,43 @@
     "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw21020016_UI.T_Luckdraw21020016_UI",
     "ShowSequence": 3,
     "BindPoint": "",
-    "IdArray": null,
+    "IdArray": [],
     "TrialId": 21501201
+  },
+  {
+    "Id": 1501,
+    "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+    "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_nanzhu_UI.T_Luckdraw_nanzhu_UI",
+    "ShowSequence": 1501,
+    "BindPoint": "RoleCase",
+    "IdArray": [],
+    "TrialId": 100306
+  },
+  {
+    "Id": 1502,
+    "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+    "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_nanzhu_UI.T_Luckdraw_nanzhu_UI",
+    "ShowSequence": 1502,
+    "BindPoint": "RoleCase",
+    "IdArray": [],
+    "TrialId": 100307
+  },
+  {
+    "Id": 1605,
+    "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+    "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_nanzhu_UI.T_Luckdraw_nanzhu_UI",
+    "ShowSequence": 1605,
+    "BindPoint": "RoleCase",
+    "IdArray": [],
+    "TrialId": 100326
+  },
+  {
+    "Id": 1604,
+    "GachaMainViewTexture": "/Game/Aki/UI/UIResources/Common/Image/T_CommonDefault_UI.T_CommonDefault_UI",
+    "GachaResultViewTexture": "/Game/Aki/UI/UIResources/Common/Image/Luckdraw/T_Luckdraw_nanzhu_UI.T_Luckdraw_nanzhu_UI",
+    "ShowSequence": 1604,
+    "BindPoint": "RoleCase",
+    "IdArray": [],
+    "TrialId": 100325
   }
 ]

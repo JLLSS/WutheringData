@@ -4,19 +4,19 @@
     "MeshId": 390213,
     "Name": "AnimalHandBook_1_Name",
     "Scale": [
-      3.0,
-      3.0,
-      3.0
+      3,
+      3,
+      3
     ],
     "Position": [
-      40.0,
-      0.0,
-      0.0
+      40,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA028/CommonAnim/Stand_01.Stand_01",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_008_UI.T_IconMonHeadA_008_UI",
@@ -32,19 +32,19 @@
     "MeshId": 390212,
     "Name": "AnimalHandBook_2_Name",
     "Scale": [
-      3.0,
-      3.0,
-      3.0
+      3,
+      3,
+      3
     ],
     "Position": [
-      40.0,
-      0.0,
-      0.0
+      40,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA028/CommonAnim/Stand_01.Stand_01",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_010_UI.T_IconMonHeadA_010_UI",
@@ -60,19 +60,19 @@
     "MeshId": 390211,
     "Name": "AnimalHandBook_3_Name",
     "Scale": [
-      3.0,
-      3.0,
-      3.0
+      3,
+      3,
+      3
     ],
     "Position": [
-      40.0,
-      0.0,
-      0.0
+      40,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA028/CommonAnim/Stand_01.Stand_01",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_009_UI.T_IconMonHeadA_009_UI",
@@ -88,19 +88,19 @@
     "MeshId": 390067,
     "Name": "AnimalHandBook_4_Name",
     "Scale": [
-      2.0,
-      2.0,
-      2.0
+      2,
+      2,
+      2
     ],
     "Position": [
-      40.0,
-      0.0,
-      0.0
+      40,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA010/CommonAnim/Stand_01.Stand_01",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_011_UI.T_IconMonHeadA_011_UI",
@@ -121,14 +121,14 @@
       1.399999976158142
     ],
     "Position": [
-      30.0,
-      0.0,
-      0.0
+      30,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA007/CommonAnim/Stand_01.Stand_01",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_012_UI.T_IconMonHeadA_012_UI",
@@ -144,130 +144,130 @@
     "MeshId": 390069,
     "Name": "AnimalHandBook_7_Name",
     "Scale": [
-      2.0,
-      2.0,
-      2.0
+      2,
+      2,
+      2
     ],
     "Position": [
-      40.0,
-      0.0,
-      0.0
+      40,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA012/CommonAnim/Stand_02_loop.Stand_02_loop",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_005_UI.T_IconMonHeadA_005_UI",
     "TypeDescrtption": "AnimalHandBook_7_TypeDescrtption",
     "Place": "AnimalHandBook_7_Place",
     "Descrtption": "AnimalHandBook_7_Descrtption",
-    "DropItemId": null
+    "DropItemId": []
   },
   {
     "Id": 8,
     "MeshId": 390070,
     "Name": "AnimalHandBook_8_Name",
     "Scale": [
-      2.0,
-      2.0,
-      2.0
+      2,
+      2,
+      2
     ],
     "Position": [
-      40.0,
-      0.0,
-      0.0
+      40,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA012/CommonAnim/Stand_02_loop.Stand_02_loop",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_006_UI.T_IconMonHeadA_006_UI",
     "TypeDescrtption": "AnimalHandBook_8_TypeDescrtption",
     "Place": "AnimalHandBook_8_Place",
     "Descrtption": "AnimalHandBook_8_Descrtption",
-    "DropItemId": null
+    "DropItemId": []
   },
   {
     "Id": 9,
     "MeshId": 390200,
     "Name": "AnimalHandBook_9_Name",
     "Scale": [
-      2.0,
-      2.0,
-      2.0
+      2,
+      2,
+      2
     ],
     "Position": [
-      40.0,
-      0.0,
-      0.0
+      40,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA012/CommonAnim/Stand_02_loop.Stand_02_loop",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_007_UI.T_IconMonHeadA_007_UI",
     "TypeDescrtption": "AnimalHandBook_9_TypeDescrtption",
     "Place": "AnimalHandBook_9_Place",
     "Descrtption": "AnimalHandBook_9_Descrtption",
-    "DropItemId": null
+    "DropItemId": []
   },
   {
     "Id": 10,
     "MeshId": 390061,
     "Name": "AnimalHandBook_10_Name",
     "Scale": [
-      2.0,
-      2.0,
-      2.0
+      2,
+      2,
+      2
     ],
     "Position": [
-      40.0,
-      0.0,
-      0.0
+      40,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA015/CommonAnim/Stand_02_loop.Stand_02_loop",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_014_UI.T_IconMonHeadA_014_UI",
     "TypeDescrtption": "AnimalHandBook_10_TypeDescrtption",
     "Place": "AnimalHandBook_10_Place",
     "Descrtption": "AnimalHandBook_10_Descrtption",
-    "DropItemId": null
+    "DropItemId": []
   },
   {
     "Id": 11,
     "MeshId": 390201,
     "Name": "AnimalHandBook_11_Name",
     "Scale": [
-      2.0,
-      2.0,
-      2.0
+      2,
+      2,
+      2
     ],
     "Position": [
-      40.0,
-      0.0,
-      0.0
+      40,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA015/CommonAnim/Stand_02_loop.Stand_02_loop",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_015_UI.T_IconMonHeadA_015_UI",
     "TypeDescrtption": "AnimalHandBook_11_TypeDescrtption",
     "Place": "AnimalHandBook_11_Place",
     "Descrtption": "AnimalHandBook_11_Descrtption",
-    "DropItemId": null
+    "DropItemId": []
   },
   {
     "Id": 12,
@@ -279,14 +279,14 @@
       2.5
     ],
     "Position": [
-      40.0,
-      0.0,
-      0.0
+      40,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA006/CommonAnim/Stand_01.Stand_01",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_004_UI.T_IconMonHeadA_004_UI",
@@ -307,14 +307,14 @@
       1.5
     ],
     "Position": [
-      40.0,
-      0.0,
-      0.0
+      40,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA017/CommonAnim/Stand_01.Stand_01",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_016_UI.T_IconMonHeadA_016_UI",
@@ -335,14 +335,14 @@
       1.2999999523162842
     ],
     "Position": [
-      50.0,
-      0.0,
-      0.0
+      50,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA018/CommonAnim/Stand_01.Stand_01",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_017_UI.T_IconMonHeadA_017_UI",
@@ -363,14 +363,14 @@
       1.2999999523162842
     ],
     "Position": [
-      50.0,
-      0.0,
-      0.0
+      50,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      20.0
+      0,
+      0,
+      20
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA018/CommonAnim/Stand_01.Stand_01",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_018_UI.T_IconMonHeadA_018_UI",
@@ -386,19 +386,19 @@
     "MeshId": 390053,
     "Name": "AnimalHandBook_16_Name",
     "Scale": [
-      3.0,
-      3.0,
-      3.0
+      3,
+      3,
+      3
     ],
     "Position": [
-      40.0,
-      0.0,
-      0.0
+      40,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      30.0
+      0,
+      0,
+      30
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA004/CommonAnim/Walk_01.Walk_01",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_001_UI.T_IconMonHeadA_001_UI",
@@ -414,19 +414,19 @@
     "MeshId": 390063,
     "Name": "AnimalHandBook_21_Name",
     "Scale": [
-      2.0,
-      2.0,
-      2.0
+      2,
+      2,
+      2
     ],
     "Position": [
-      40.0,
-      0.0,
-      0.0
+      40,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      30.0
+      0,
+      0,
+      30
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA023/CommonAnim/Stand_01.Stand_01",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_020_UI.T_IconMonHeadA_020_UI",
@@ -442,19 +442,19 @@
     "MeshId": 390064,
     "Name": "AnimalHandBook_22_Name",
     "Scale": [
-      2.0,
-      2.0,
-      2.0
+      2,
+      2,
+      2
     ],
     "Position": [
-      40.0,
-      0.0,
-      0.0
+      40,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      30.0
+      0,
+      0,
+      30
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA023/CommonAnim/Stand_01.Stand_01",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_021_UI.T_IconMonHeadA_021_UI",
@@ -470,19 +470,19 @@
     "MeshId": 390065,
     "Name": "AnimalHandBook_23_Name",
     "Scale": [
-      2.0,
-      2.0,
-      2.0
+      2,
+      2,
+      2
     ],
     "Position": [
-      40.0,
-      0.0,
-      0.0
+      40,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      30.0
+      0,
+      0,
+      30
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA023/CommonAnim/Stand_01.Stand_01",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_022_UI.T_IconMonHeadA_022_UI",
@@ -503,14 +503,14 @@
       2.5
     ],
     "Position": [
-      40.0,
-      0.0,
-      0.0
+      40,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      30.0
+      0,
+      0,
+      30
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA026/CommonAnim/Stand_01.Stand_01",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_023_UI.T_IconMonHeadA_023_UI",
@@ -531,14 +531,14 @@
       2.5
     ],
     "Position": [
-      40.0,
-      0.0,
-      0.0
+      40,
+      0,
+      0
     ],
     "Rotator": [
-      0.0,
-      0.0,
-      30.0
+      0,
+      0,
+      30
     ],
     "StandAnim": "/Game/Aki/Character/NPC/Animal/NA026/CommonAnim/Stand_01.Stand_01",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonHeadA/T_IconMonHeadA_024_UI.T_IconMonHeadA_024_UI",

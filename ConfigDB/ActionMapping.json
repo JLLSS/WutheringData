@@ -41,7 +41,7 @@
     "FrancePcKeys": [
       "LeftControl"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -65,8 +65,8 @@
     "Id": 5,
     "ActionName": "手柄主攻击",
     "ActionType": 1,
-    "PcKeys": null,
-    "FrancePcKeys": null,
+    "PcKeys": [],
+    "FrancePcKeys": [],
     "GamepadKeys": [
       "Gamepad_FaceButton_Left"
     ],
@@ -77,8 +77,8 @@
     "Id": 6,
     "ActionName": "手柄副攻击",
     "ActionType": 1,
-    "PcKeys": null,
-    "FrancePcKeys": null,
+    "PcKeys": [],
+    "FrancePcKeys": [],
     "GamepadKeys": [
       "Gamepad_RightTrigger"
     ],
@@ -129,7 +129,7 @@
     "FrancePcKeys": [
       "T"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -159,7 +159,9 @@
     "FrancePcKeys": [
       "A"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [
+      "Gamepad_LeftTrigger"
+    ],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -222,7 +224,7 @@
     "FrancePcKeys": [
       "Apostrophe"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -236,9 +238,7 @@
     "FrancePcKeys": [
       "G"
     ],
-    "GamepadKeys": [
-      "Gamepad_LeftTrigger"
-    ],
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -262,8 +262,8 @@
     "Id": 18,
     "ActionName": "组合主键",
     "ActionType": 1,
-    "PcKeys": null,
-    "FrancePcKeys": null,
+    "PcKeys": [],
+    "FrancePcKeys": [],
     "GamepadKeys": [
       "Gamepad_LeftShoulder"
     ],
@@ -296,7 +296,7 @@
     "FrancePcKeys": [
       "V"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -304,8 +304,8 @@
     "Id": 22,
     "ActionName": "切换交互",
     "ActionType": 2,
-    "PcKeys": null,
-    "FrancePcKeys": null,
+    "PcKeys": [],
+    "FrancePcKeys": [],
     "GamepadKeys": [
       "Gamepad_LeftThumbstick"
     ],
@@ -322,7 +322,7 @@
     "FrancePcKeys": [
       "N"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -352,7 +352,7 @@
     "FrancePcKeys": [
       "I"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -366,7 +366,7 @@
     "FrancePcKeys": [
       "J"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -396,7 +396,7 @@
     "FrancePcKeys": [
       "L"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -410,7 +410,7 @@
     "FrancePcKeys": [
       "B"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -424,7 +424,7 @@
     "FrancePcKeys": [
       "C"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -438,7 +438,7 @@
     "FrancePcKeys": [
       "O"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -452,7 +452,7 @@
     "FrancePcKeys": [
       "LeftAlt"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -482,7 +482,7 @@
     "FrancePcKeys": [
       "F7"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -496,7 +496,9 @@
     "FrancePcKeys": [
       "Enter"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [
+      "Gamepad_Special_Left"
+    ],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -510,7 +512,7 @@
     "FrancePcKeys": [
       "H"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -540,7 +542,7 @@
     "FrancePcKeys": [
       "U"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -554,7 +556,7 @@
     "FrancePcKeys": [
       "P"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -568,7 +570,7 @@
     "FrancePcKeys": [
       "Enter"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -582,7 +584,7 @@
     "FrancePcKeys": [
       "F1"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -596,7 +598,7 @@
     "FrancePcKeys": [
       "F3"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -610,7 +612,7 @@
     "FrancePcKeys": [
       "F4"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -624,7 +626,7 @@
     "FrancePcKeys": [
       "F2"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -710,7 +712,7 @@
     "FrancePcKeys": [
       "LeftMouseButton"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -724,7 +726,7 @@
     "FrancePcKeys": [
       "RightMouseButton"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -975,9 +977,9 @@
     "Id": 67,
     "ActionName": "UI手柄右摇杆下",
     "ActionType": 4,
-    "PcKeys": null,
-    "FrancePcKeys": null,
-    "GamepadKeys": null,
+    "PcKeys": [],
+    "FrancePcKeys": [],
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -985,8 +987,8 @@
     "Id": 68,
     "ActionName": "滚动条切换",
     "ActionType": 4,
-    "PcKeys": null,
-    "FrancePcKeys": null,
+    "PcKeys": [],
+    "FrancePcKeys": [],
     "GamepadKeys": [
       "Gamepad_RightThumbstick"
     ],
@@ -1013,9 +1015,9 @@
     "Id": 66,
     "ActionName": "UI手柄右摇杆上",
     "ActionType": 4,
-    "PcKeys": null,
-    "FrancePcKeys": null,
-    "GamepadKeys": null,
+    "PcKeys": [],
+    "FrancePcKeys": [],
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -1023,8 +1025,8 @@
     "Id": 70,
     "ActionName": "UI手柄A方向右",
     "ActionType": 4,
-    "PcKeys": null,
-    "FrancePcKeys": null,
+    "PcKeys": [],
+    "FrancePcKeys": [],
     "GamepadKeys": [
       "Gamepad_DPad_Right"
     ],
@@ -1035,8 +1037,8 @@
     "Id": 71,
     "ActionName": "UI手柄B方向左",
     "ActionType": 4,
-    "PcKeys": null,
-    "FrancePcKeys": null,
+    "PcKeys": [],
+    "FrancePcKeys": [],
     "GamepadKeys": [
       "Gamepad_DPad_Left"
     ],
@@ -1047,8 +1049,8 @@
     "Id": 72,
     "ActionName": "轮盘切换",
     "ActionType": 3,
-    "PcKeys": null,
-    "FrancePcKeys": null,
+    "PcKeys": [],
+    "FrancePcKeys": [],
     "GamepadKeys": [
       "Gamepad_RightShoulder"
     ],
@@ -1139,8 +1141,8 @@
     "Id": 73,
     "ActionName": "手柄引导下一步",
     "ActionType": 4,
-    "PcKeys": null,
-    "FrancePcKeys": null,
+    "PcKeys": [],
+    "FrancePcKeys": [],
     "GamepadKeys": [
       "Gamepad_FaceButton_Right",
       "Gamepad_FaceButton_Bottom"
@@ -1152,8 +1154,8 @@
     "Id": 74,
     "ActionName": "UI左摇杆左",
     "ActionType": 4,
-    "PcKeys": null,
-    "FrancePcKeys": null,
+    "PcKeys": [],
+    "FrancePcKeys": [],
     "GamepadKeys": [
       "Gamepad_LeftStick_Left",
       "Gamepad_DPad_Left"
@@ -1165,8 +1167,8 @@
     "Id": 75,
     "ActionName": "UI左摇杆右",
     "ActionType": 4,
-    "PcKeys": null,
-    "FrancePcKeys": null,
+    "PcKeys": [],
+    "FrancePcKeys": [],
     "GamepadKeys": [
       "Gamepad_LeftStick_Right",
       "Gamepad_DPad_Right"
@@ -1202,7 +1204,7 @@
     "FrancePcKeys": [
       "ThumbMouseButton"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -1216,7 +1218,7 @@
     "FrancePcKeys": [
       "ThumbMouseButton2"
     ],
-    "GamepadKeys": null,
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   },
@@ -1256,8 +1258,8 @@
     "Id": 80,
     "ActionName": "UI左摇杆上",
     "ActionType": 4,
-    "PcKeys": null,
-    "FrancePcKeys": null,
+    "PcKeys": [],
+    "FrancePcKeys": [],
     "GamepadKeys": [
       "Gamepad_LeftStick_Up",
       "Gamepad_DPad_Up"
@@ -1269,12 +1271,26 @@
     "Id": 81,
     "ActionName": "UI左摇杆下",
     "ActionType": 4,
-    "PcKeys": null,
-    "FrancePcKeys": null,
+    "PcKeys": [],
+    "FrancePcKeys": [],
     "GamepadKeys": [
       "Gamepad_LeftStick_Down",
       "Gamepad_DPad_Down"
     ],
+    "MobileIconPath": "",
+    "DisplayName": ""
+  },
+  {
+    "Id": 87,
+    "ActionName": "UI键盘N",
+    "ActionType": 4,
+    "PcKeys": [
+      "N"
+    ],
+    "FrancePcKeys": [
+      "N"
+    ],
+    "GamepadKeys": [],
     "MobileIconPath": "",
     "DisplayName": ""
   }

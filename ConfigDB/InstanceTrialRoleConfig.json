@@ -9,8 +9,8 @@
       15020006,
       14040006
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true
@@ -23,8 +23,8 @@
     "FemaleFormation": [
       14040005
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": true,
     "ShowInEntrance": true
@@ -39,8 +39,8 @@
       11042000,
       15022000
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true
@@ -53,8 +53,8 @@
     "FemaleFormation": [
       13020001
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": true,
     "ShowInEntrance": true
@@ -69,8 +69,8 @@
       15020006,
       14040006
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true
@@ -87,8 +87,8 @@
       1008005,
       1008008
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true
@@ -105,8 +105,8 @@
       12047004,
       11037004
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true
@@ -123,8 +123,8 @@
       14027004,
       16017004
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true
@@ -141,8 +141,8 @@
       15027004,
       11037004
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true
@@ -159,8 +159,8 @@
       14027004,
       16017004
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true
@@ -177,8 +177,8 @@
       13037004,
       11037004
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true
@@ -195,8 +195,8 @@
       15027004,
       14027004
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true
@@ -213,8 +213,8 @@
       12027004,
       14027004
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true
@@ -231,208 +231,208 @@
       14027004,
       11037004
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true
   },
   {
     "Id": 8002,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8003,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8004,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8005,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8006,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8151,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8152,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8153,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8154,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8155,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8156,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8157,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8158,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8159,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8160,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8007,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8008,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8009,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8010,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
   },
   {
     "Id": 8011,
-    "MaleFormation": null,
-    "FemaleFormation": null,
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": false,
     "AutoChange": false,
     "ShowInEntrance": false
@@ -445,16 +445,66 @@
     "FemaleFormation": [
       13045000
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true
   },
   {
+    "Id": 8012,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
+    "OnlyTrial": false,
+    "AutoChange": false,
+    "ShowInEntrance": false
+  },
+  {
+    "Id": 8013,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
+    "OnlyTrial": false,
+    "AutoChange": false,
+    "ShowInEntrance": false
+  },
+  {
+    "Id": 8014,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
+    "OnlyTrial": false,
+    "AutoChange": false,
+    "ShowInEntrance": false
+  },
+  {
+    "Id": 8015,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
+    "OnlyTrial": false,
+    "AutoChange": false,
+    "ShowInEntrance": false
+  },
+  {
+    "Id": 8016,
+    "MaleFormation": [],
+    "FemaleFormation": [],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
+    "OnlyTrial": false,
+    "AutoChange": false,
+    "ShowInEntrance": false
+  },
+  {
     "Id": 1001,
-    "MaleFormation": null,
-    "FemaleFormation": null,
+    "MaleFormation": [],
+    "FemaleFormation": [],
     "MaleDelayFormation": [
       13020001
     ],
@@ -477,8 +527,8 @@
       11037004,
       13027004
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true
@@ -495,8 +545,8 @@
       12037004,
       11037004
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true
@@ -513,8 +563,8 @@
       14037004,
       16017004
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true
@@ -531,8 +581,8 @@
       16017004,
       16027004
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true
@@ -549,10 +599,78 @@
       14027004,
       12027004
     ],
-    "MaleDelayFormation": null,
-    "FemaleDelayFormation": null,
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true
+  },
+  {
+    "Id": 8200,
+    "MaleFormation": [
+      11057004,
+      14027004,
+      12027004
+    ],
+    "FemaleFormation": [
+      11057004,
+      14027004,
+      12027004
+    ],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
+    "OnlyTrial": true,
+    "AutoChange": true,
+    "ShowInEntrance": true
+  },
+  {
+    "Id": 8201,
+    "MaleFormation": [
+      13057004,
+      14027004,
+      12027004
+    ],
+    "FemaleFormation": [
+      13057004,
+      14027004,
+      12027004
+    ],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
+    "OnlyTrial": true,
+    "AutoChange": true,
+    "ShowInEntrance": true
+  },
+  {
+    "Id": 1002,
+    "MaleFormation": [
+      11052001
+    ],
+    "FemaleFormation": [
+      11052001
+    ],
+    "MaleDelayFormation": [],
+    "FemaleDelayFormation": [],
+    "OnlyTrial": false,
+    "AutoChange": true,
+    "ShowInEntrance": true
+  },
+  {
+    "Id": 8400,
+    "MaleFormation": [
+      15010005
+    ],
+    "FemaleFormation": [
+      15020005
+    ],
+    "MaleDelayFormation": [
+      13052001
+    ],
+    "FemaleDelayFormation": [
+      13052001
+    ],
+    "OnlyTrial": true,
+    "AutoChange": true,
+    "ShowInEntrance": false
   }
 ]

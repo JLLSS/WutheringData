@@ -6,12 +6,12 @@
     "GroupId": 1,
     "SortId": 1,
     "BuffCount": 1,
-    "DefaultBuff": null,
+    "DefaultBuff": [],
     "OptionalBuff": [
       21,
       22
     ],
-    "UnlockBuff": null,
+    "UnlockBuff": [],
     "OpenDay": 0,
     "Condition": 0,
     "PreLevel": 0,
@@ -30,12 +30,12 @@
     "GroupId": 1,
     "SortId": 2,
     "BuffCount": 1,
-    "DefaultBuff": null,
+    "DefaultBuff": [],
     "OptionalBuff": [
       23,
       24
     ],
-    "UnlockBuff": null,
+    "UnlockBuff": [],
     "OpenDay": 1,
     "Condition": 0,
     "PreLevel": 1,
@@ -54,13 +54,13 @@
     "GroupId": 1,
     "SortId": 3,
     "BuffCount": 2,
-    "DefaultBuff": null,
+    "DefaultBuff": [],
     "OptionalBuff": [
       26,
       27,
       28
     ],
-    "UnlockBuff": null,
+    "UnlockBuff": [],
     "OpenDay": 2,
     "Condition": 0,
     "PreLevel": 2,
@@ -79,13 +79,13 @@
     "GroupId": 1,
     "SortId": 4,
     "BuffCount": 2,
-    "DefaultBuff": null,
+    "DefaultBuff": [],
     "OptionalBuff": [
       29,
       30,
       31
     ],
-    "UnlockBuff": null,
+    "UnlockBuff": [],
     "OpenDay": 3,
     "Condition": 0,
     "PreLevel": 3,
@@ -104,14 +104,14 @@
     "GroupId": 1,
     "SortId": 5,
     "BuffCount": 2,
-    "DefaultBuff": null,
+    "DefaultBuff": [],
     "OptionalBuff": [
       32,
       22,
       30,
       33
     ],
-    "UnlockBuff": null,
+    "UnlockBuff": [],
     "OpenDay": 4,
     "Condition": 0,
     "PreLevel": 4,
@@ -130,7 +130,7 @@
     "GroupId": 1,
     "SortId": 6,
     "BuffCount": 2,
-    "DefaultBuff": null,
+    "DefaultBuff": [],
     "OptionalBuff": [
       23,
       24,
@@ -140,7 +140,7 @@
       33,
       28
     ],
-    "UnlockBuff": null,
+    "UnlockBuff": [],
     "OpenDay": 5,
     "Condition": 0,
     "PreLevel": 5,

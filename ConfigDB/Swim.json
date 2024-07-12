@@ -1,32 +1,32 @@
 [
   {
     "Id": "FemaleS",
-    "SprintZoffsetRate": 0.2,
-    "SprintZoffsetSpeed": 100.0
+    "SprintZOffsetRate": 0.2,
+    "SprintZOffsetSpeed": 100
   },
   {
     "Id": "FemaleM",
-    "SprintZoffsetRate": 0.2,
-    "SprintZoffsetSpeed": 100.0
+    "SprintZOffsetRate": 0.2,
+    "SprintZOffsetSpeed": 100
   },
   {
     "Id": "FemaleXL",
-    "SprintZoffsetRate": 0.2,
-    "SprintZoffsetSpeed": 100.0
+    "SprintZOffsetRate": 0.2,
+    "SprintZOffsetSpeed": 100
   },
   {
     "Id": "MaleM",
-    "SprintZoffsetRate": 0.2,
-    "SprintZoffsetSpeed": 100.0
+    "SprintZOffsetRate": 0.2,
+    "SprintZOffsetSpeed": 100
   },
   {
     "Id": "MaleXL",
-    "SprintZoffsetRate": 0.2,
-    "SprintZoffsetSpeed": 100.0
+    "SprintZOffsetRate": 0.2,
+    "SprintZOffsetSpeed": 100
   },
   {
     "Id": "MaleS",
-    "SprintZoffsetRate": 0.2,
-    "SprintZoffsetSpeed": 100.0
+    "SprintZOffsetRate": 0.2,
+    "SprintZOffsetSpeed": 100
   }
 ]

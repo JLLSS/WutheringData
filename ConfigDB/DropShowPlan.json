@@ -1,8 +1,8 @@
 [
   {
     "Id": 1,
-    "Force": null,
-    "Angle": null,
+    "Force": [],
+    "Angle": [],
     "VerticalAngle": [
       -45,
       45
@@ -14,8 +14,8 @@
   },
   {
     "Id": 2,
-    "Force": null,
-    "Angle": null,
+    "Force": [],
+    "Angle": [],
     "VerticalAngle": [
       -45,
       45
@@ -27,8 +27,8 @@
   },
   {
     "Id": 3,
-    "Force": null,
-    "Angle": null,
+    "Force": [],
+    "Angle": [],
     "VerticalAngle": [
       -45,
       45
@@ -116,8 +116,8 @@
   },
   {
     "Id": 8,
-    "Force": null,
-    "Angle": null,
+    "Force": [],
+    "Angle": [],
     "VerticalAngle": [
       -45,
       45

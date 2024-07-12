@@ -4,8 +4,8 @@
     "BaseType": [
       0
     ],
-    "VisibleTags": null,
-    "HiddenTags": null
+    "VisibleTags": [],
+    "HiddenTags": []
   },
   {
     "Id": 100,
@@ -17,7 +17,7 @@
       "",
       "角色.BaseRole.Debug功能.高攻击力#角色.BaseRole.Debug功能.低攻击力"
     ],
-    "HiddenTags": null
+    "HiddenTags": []
   },
   {
     "Id": 1301,
@@ -25,8 +25,8 @@
       0,
       1
     ],
-    "VisibleTags": null,
-    "HiddenTags": null
+    "VisibleTags": [],
+    "HiddenTags": []
   },
   {
     "Id": 1404,
@@ -34,7 +34,7 @@
       0,
       1
     ],
-    "VisibleTags": null,
-    "HiddenTags": null
+    "VisibleTags": [],
+    "HiddenTags": []
   }
 ]

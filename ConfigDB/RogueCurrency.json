@@ -2,7 +2,7 @@
   {
     "Id": 80100000,
     "QualityId": 4,
-    "ItemAccess": null,
+    "ItemAccess": [],
     "SortIndex": 0,
     "ImagePath": "",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRouge/T_IconRouge_001_UI.T_IconRouge_001_UI",
@@ -20,7 +20,7 @@
   {
     "Id": 80100001,
     "QualityId": 4,
-    "ItemAccess": null,
+    "ItemAccess": [],
     "SortIndex": 0,
     "ImagePath": "",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRouge/T_IconRouge_002_UI.T_IconRouge_002_UI",
@@ -38,7 +38,7 @@
   {
     "Id": 80100002,
     "QualityId": 4,
-    "ItemAccess": null,
+    "ItemAccess": [],
     "SortIndex": 0,
     "ImagePath": "",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRouge/T_IconRouge_003_UI.T_IconRouge_003_UI",
@@ -56,7 +56,7 @@
   {
     "Id": 80100003,
     "QualityId": 4,
-    "ItemAccess": null,
+    "ItemAccess": [],
     "SortIndex": 0,
     "ImagePath": "",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRouge/T_IconRouge_004_UI.T_IconRouge_004_UI",

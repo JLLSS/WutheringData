@@ -2,13 +2,8 @@
   {
     "Quality": 2,
     "LevelLimit": 10,
-    "SlotUnlockLevel": null,
-    "IdentifyCost": [
-      {
-        "Key": 36000011,
-        "Value": 10
-      }
-    ],
+    "SlotUnlockLevel": [],
+    "IdentifyCost": {},
     "IdentifyCoin": 200,
     "QualitySprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityB.SP_VisionlQualityB"
   },
@@ -20,12 +15,7 @@
       10,
       15
     ],
-    "IdentifyCost": [
-      {
-        "Key": 36000012,
-        "Value": 10
-      }
-    ],
+    "IdentifyCost": {},
     "IdentifyCoin": 500,
     "QualitySprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityC.SP_VisionlQualityC"
   },
@@ -38,12 +28,7 @@
       15,
       20
     ],
-    "IdentifyCost": [
-      {
-        "Key": 36000013,
-        "Value": 10
-      }
-    ],
+    "IdentifyCost": {},
     "IdentifyCoin": 1000,
     "QualitySprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityD.SP_VisionlQualityD"
   },
@@ -57,12 +42,7 @@
       20,
       25
     ],
-    "IdentifyCost": [
-      {
-        "Key": 36000014,
-        "Value": 10
-      }
-    ],
+    "IdentifyCost": {},
     "IdentifyCoin": 2000,
     "QualitySprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityE.SP_VisionlQualityE"
   }

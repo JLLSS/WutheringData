@@ -6,16 +6,7 @@
       2
     ],
     "Description": "CalabashDevelopCondition_1_Description",
-    "RewardExp": [
-      {
-        "Key": 10,
-        "Value": 10
-      },
-      {
-        "Key": 1,
-        "Value": 100
-      }
-    ]
+    "RewardExp": {}
   },
   {
     "Id": 2,
@@ -24,12 +15,7 @@
       3
     ],
     "Description": "CalabashDevelopCondition_2_Description",
-    "RewardExp": [
-      {
-        "Key": 10,
-        "Value": 10
-      }
-    ]
+    "RewardExp": {}
   },
   {
     "Id": 3,
@@ -38,12 +24,7 @@
       4
     ],
     "Description": "CalabashDevelopCondition_3_Description",
-    "RewardExp": [
-      {
-        "Key": 10,
-        "Value": 15
-      }
-    ]
+    "RewardExp": {}
   },
   {
     "Id": 4,
@@ -52,12 +33,7 @@
       5
     ],
     "Description": "CalabashDevelopCondition_4_Description",
-    "RewardExp": [
-      {
-        "Key": 10,
-        "Value": 20
-      }
-    ]
+    "RewardExp": {}
   },
   {
     "Id": 5,
@@ -66,12 +42,7 @@
       2
     ],
     "Description": "CalabashDevelopCondition_1_Description",
-    "RewardExp": [
-      {
-        "Key": 10,
-        "Value": 5
-      }
-    ]
+    "RewardExp": {}
   },
   {
     "Id": 6,
@@ -80,12 +51,7 @@
       3
     ],
     "Description": "CalabashDevelopCondition_2_Description",
-    "RewardExp": [
-      {
-        "Key": 10,
-        "Value": 5
-      }
-    ]
+    "RewardExp": {}
   },
   {
     "Id": 7,
@@ -94,12 +60,7 @@
       4
     ],
     "Description": "CalabashDevelopCondition_3_Description",
-    "RewardExp": [
-      {
-        "Key": 10,
-        "Value": 5
-      }
-    ]
+    "RewardExp": {}
   },
   {
     "Id": 8,
@@ -108,11 +69,6 @@
       5
     ],
     "Description": "CalabashDevelopCondition_4_Description",
-    "RewardExp": [
-      {
-        "Key": 10,
-        "Value": 5
-      }
-    ]
+    "RewardExp": {}
   }
 ]

@@ -11,10 +11,10 @@
     "TalentDoc": "FavorRoleInfo_1402_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1402_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1402_CN",
-    "CvnameJp": "FavorRoleInfo_1402_JP",
-    "CvnameKo": "FavorRoleInfo_1402_KO",
-    "CvnameEn": "FavorRoleInfo_1402_EN"
+    "CVNameCn": "FavorRoleInfo_1402_CN",
+    "CVNameJp": "FavorRoleInfo_1402_JP",
+    "CVNameKo": "FavorRoleInfo_1402_KO",
+    "CVNameEn": "FavorRoleInfo_1402_EN"
   },
   {
     "Id": 1202,
@@ -28,10 +28,10 @@
     "TalentDoc": "FavorRoleInfo_1202_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1202_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1202_CN",
-    "CvnameJp": "FavorRoleInfo_1202_JP",
-    "CvnameKo": "FavorRoleInfo_1202_KO",
-    "CvnameEn": "FavorRoleInfo_1202_EN"
+    "CVNameCn": "FavorRoleInfo_1202_CN",
+    "CVNameJp": "FavorRoleInfo_1202_JP",
+    "CVNameKo": "FavorRoleInfo_1202_KO",
+    "CVNameEn": "FavorRoleInfo_1202_EN"
   },
   {
     "Id": 1503,
@@ -45,10 +45,10 @@
     "TalentDoc": "FavorRoleInfo_1503_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1503_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1503_CN",
-    "CvnameJp": "FavorRoleInfo_1503_JP",
-    "CvnameKo": "FavorRoleInfo_1503_KO",
-    "CvnameEn": "FavorRoleInfo_1503_EN"
+    "CVNameCn": "FavorRoleInfo_1503_CN",
+    "CVNameJp": "FavorRoleInfo_1503_JP",
+    "CVNameKo": "FavorRoleInfo_1503_KO",
+    "CVNameEn": "FavorRoleInfo_1503_EN"
   },
   {
     "Id": 1501,
@@ -62,10 +62,10 @@
     "TalentDoc": "FavorRoleInfo_1501_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1501_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1501_CN",
-    "CvnameJp": "FavorRoleInfo_1501_JP",
-    "CvnameKo": "FavorRoleInfo_1501_KO",
-    "CvnameEn": "FavorRoleInfo_1501_EN"
+    "CVNameCn": "FavorRoleInfo_1501_CN",
+    "CVNameJp": "FavorRoleInfo_1501_JP",
+    "CVNameKo": "FavorRoleInfo_1501_KO",
+    "CVNameEn": "FavorRoleInfo_1501_EN"
   },
   {
     "Id": 1102,
@@ -79,10 +79,10 @@
     "TalentDoc": "FavorRoleInfo_1102_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1102_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1102_CN",
-    "CvnameJp": "FavorRoleInfo_1102_JP",
-    "CvnameKo": "FavorRoleInfo_1102_KO",
-    "CvnameEn": "FavorRoleInfo_1102_EN"
+    "CVNameCn": "FavorRoleInfo_1102_CN",
+    "CVNameJp": "FavorRoleInfo_1102_JP",
+    "CVNameKo": "FavorRoleInfo_1102_KO",
+    "CVNameEn": "FavorRoleInfo_1102_EN"
   },
   {
     "Id": 1601,
@@ -96,10 +96,10 @@
     "TalentDoc": "FavorRoleInfo_1601_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1601_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1601_CN",
-    "CvnameJp": "FavorRoleInfo_1601_JP",
-    "CvnameKo": "FavorRoleInfo_1601_KO",
-    "CvnameEn": "FavorRoleInfo_1601_EN"
+    "CVNameCn": "FavorRoleInfo_1601_CN",
+    "CVNameJp": "FavorRoleInfo_1601_JP",
+    "CVNameKo": "FavorRoleInfo_1601_KO",
+    "CVNameEn": "FavorRoleInfo_1601_EN"
   },
   {
     "Id": 1502,
@@ -113,10 +113,10 @@
     "TalentDoc": "FavorRoleInfo_1502_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1502_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1502_CN",
-    "CvnameJp": "FavorRoleInfo_1502_JP",
-    "CvnameKo": "FavorRoleInfo_1502_KO",
-    "CvnameEn": "FavorRoleInfo_1502_EN"
+    "CVNameCn": "FavorRoleInfo_1502_CN",
+    "CVNameJp": "FavorRoleInfo_1502_JP",
+    "CVNameKo": "FavorRoleInfo_1502_KO",
+    "CVNameEn": "FavorRoleInfo_1502_EN"
   },
   {
     "Id": 1103,
@@ -130,10 +130,10 @@
     "TalentDoc": "FavorRoleInfo_1103_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1103_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1103_CN",
-    "CvnameJp": "FavorRoleInfo_1103_JP",
-    "CvnameKo": "FavorRoleInfo_1103_KO",
-    "CvnameEn": "FavorRoleInfo_1103_EN"
+    "CVNameCn": "FavorRoleInfo_1103_CN",
+    "CVNameJp": "FavorRoleInfo_1103_JP",
+    "CVNameKo": "FavorRoleInfo_1103_KO",
+    "CVNameEn": "FavorRoleInfo_1103_EN"
   },
   {
     "Id": 1203,
@@ -147,10 +147,10 @@
     "TalentDoc": "FavorRoleInfo_1203_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1203_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1203_CN",
-    "CvnameJp": "FavorRoleInfo_1203_JP",
-    "CvnameKo": "FavorRoleInfo_1203_KO",
-    "CvnameEn": "FavorRoleInfo_1203_EN"
+    "CVNameCn": "FavorRoleInfo_1203_CN",
+    "CVNameJp": "FavorRoleInfo_1203_JP",
+    "CVNameKo": "FavorRoleInfo_1203_KO",
+    "CVNameEn": "FavorRoleInfo_1203_EN"
   },
   {
     "Id": 1602,
@@ -164,10 +164,10 @@
     "TalentDoc": "FavorRoleInfo_1602_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1602_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1602_CN",
-    "CvnameJp": "FavorRoleInfo_1602_JP",
-    "CvnameKo": "FavorRoleInfo_1602_KO",
-    "CvnameEn": "FavorRoleInfo_1602_EN"
+    "CVNameCn": "FavorRoleInfo_1602_CN",
+    "CVNameJp": "FavorRoleInfo_1602_JP",
+    "CVNameKo": "FavorRoleInfo_1602_KO",
+    "CVNameEn": "FavorRoleInfo_1602_EN"
   },
   {
     "Id": 1403,
@@ -181,10 +181,10 @@
     "TalentDoc": "FavorRoleInfo_1403_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1403_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1403_CN",
-    "CvnameJp": "FavorRoleInfo_1403_JP",
-    "CvnameKo": "FavorRoleInfo_1403_KO",
-    "CvnameEn": "FavorRoleInfo_1403_EN"
+    "CVNameCn": "FavorRoleInfo_1403_CN",
+    "CVNameJp": "FavorRoleInfo_1403_JP",
+    "CVNameKo": "FavorRoleInfo_1403_KO",
+    "CVNameEn": "FavorRoleInfo_1403_EN"
   },
   {
     "Id": 1404,
@@ -198,10 +198,10 @@
     "TalentDoc": "FavorRoleInfo_1404_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1404_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1404_CN",
-    "CvnameJp": "FavorRoleInfo_1404_JP",
-    "CvnameKo": "FavorRoleInfo_1404_KO",
-    "CvnameEn": "FavorRoleInfo_1404_EN"
+    "CVNameCn": "FavorRoleInfo_1404_CN",
+    "CVNameJp": "FavorRoleInfo_1404_JP",
+    "CVNameKo": "FavorRoleInfo_1404_KO",
+    "CVNameEn": "FavorRoleInfo_1404_EN"
   },
   {
     "Id": 1204,
@@ -215,10 +215,10 @@
     "TalentDoc": "FavorRoleInfo_1204_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1204_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1204_CN",
-    "CvnameJp": "FavorRoleInfo_1204_JP",
-    "CvnameKo": "FavorRoleInfo_1204_KO",
-    "CvnameEn": "FavorRoleInfo_1204_EN"
+    "CVNameCn": "FavorRoleInfo_1204_CN",
+    "CVNameJp": "FavorRoleInfo_1204_JP",
+    "CVNameKo": "FavorRoleInfo_1204_KO",
+    "CVNameEn": "FavorRoleInfo_1204_EN"
   },
   {
     "Id": 1301,
@@ -232,10 +232,10 @@
     "TalentDoc": "FavorRoleInfo_1301_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1301_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1301_CN",
-    "CvnameJp": "FavorRoleInfo_1301_JP",
-    "CvnameKo": "FavorRoleInfo_1301_KO",
-    "CvnameEn": "FavorRoleInfo_1301_EN"
+    "CVNameCn": "FavorRoleInfo_1301_CN",
+    "CVNameJp": "FavorRoleInfo_1301_JP",
+    "CVNameKo": "FavorRoleInfo_1301_KO",
+    "CVNameEn": "FavorRoleInfo_1301_EN"
   },
   {
     "Id": 1302,
@@ -249,10 +249,10 @@
     "TalentDoc": "FavorRoleInfo_1302_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1302_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1302_CN",
-    "CvnameJp": "FavorRoleInfo_1302_JP",
-    "CvnameKo": "FavorRoleInfo_1302_KO",
-    "CvnameEn": "FavorRoleInfo_1302_EN"
+    "CVNameCn": "FavorRoleInfo_1302_CN",
+    "CVNameJp": "FavorRoleInfo_1302_JP",
+    "CVNameKo": "FavorRoleInfo_1302_KO",
+    "CVNameEn": "FavorRoleInfo_1302_EN"
   },
   {
     "Id": 1303,
@@ -266,10 +266,10 @@
     "TalentDoc": "FavorRoleInfo_1303_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1303_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1303_CN",
-    "CvnameJp": "FavorRoleInfo_1303_JP",
-    "CvnameKo": "FavorRoleInfo_1303_KO",
-    "CvnameEn": "FavorRoleInfo_1303_EN"
+    "CVNameCn": "FavorRoleInfo_1303_CN",
+    "CVNameJp": "FavorRoleInfo_1303_JP",
+    "CVNameKo": "FavorRoleInfo_1303_KO",
+    "CVNameEn": "FavorRoleInfo_1303_EN"
   },
   {
     "Id": 1104,
@@ -283,10 +283,10 @@
     "TalentDoc": "FavorRoleInfo_1104_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1104_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1104_CN",
-    "CvnameJp": "FavorRoleInfo_1104_JP",
-    "CvnameKo": "FavorRoleInfo_1104_KO",
-    "CvnameEn": "FavorRoleInfo_1104_EN"
+    "CVNameCn": "FavorRoleInfo_1104_CN",
+    "CVNameJp": "FavorRoleInfo_1104_JP",
+    "CVNameKo": "FavorRoleInfo_1104_KO",
+    "CVNameEn": "FavorRoleInfo_1104_EN"
   },
   {
     "Id": 1405,
@@ -300,10 +300,10 @@
     "TalentDoc": "FavorRoleInfo_1405_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1405_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1405_CN",
-    "CvnameJp": "FavorRoleInfo_1405_JP",
-    "CvnameKo": "FavorRoleInfo_1405_KO",
-    "CvnameEn": "FavorRoleInfo_1405_EN"
+    "CVNameCn": "FavorRoleInfo_1405_CN",
+    "CVNameJp": "FavorRoleInfo_1405_JP",
+    "CVNameKo": "FavorRoleInfo_1405_KO",
+    "CVNameEn": "FavorRoleInfo_1405_EN"
   },
   {
     "Id": 1304,
@@ -317,10 +317,10 @@
     "TalentDoc": "FavorRoleInfo_1304_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1304_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1304_CN",
-    "CvnameJp": "FavorRoleInfo_1304_JP",
-    "CvnameKo": "FavorRoleInfo_1304_KO",
-    "CvnameEn": "FavorRoleInfo_1304_EN"
+    "CVNameCn": "FavorRoleInfo_1304_CN",
+    "CVNameJp": "FavorRoleInfo_1304_JP",
+    "CVNameKo": "FavorRoleInfo_1304_KO",
+    "CVNameEn": "FavorRoleInfo_1304_EN"
   },
   {
     "Id": 1205,
@@ -334,10 +334,10 @@
     "TalentDoc": "FavorRoleInfo_1205_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1205_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1205_CN",
-    "CvnameJp": "FavorRoleInfo_1205_JP",
-    "CvnameKo": "FavorRoleInfo_1205_KO",
-    "CvnameEn": "FavorRoleInfo_1205_EN"
+    "CVNameCn": "FavorRoleInfo_1205_CN",
+    "CVNameJp": "FavorRoleInfo_1205_JP",
+    "CVNameKo": "FavorRoleInfo_1205_KO",
+    "CVNameEn": "FavorRoleInfo_1205_EN"
   },
   {
     "Id": 1605,
@@ -351,10 +351,10 @@
     "TalentDoc": "FavorRoleInfo_1501_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1501_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1501_CN",
-    "CvnameJp": "FavorRoleInfo_1501_JP",
-    "CvnameKo": "FavorRoleInfo_1501_KO",
-    "CvnameEn": "FavorRoleInfo_1501_EN"
+    "CVNameCn": "FavorRoleInfo_1501_CN",
+    "CVNameJp": "FavorRoleInfo_1501_JP",
+    "CVNameKo": "FavorRoleInfo_1501_KO",
+    "CVNameEn": "FavorRoleInfo_1501_EN"
   },
   {
     "Id": 1604,
@@ -368,9 +368,43 @@
     "TalentDoc": "FavorRoleInfo_1502_TalentDoc",
     "TalentCertification": "FavorRoleInfo_1502_TalentCertification",
     "CondGroupId": 0,
-    "CvnameCn": "FavorRoleInfo_1502_CN",
-    "CvnameJp": "FavorRoleInfo_1502_JP",
-    "CvnameKo": "FavorRoleInfo_1502_KO",
-    "CvnameEn": "FavorRoleInfo_1502_EN"
+    "CVNameCn": "FavorRoleInfo_1502_CN",
+    "CVNameJp": "FavorRoleInfo_1502_JP",
+    "CVNameKo": "FavorRoleInfo_1502_KO",
+    "CVNameEn": "FavorRoleInfo_1502_EN"
+  },
+  {
+    "Id": 1105,
+    "RoleId": 1105,
+    "Birthday": "FavorRoleInfo_1105_Birthday",
+    "Sex": "FavorRoleInfo_1105_Sex",
+    "Country": "FavorRoleInfo_1105_Country",
+    "Influence": "FavorRoleInfo_1105_Influence",
+    "Info": "FavorRoleInfo_1105_Info",
+    "TalentName": "FavorRoleInfo_1105_TalentName",
+    "TalentDoc": "FavorRoleInfo_1105_TalentDoc",
+    "TalentCertification": "FavorRoleInfo_1105_TalentCertification",
+    "CondGroupId": 0,
+    "CVNameCn": "FavorRoleInfo_1105_CN",
+    "CVNameJp": "FavorRoleInfo_1105_JP",
+    "CVNameKo": "FavorRoleInfo_1105_KO",
+    "CVNameEn": "FavorRoleInfo_1105_EN"
+  },
+  {
+    "Id": 1305,
+    "RoleId": 1305,
+    "Birthday": "FavorRoleInfo_1305_Birthday",
+    "Sex": "FavorRoleInfo_1305_Sex",
+    "Country": "FavorRoleInfo_1305_Country",
+    "Influence": "FavorRoleInfo_1305_Influence",
+    "Info": "FavorRoleInfo_1305_Info",
+    "TalentName": "FavorRoleInfo_1305_TalentName",
+    "TalentDoc": "FavorRoleInfo_1305_TalentDoc",
+    "TalentCertification": "FavorRoleInfo_1305_TalentCertification",
+    "CondGroupId": 0,
+    "CVNameCn": "FavorRoleInfo_1305_CN",
+    "CVNameJp": "FavorRoleInfo_1305_JP",
+    "CVNameKo": "FavorRoleInfo_1305_KO",
+    "CVNameEn": "FavorRoleInfo_1305_EN"
   }
 ]

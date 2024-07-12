@@ -6,12 +6,7 @@
     "QualityColor": "5A73C7FF",
     "Image": "/Game/Aki/UI/UIResources/Common/Atlas/SP_QualityBlue.SP_QualityBlue",
     "GachaQualityImage": "/Game/Aki/UI/UIResources/Common/Image/IconLuckDarw/T_Luckdraw_B_UI.T_Luckdraw_B_UI",
-    "SpiloverCompensate": [
-      {
-        "Key": 50004,
-        "Value": 1
-      }
-    ]
+    "SpiloverCompensate": {}
   },
   {
     "Id": 4,
@@ -20,12 +15,7 @@
     "QualityColor": "C759C1FF",
     "Image": "/Game/Aki/UI/UIResources/Common/Atlas/SP_QualityPurple.SP_QualityPurple",
     "GachaQualityImage": "/Game/Aki/UI/UIResources/Common/Image/IconLuckDarw/T_LuckdrawA_UI.T_LuckdrawA_UI",
-    "SpiloverCompensate": [
-      {
-        "Key": 50004,
-        "Value": 5
-      }
-    ]
+    "SpiloverCompensate": {}
   },
   {
     "Id": 5,
@@ -34,11 +24,6 @@
     "QualityColor": "DEA544FF",
     "Image": "/Game/Aki/UI/UIResources/Common/Atlas/SP_QualityGlod.SP_QualityGlod",
     "GachaQualityImage": "/Game/Aki/UI/UIResources/Common/Image/IconLuckDarw/T_Luckdraw_S_UI.T_Luckdraw_S_UI",
-    "SpiloverCompensate": [
-      {
-        "Key": 50004,
-        "Value": 25
-      }
-    ]
+    "SpiloverCompensate": {}
   }
 ]

@@ -9,12 +9,7 @@
     "NeedProgress": 1,
     "DropIds": 4201,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 3,
-        "Value": "RoleRootView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10010002,
@@ -26,12 +21,7 @@
     "NeedProgress": 1,
     "DropIds": 4202,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 4,
-        "Value": "RoleWeaponTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10010003,
@@ -43,12 +33,7 @@
     "NeedProgress": 1,
     "DropIds": 4203,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 4,
-        "Value": "RoleWeaponTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10010004,
@@ -60,12 +45,7 @@
     "NeedProgress": 1,
     "DropIds": 4204,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "300404"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10010005,
@@ -77,12 +57,7 @@
     "NeedProgress": 1,
     "DropIds": 4205,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 1,
-        "Value": "139000029"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10020001,
@@ -94,12 +69,7 @@
     "NeedProgress": 1,
     "DropIds": 4208,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 3,
-        "Value": "RoleRootView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10020002,
@@ -111,12 +81,7 @@
     "NeedProgress": 1,
     "DropIds": 4209,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 4,
-        "Value": "RoleWeaponTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10020003,
@@ -128,12 +93,7 @@
     "NeedProgress": 1,
     "DropIds": 4210,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "300601"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10020004,
@@ -145,12 +105,7 @@
     "NeedProgress": 1,
     "DropIds": 4211,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 1,
-        "Value": "139000030"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10020005,
@@ -162,12 +117,7 @@
     "NeedProgress": 1,
     "DropIds": 4212,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 9,
-        "Value": "62"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10020006,
@@ -179,12 +129,7 @@
     "NeedProgress": 6,
     "DropIds": 4213,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "300401"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10020007,
@@ -196,12 +141,7 @@
     "NeedProgress": 10,
     "DropIds": 4214,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 5,
-        "Value": "CalabashCollectTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10030001,
@@ -213,12 +153,7 @@
     "NeedProgress": 3,
     "DropIds": 4216,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 3,
-        "Value": "RoleRootView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10030002,
@@ -230,12 +165,7 @@
     "NeedProgress": 1,
     "DropIds": 4223,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "3005"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10030003,
@@ -247,12 +177,7 @@
     "NeedProgress": 1,
     "DropIds": 4218,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 4,
-        "Value": "RolePhantomTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10030004,
@@ -264,12 +189,7 @@
     "NeedProgress": 1,
     "DropIds": 4219,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "300901"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10030005,
@@ -281,12 +201,7 @@
     "NeedProgress": 1,
     "DropIds": 4220,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 1,
-        "Value": "139000031"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10030006,
@@ -298,12 +213,7 @@
     "NeedProgress": 2,
     "DropIds": 4221,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "3010"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10030007,
@@ -315,12 +225,7 @@
     "NeedProgress": 2,
     "DropIds": 4222,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 9,
-        "Value": "6"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10030008,
@@ -332,12 +237,7 @@
     "NeedProgress": 1,
     "DropIds": 4223,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "301203"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10040001,
@@ -349,12 +249,7 @@
     "NeedProgress": 1,
     "DropIds": 4224,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 3,
-        "Value": "RoleRootView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10040002,
@@ -366,12 +261,7 @@
     "NeedProgress": 1,
     "DropIds": 4225,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 4,
-        "Value": "RoleWeaponTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10040003,
@@ -383,12 +273,7 @@
     "NeedProgress": 5,
     "DropIds": 4226,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 4,
-        "Value": "RolePhantomTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10040004,
@@ -400,12 +285,7 @@
     "NeedProgress": 1,
     "DropIds": 4227,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "300701"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10040005,
@@ -417,12 +297,7 @@
     "NeedProgress": 3,
     "DropIds": 4228,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 4,
-        "Value": "RolePhantomTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10040006,
@@ -434,12 +309,7 @@
     "NeedProgress": 1,
     "DropIds": 4238,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "5001"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10040007,
@@ -451,12 +321,7 @@
     "NeedProgress": 2,
     "DropIds": 4230,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "380003"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10040008,
@@ -468,12 +333,7 @@
     "NeedProgress": 1,
     "DropIds": 4231,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "3003"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10040009,
@@ -485,12 +345,7 @@
     "NeedProgress": 10,
     "DropIds": 4232,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 5,
-        "Value": "CalabashCollectTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10040010,
@@ -502,12 +357,7 @@
     "NeedProgress": 1,
     "DropIds": 4233,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 4,
-        "Value": "RoleSkillTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10050001,
@@ -519,12 +369,7 @@
     "NeedProgress": 3,
     "DropIds": 4234,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 3,
-        "Value": "RoleRootView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10050002,
@@ -536,12 +381,7 @@
     "NeedProgress": 3,
     "DropIds": 4235,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 4,
-        "Value": "RoleWeaponTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10050003,
@@ -553,12 +393,7 @@
     "NeedProgress": 5,
     "DropIds": 4236,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 4,
-        "Value": "RolePhantomTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10050004,
@@ -570,12 +405,7 @@
     "NeedProgress": 2,
     "DropIds": 4237,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 4,
-        "Value": "RoleSkillTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10050005,
@@ -587,12 +417,7 @@
     "NeedProgress": 1,
     "DropIds": 4229,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "3"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10050006,
@@ -604,12 +429,7 @@
     "NeedProgress": 5,
     "DropIds": 4239,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 5,
-        "Value": "CalabashCollectTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10050007,
@@ -621,12 +441,7 @@
     "NeedProgress": 1,
     "DropIds": 4240,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "4021"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10050008,
@@ -638,12 +453,7 @@
     "NeedProgress": 1,
     "DropIds": 4241,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "380015"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10050009,
@@ -655,12 +465,7 @@
     "NeedProgress": 5,
     "DropIds": 4242,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 4,
-        "Value": "RolePhantomTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10050010,
@@ -672,12 +477,7 @@
     "NeedProgress": 1,
     "DropIds": 4243,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "301203"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10060001,
@@ -689,12 +489,7 @@
     "NeedProgress": 1,
     "DropIds": 4244,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 3,
-        "Value": "RoleRootView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10060002,
@@ -706,12 +501,7 @@
     "NeedProgress": 1,
     "DropIds": 4245,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 4,
-        "Value": "RoleWeaponTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10060003,
@@ -723,12 +513,7 @@
     "NeedProgress": 5,
     "DropIds": 4246,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 4,
-        "Value": "RolePhantomTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10060004,
@@ -740,12 +525,7 @@
     "NeedProgress": 10,
     "DropIds": 4247,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 4,
-        "Value": "RolePhantomTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10060005,
@@ -757,12 +537,7 @@
     "NeedProgress": 10,
     "DropIds": 4248,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 5,
-        "Value": "CalabashCollectTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10060006,
@@ -774,12 +549,7 @@
     "NeedProgress": 1,
     "DropIds": 4249,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "3000"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10060007,
@@ -791,12 +561,7 @@
     "NeedProgress": 5,
     "DropIds": 4250,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "5001"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10060008,
@@ -808,12 +573,7 @@
     "NeedProgress": 3,
     "DropIds": 4251,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 4,
-        "Value": "RoleSkillTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10060009,
@@ -825,12 +585,7 @@
     "NeedProgress": 1,
     "DropIds": 4252,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "4021"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10060010,
@@ -842,12 +597,7 @@
     "NeedProgress": 1,
     "DropIds": 4253,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "301203"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10010007,
@@ -859,12 +609,7 @@
     "NeedProgress": 1,
     "DropIds": 4207,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 4,
-        "Value": "RolePhantomTabView"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10020009,
@@ -876,12 +621,7 @@
     "NeedProgress": 1,
     "DropIds": 4215,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "5021"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 10030009,
@@ -893,11 +633,6 @@
     "NeedProgress": 1,
     "DropIds": 4215,
     "PathId": 0,
-    "JumpTo": [
-      {
-        "Key": 4,
-        "Value": "RolePhantomTabView"
-      }
-    ]
+    "JumpTo": {}
   }
 ]

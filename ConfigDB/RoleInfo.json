@@ -32,19 +32,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYangyang.T_ActivityRoleYangyang",
-    "SpilloverItem": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100001,
     "UiMeshId": 100001,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 1,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10002,
@@ -54,20 +49,15 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -77,9 +67,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_1402_CharacterVoice",
@@ -87,7 +77,7 @@
     "IsAim": false,
     "RoleGuide": 5001,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1202,
@@ -120,19 +110,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_maxiaofang_UI.T_IconRole_Pile_maxiaofang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleZhixia.T_ActivityRoleZhixia",
-    "SpilloverItem": [
-      {
-        "Key": 10001202,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100002,
     "UiMeshId": 100002,
     "RoleBody": "FemaleM",
     "BreachModel": 730101,
     "SpecialEnergyBarId": 2,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10002,
@@ -142,20 +127,15 @@
     "ResonanceId": 1202,
     "ResonantChainGroupId": 1202,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001202,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21030011,
     "WeaponType": 3,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Fire.DA_Fx_UI_UIMap_Character_Fire",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Maxiaofang/R2T1MaxiaofangMd10011/ABP_Performance_Maxiaofang_PC.ABP_Performance_Maxiaofang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Fire.DA_Fx_UI_UIMap_Character_Fire",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Maxiaofang/R2T1MaxiaofangMd10011/ABP_Performance_Maxiaofang_PC.ABP_Performance_Maxiaofang_PC_C",
     "LockOnDefaultId": 3,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectFire",
+    "SkillEffectDA": "RoleSkillTabEffectFire",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -165,9 +145,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_1202_CharacterVoice",
@@ -175,7 +155,7 @@
     "IsAim": true,
     "RoleGuide": 5002,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1503,
@@ -210,19 +190,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jueyuan_UI.T_IconRole_Pile_jueyuan_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": [
-      {
-        "Key": 10001503,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100003,
     "UiMeshId": 100003,
     "RoleBody": "FemaleS",
     "BreachModel": 730101,
     "SpecialEnergyBarId": 3,
     "CameraConfig": "10000",
-    "CameraFloatHeight": -5.0,
+    "CameraFloatHeight": -5,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -232,20 +207,15 @@
     "ResonanceId": 1503,
     "ResonantChainGroupId": 1503,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001503,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21050011,
     "WeaponType": 5,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleS/Jueyuan/R2T1JueyuanMd10011/ABP_Performance_Jueyuan_PC.ABP_Performance_Jueyuan_PC_C",
-    "LockOnDefaultId": 3,
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleS/Jueyuan/R2T1JueyuanMd10011/ABP_Performance_Jueyuan_PC.ABP_Performance_Jueyuan_PC_C",
+    "LockOnDefaultId": 5,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectLight",
+    "SkillEffectDA": "RoleSkillTabEffectLight",
     "FootStepState": "FS_Boots",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -255,9 +225,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_1503_CharacterVoice",
@@ -265,7 +235,7 @@
     "IsAim": false,
     "RoleGuide": 5007,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1501,
@@ -299,19 +269,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan_UI.T_IconRole_Pile_zhujuenan_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleNanzhu.T_ActivityRoleNanzhu",
-    "SpilloverItem": [
-      {
-        "Key": 10001500,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100004,
     "UiMeshId": 100004,
     "RoleBody": "MaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 4,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -321,20 +286,15 @@
     "ResonanceId": 1,
     "ResonantChainGroupId": 1,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001500,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/ABP_Performance_PlayerMale_PC.ABP_Performance_PlayerMale_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/ABP_Performance_PlayerMale_PC.ABP_Performance_PlayerMale_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectLight",
+    "SkillEffectDA": "RoleSkillTabEffectLight",
     "FootStepState": "FS_Boots",
     "PartyId": 9,
     "AttributesDescription": "",
@@ -344,9 +304,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_1501_CharacterVoice",
@@ -354,7 +314,7 @@
     "IsAim": false,
     "RoleGuide": 5004,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1102,
@@ -388,19 +348,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_shanhua_UI.T_IconRole_Pile_shanhua_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleSanhua.T_ActivityRoleSanhua",
-    "SpilloverItem": [
-      {
-        "Key": 10001102,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100005,
     "UiMeshId": 100005,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 5,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10002,
@@ -410,20 +365,15 @@
     "ResonanceId": 1102,
     "ResonantChainGroupId": 1102,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001102,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Ice.DA_Fx_UI_UIMap_Character_Ice",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Sanhua/R2T1SanhuaMd10011/ABP_Performance_Sanhua_PC.ABP_Performance_Sanhua_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Ice.DA_Fx_UI_UIMap_Character_Ice",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Sanhua/R2T1SanhuaMd10011/ABP_Performance_Sanhua_PC.ABP_Performance_Sanhua_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectIce",
+    "SkillEffectDA": "RoleSkillTabEffectIce",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -433,9 +383,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_1102_CharacterVoice",
@@ -443,7 +393,7 @@
     "IsAim": false,
     "RoleGuide": 5008,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1601,
@@ -478,19 +428,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_taohua_UI.T_IconRole_Pile_taohua_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleTaoqi.T_ActivityRoleTaoqi",
-    "SpilloverItem": [
-      {
-        "Key": 10001601,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100009,
     "UiMeshId": 100109,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 6,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10002,
@@ -500,20 +445,15 @@
     "ResonanceId": 1601,
     "ResonantChainGroupId": 1601,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001601,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21010011,
     "WeaponType": 1,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Dark.DA_Fx_UI_UIMap_Character_Dark",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Taohua/R2T1TaohuaMd10011/ABP_Performance_Taohua_PC.ABP_Performance_Taohua_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Dark.DA_Fx_UI_UIMap_Character_Dark",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Taohua/R2T1TaohuaMd10011/ABP_Performance_Taohua_PC.ABP_Performance_Taohua_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectDark",
+    "SkillEffectDA": "RoleSkillTabEffectDark",
     "FootStepState": "FS_Boots",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -523,9 +463,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_1601_CharacterVoice",
@@ -533,7 +473,7 @@
     "IsAim": false,
     "RoleGuide": 5006,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1502,
@@ -567,19 +507,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue_UI.T_IconRole_Pile_zhujue_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleNvzhu.T_ActivityRoleNvzhu",
-    "SpilloverItem": [
-      {
-        "Key": 10001500,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100006,
     "UiMeshId": 100006,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 4,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -589,20 +524,15 @@
     "ResonanceId": 1,
     "ResonantChainGroupId": 1,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001500,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Nvzhu/R2T1PlayerFemaleMd10011/ABP_Performance_PlayerFemale_PC.ABP_Performance_PlayerFemale_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Nvzhu/R2T1PlayerFemaleMd10011/ABP_Performance_PlayerFemale_PC.ABP_Performance_PlayerFemale_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectLight",
+    "SkillEffectDA": "RoleSkillTabEffectLight",
     "FootStepState": "FS_Heels",
     "PartyId": 9,
     "AttributesDescription": "",
@@ -612,9 +542,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_1502_CharacterVoice",
@@ -622,7 +552,7 @@
     "IsAim": false,
     "RoleGuide": 5005,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1103,
@@ -657,19 +587,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_bailian_UI.T_IconRole_Pile_bailian_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleBailian.T_ActivityRoleBailian",
-    "SpilloverItem": [
-      {
-        "Key": 10001103,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100007,
     "UiMeshId": 100007,
     "RoleBody": "FemaleXL",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 8,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10002,
@@ -679,20 +604,15 @@
     "ResonanceId": 1103,
     "ResonantChainGroupId": 1103,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001103,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21050011,
     "WeaponType": 5,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Ice.DA_Fx_UI_UIMap_Character_Ice",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleXL/BaiLian/R2T1BaiLianMd10011/ABP_Performance_BaiLian_PC.ABP_Performance_BaiLian_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Ice.DA_Fx_UI_UIMap_Character_Ice",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleXL/BaiLian/R2T1BaiLianMd10011/ABP_Performance_BaiLian_PC.ABP_Performance_BaiLian_PC_C",
     "LockOnDefaultId": 1103,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectIce",
+    "SkillEffectDA": "RoleSkillTabEffectIce",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -702,9 +622,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_1103_CharacterVoice",
@@ -712,7 +632,7 @@
     "IsAim": false,
     "RoleGuide": 5009,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1203,
@@ -746,19 +666,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_anke_UI.T_IconRole_Pile_anke_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": [
-      {
-        "Key": 10001203,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100008,
     "UiMeshId": 100008,
     "RoleBody": "FemaleS",
     "BreachModel": 730101,
     "SpecialEnergyBarId": 120300,
     "CameraConfig": "10000",
-    "CameraFloatHeight": -5.0,
+    "CameraFloatHeight": -5,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -768,20 +683,15 @@
     "ResonanceId": 1203,
     "ResonantChainGroupId": 1203,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001203,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21050011,
     "WeaponType": 5,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Fire.DA_Fx_UI_UIMap_Character_Fire",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleS/Anke/R2T1AnkeMd10011/ABP_Performance_Anke_PC.ABP_Performance_Anke_PC_C",
-    "LockOnDefaultId": 3,
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Fire.DA_Fx_UI_UIMap_Character_Fire",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleS/Anke/R2T1AnkeMd10011/ABP_Performance_Anke_PC.ABP_Performance_Anke_PC_C",
+    "LockOnDefaultId": 5,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectFire",
+    "SkillEffectDA": "RoleSkillTabEffectFire",
     "FootStepState": "FS_Heels",
     "PartyId": 3,
     "AttributesDescription": "",
@@ -791,9 +701,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_1203_CharacterVoice",
@@ -801,7 +711,7 @@
     "IsAim": false,
     "RoleGuide": 5010,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1602,
@@ -834,20 +744,15 @@
     "RoleHeadIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead80/T_IconRoleHead80_10_UI.T_IconRoleHead80_10_UI",
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_micai_UI.T_IconRole_Pile_micai_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": [
-      {
-        "Key": 10001602,
-        "Value": 1
-      }
-    ],
+    "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleDanjin.T_ActivityRoleDanjin",
+    "SpilloverItem": {},
     "MeshId": 100010,
     "UiMeshId": 100010,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 7,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10002,
@@ -857,20 +762,15 @@
     "ResonanceId": 1602,
     "ResonantChainGroupId": 1602,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001602,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Dark.DA_Fx_UI_UIMap_Character_Dark",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Micai/R2T1MicaiMd10011/ABP_Performance_Micai_PC.ABP_Performance_Micai_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Dark.DA_Fx_UI_UIMap_Character_Dark",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Micai/R2T1MicaiMd10011/ABP_Performance_Micai_PC.ABP_Performance_Micai_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectDark",
+    "SkillEffectDA": "RoleSkillTabEffectDark",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -880,9 +780,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_1602_CharacterVoice",
@@ -890,7 +790,7 @@
     "IsAim": false,
     "RoleGuide": 5011,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1403,
@@ -924,19 +824,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_qiushui_UI.T_IconRole_Pile_qiushui_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": [
-      {
-        "Key": 10001403,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100013,
     "UiMeshId": 100113,
     "RoleBody": "MaleXL",
     "BreachModel": 730101,
     "SpecialEnergyBarId": 9,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10002,
@@ -946,20 +841,15 @@
     "ResonanceId": 1403,
     "ResonantChainGroupId": 1403,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001403,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21030011,
     "WeaponType": 3,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/MaleXL/Qiushui/R2T1QiushuiMd10011/ABP_Performance_Qiushui_PC.ABP_Performance_Qiushui_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/MaleXL/Qiushui/R2T1QiushuiMd10011/ABP_Performance_Qiushui_PC.ABP_Performance_Qiushui_PC_C",
     "LockOnDefaultId": 3,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 3,
     "AttributesDescription": "",
@@ -979,7 +869,7 @@
     "IsAim": true,
     "RoleGuide": 5012,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1404,
@@ -1014,19 +904,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jiyan_UI.T_IconRole_Pile_jiyan_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJiyan1.T_ActivityRoleJiyan1",
-    "SpilloverItem": [
-      {
-        "Key": 10001404,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100014,
     "UiMeshId": 100014,
     "RoleBody": "MaleXL",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 140400,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -1036,20 +921,15 @@
     "ResonanceId": 1404,
     "ResonantChainGroupId": 1404,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001404,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21010011,
     "WeaponType": 1,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Fire.DA_Fx_UI_UIMap_Character_Fire",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/MaleXL/Jiyan/R2T1JiyanMd10011/ABP_Performance_Jiyan_PC.ABP_Performance_Jiyan_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Fire.DA_Fx_UI_UIMap_Character_Fire",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/MaleXL/Jiyan/R2T1JiyanMd10011/ABP_Performance_Jiyan_PC.ABP_Performance_Jiyan_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Boots",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -1059,9 +939,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_1404_CharacterVoice",
@@ -1069,7 +949,7 @@
     "IsAim": false,
     "RoleGuide": 5013,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1204,
@@ -1105,19 +985,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_baer_UI.T_IconRole_Pile_baer_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": [
-      {
-        "Key": 10001204,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100012,
     "UiMeshId": 100012,
     "RoleBody": "MaleXL",
     "BreachModel": 730101,
     "SpecialEnergyBarId": 10,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10002,
@@ -1127,20 +1002,15 @@
     "ResonanceId": 1204,
     "ResonantChainGroupId": 1204,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001204,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21030011,
     "WeaponType": 3,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Fire.DA_Fx_UI_UIMap_Character_Fire",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/MaleXL/Baer/R2T1BaerMd10011/ABP_Performance_Baer_PC.ABP_Performance_Baer_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Fire.DA_Fx_UI_UIMap_Character_Fire",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/MaleXL/Baer/R2T1BaerMd10011/ABP_Performance_Baer_PC.ABP_Performance_Baer_PC_C",
     "LockOnDefaultId": 3,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectFire",
+    "SkillEffectDA": "RoleSkillTabEffectFire",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -1160,7 +1030,7 @@
     "IsAim": true,
     "RoleGuide": 5014,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1301,
@@ -1194,19 +1064,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_kakaluo_UI.T_IconRole_Pile_kakaluo_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": [
-      {
-        "Key": 10001301,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100011,
     "UiMeshId": 100111,
     "RoleBody": "MaleXL",
     "BreachModel": 730101,
     "SpecialEnergyBarId": 130100,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -1216,20 +1081,15 @@
     "ResonanceId": 1301,
     "ResonantChainGroupId": 1301,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001301,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21010011,
     "WeaponType": 1,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Fire.DA_Fx_UI_UIMap_Character_Fire",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/MaleXL/Kakaluo/R2T1KakaluoMd10011/ABP_Performance_Kakaluo_PC.ABP_Performance_Kakaluo_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Fire.DA_Fx_UI_UIMap_Character_Fire",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/MaleXL/Kakaluo/R2T1KakaluoMd10011/ABP_Performance_Kakaluo_PC.ABP_Performance_Kakaluo_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectThunder",
+    "SkillEffectDA": "RoleSkillTabEffectThunder",
     "FootStepState": "FS_Heels",
     "PartyId": 2,
     "AttributesDescription": "",
@@ -1239,9 +1099,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_1301_CharacterVoice",
@@ -1249,7 +1109,7 @@
     "IsAim": false,
     "RoleGuide": 5015,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1302,
@@ -1286,19 +1146,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yinlin_UI.T_IconRole_Pile_yinlin_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYinlin.T_ActivityRoleYinlin",
-    "SpilloverItem": [
-      {
-        "Key": 10001302,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100017,
     "UiMeshId": 100017,
     "RoleBody": "FemaleM",
     "BreachModel": 730101,
     "SpecialEnergyBarId": 13,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -1308,20 +1163,15 @@
     "ResonanceId": 1302,
     "ResonantChainGroupId": 1302,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001302,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21050011,
     "WeaponType": 5,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/YinLin/R2T1YinlinMd10011/ABP_Performance_Yinlin_PC.ABP_Performance_Yinlin_PC_C",
-    "LockOnDefaultId": 3,
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/YinLin/R2T1YinlinMd10011/ABP_Performance_Yinlin_PC.ABP_Performance_Yinlin_PC_C",
+    "LockOnDefaultId": 5,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectLight",
+    "SkillEffectDA": "RoleSkillTabEffectLight",
     "FootStepState": "FS_Boots",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -1331,9 +1181,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_1302_CharacterVoice",
@@ -1341,7 +1191,7 @@
     "IsAim": false,
     "RoleGuide": 5016,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1104,
@@ -1374,19 +1224,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_lingyang_UI.T_IconRole_Pile_lingyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": [
-      {
-        "Key": 10001104,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100016,
     "UiMeshId": 100016,
     "RoleBody": "MaleS",
     "BreachModel": 730101,
     "SpecialEnergyBarId": 110400,
     "CameraConfig": "10000",
-    "CameraFloatHeight": -3.0,
+    "CameraFloatHeight": -3,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -1396,20 +1241,15 @@
     "ResonanceId": 1104,
     "ResonantChainGroupId": 1104,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001104,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21040011,
     "WeaponType": 4,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/MaleS/Lingyang/R2T1LingyangMd10011/ABP_Performance_Lingyang_PC.ABP_Performance_Lingyang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/MaleS/Lingyang/R2T1LingyangMd10011/ABP_Performance_Lingyang_PC.ABP_Performance_Lingyang_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectLight",
+    "SkillEffectDA": "RoleSkillTabEffectLight",
     "FootStepState": "FS_Boots",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -1429,7 +1269,7 @@
     "IsAim": false,
     "RoleGuide": 5021,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1303,
@@ -1464,20 +1304,15 @@
     "RoleHeadIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead80/T_IconRoleHead80_15_UI.T_IconRoleHead80_15_UI",
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yuanwu_UI.T_IconRole_Pile_yuanwu_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": [
-      {
-        "Key": 10001303,
-        "Value": 1
-      }
-    ],
+    "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYuanwu.T_ActivityRoleYuanwu",
+    "SpilloverItem": {},
     "MeshId": 100019,
     "UiMeshId": 100019,
     "RoleBody": "MaleXL",
     "BreachModel": 730101,
     "SpecialEnergyBarId": 12,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10002,
@@ -1487,20 +1322,15 @@
     "ResonanceId": 1303,
     "ResonantChainGroupId": 1303,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001303,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21040011,
     "WeaponType": 4,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/MaleXL/Yuanwu/R2T1YuanwuMd10011/ABP_Performance_Yuanwu_PC.ABP_Performance_Yuanwu_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/MaleXL/Yuanwu/R2T1YuanwuMd10011/ABP_Performance_Yuanwu_PC.ABP_Performance_Yuanwu_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectLight",
+    "SkillEffectDA": "RoleSkillTabEffectLight",
     "FootStepState": "FS_Boots",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -1520,7 +1350,7 @@
     "IsAim": false,
     "RoleGuide": 5017,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1604,
@@ -1553,19 +1383,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue_UI.T_IconRole_Pile_zhujue_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": [
-      {
-        "Key": 10001500,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100021,
     "UiMeshId": 100021,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 160400,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -1575,20 +1400,15 @@
     "ResonanceId": 1604,
     "ResonantChainGroupId": 1604,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001500,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Dark.DA_Fx_UI_UIMap_Character_Dark",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Nvzhu/R2T1PlayerFemaleMd10011/ABP_Performance_PlayerFemale_PC.ABP_Performance_PlayerFemale_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Dark.DA_Fx_UI_UIMap_Character_Dark",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Nvzhu/R2T1PlayerFemaleMd10011/ABP_Performance_PlayerFemale_PC.ABP_Performance_PlayerFemale_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectLight",
+    "SkillEffectDA": "RoleSkillTabEffectLight",
     "FootStepState": "FS_Heels",
     "PartyId": 9,
     "AttributesDescription": "",
@@ -1598,9 +1418,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_1604_CharacterVoice",
@@ -1608,7 +1428,7 @@
     "IsAim": false,
     "RoleGuide": 5020,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1605,
@@ -1641,19 +1461,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan_UI.T_IconRole_Pile_zhujuenan_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": [
-      {
-        "Key": 10001500,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100022,
     "UiMeshId": 100022,
     "RoleBody": "MaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 160400,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -1663,20 +1478,15 @@
     "ResonanceId": 1604,
     "ResonantChainGroupId": 1604,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001500,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Dark.DA_Fx_UI_UIMap_Character_Dark",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/ABP_Performance_PlayerMale_PC.ABP_Performance_PlayerMale_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Dark.DA_Fx_UI_UIMap_Character_Dark",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/ABP_Performance_PlayerMale_PC.ABP_Performance_PlayerMale_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectLight",
+    "SkillEffectDA": "RoleSkillTabEffectLight",
     "FootStepState": "FS_Heels",
     "PartyId": 9,
     "AttributesDescription": "",
@@ -1686,9 +1496,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_1605_CharacterVoice",
@@ -1696,7 +1506,7 @@
     "IsAim": false,
     "RoleGuide": 5019,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5001,
@@ -1706,7 +1516,7 @@
     "Name": "RoleInfo_5001_Name",
     "NickName": "RoleInfo_5001_NickName",
     "Introduction": "RoleInfo_5001_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 5001,
@@ -1727,14 +1537,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": null,
+    "SpilloverItem": {},
     "MeshId": 39001301,
     "UiMeshId": 39001301,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 0,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 0.0,
+    "CameraFloatHeight": 0,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -1744,20 +1554,15 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -1767,9 +1572,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5001_CharacterVoice",
@@ -1777,7 +1582,7 @@
     "IsAim": false,
     "RoleGuide": 0,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5002,
@@ -1787,7 +1592,7 @@
     "Name": "RoleInfo_5002_Name",
     "NickName": "RoleInfo_5002_NickName",
     "Introduction": "RoleInfo_5002_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 5002,
@@ -1808,14 +1613,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": null,
+    "SpilloverItem": {},
     "MeshId": 10070301,
     "UiMeshId": 10070301,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 0,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 0.0,
+    "CameraFloatHeight": 0,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -1825,20 +1630,15 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -1848,9 +1648,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5002_CharacterVoice",
@@ -1858,7 +1658,7 @@
     "IsAim": false,
     "RoleGuide": 0,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5003,
@@ -1868,7 +1668,7 @@
     "Name": "RoleInfo_5003_Name",
     "NickName": "RoleInfo_5003_NickName",
     "Introduction": "RoleInfo_5003_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 5003,
@@ -1889,14 +1689,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": null,
+    "SpilloverItem": {},
     "MeshId": 39007301,
     "UiMeshId": 39007301,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 0,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 0.0,
+    "CameraFloatHeight": 0,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -1906,20 +1706,15 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -1929,9 +1724,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5003_CharacterVoice",
@@ -1939,7 +1734,7 @@
     "IsAim": false,
     "RoleGuide": 0,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5004,
@@ -1949,7 +1744,7 @@
     "Name": "RoleInfo_5004_Name",
     "NickName": "RoleInfo_5004_NickName",
     "Introduction": "RoleInfo_5004_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 5004,
@@ -1970,14 +1765,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": null,
+    "SpilloverItem": {},
     "MeshId": 30100301,
     "UiMeshId": 30100301,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 0,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 0.0,
+    "CameraFloatHeight": 0,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -1987,20 +1782,15 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -2010,9 +1800,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5004_CharacterVoice",
@@ -2020,7 +1810,7 @@
     "IsAim": false,
     "RoleGuide": 0,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5005,
@@ -2030,7 +1820,7 @@
     "Name": "RoleInfo_5005_Name",
     "NickName": "RoleInfo_5005_NickName",
     "Introduction": "RoleInfo_5005_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 5005,
@@ -2051,14 +1841,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": null,
+    "SpilloverItem": {},
     "MeshId": 39010601,
     "UiMeshId": 39010601,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 0,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 0.0,
+    "CameraFloatHeight": 0,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -2068,20 +1858,15 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -2091,9 +1876,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5005_CharacterVoice",
@@ -2101,7 +1886,7 @@
     "IsAim": false,
     "RoleGuide": 0,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5006,
@@ -2111,7 +1896,7 @@
     "Name": "RoleInfo_5006_Name",
     "NickName": "RoleInfo_5006_NickName",
     "Introduction": "RoleInfo_5006_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 5006,
@@ -2132,14 +1917,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": null,
+    "SpilloverItem": {},
     "MeshId": 39004901,
     "UiMeshId": 39004901,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 0,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 0.0,
+    "CameraFloatHeight": 0,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -2149,20 +1934,15 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -2172,9 +1952,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5006_CharacterVoice",
@@ -2182,7 +1962,7 @@
     "IsAim": false,
     "RoleGuide": 0,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5007,
@@ -2192,7 +1972,7 @@
     "Name": "RoleInfo_5007_Name",
     "NickName": "RoleInfo_5007_NickName",
     "Introduction": "RoleInfo_5007_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 5007,
@@ -2213,14 +1993,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": null,
+    "SpilloverItem": {},
     "MeshId": 39000801,
     "UiMeshId": 39000801,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 5007,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 0.0,
+    "CameraFloatHeight": 0,
     "EntityProperty": 5,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -2230,20 +2010,15 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
     "LockOnDefaultId": 3,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -2253,9 +2028,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5007_CharacterVoice",
@@ -2263,7 +2038,7 @@
     "IsAim": false,
     "RoleGuide": 0,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5101,
@@ -2273,7 +2048,7 @@
     "Name": "RoleInfo_5101_Name",
     "NickName": "RoleInfo_5101_NickName",
     "Introduction": "RoleInfo_5101_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 1102,
@@ -2294,19 +2069,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue_UI.T_IconRole_Pile_zhujue_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": [
-      {
-        "Key": 10001102,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100018,
     "UiMeshId": 100005,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 5,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -2316,20 +2086,15 @@
     "ResonanceId": 1102,
     "ResonantChainGroupId": 1102,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001102,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Ice.DA_Fx_UI_UIMap_Character_Ice",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Sanhua/R2T1SanhuaMd10011/ABP_Performance_Sanhua_PC.ABP_Performance_Sanhua_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Ice.DA_Fx_UI_UIMap_Character_Ice",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Sanhua/R2T1SanhuaMd10011/ABP_Performance_Sanhua_PC.ABP_Performance_Sanhua_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectIce",
+    "SkillEffectDA": "RoleSkillTabEffectIce",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -2339,9 +2104,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5101_CharacterVoice",
@@ -2349,7 +2114,7 @@
     "IsAim": false,
     "RoleGuide": 5008,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5102,
@@ -2359,7 +2124,7 @@
     "Name": "RoleInfo_5102_Name",
     "NickName": "RoleInfo_5102_NickName",
     "Introduction": "RoleInfo_5102_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 1102,
@@ -2380,19 +2145,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue_UI.T_IconRole_Pile_zhujue_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": [
-      {
-        "Key": 10001102,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100020,
     "UiMeshId": 100005,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 5,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -2402,20 +2162,15 @@
     "ResonanceId": 1102,
     "ResonantChainGroupId": 1102,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001102,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Ice.DA_Fx_UI_UIMap_Character_Ice",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Sanhua/R2T1SanhuaMd10011/ABP_Performance_Sanhua_PC.ABP_Performance_Sanhua_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Ice.DA_Fx_UI_UIMap_Character_Ice",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Sanhua/R2T1SanhuaMd10011/ABP_Performance_Sanhua_PC.ABP_Performance_Sanhua_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectIce",
+    "SkillEffectDA": "RoleSkillTabEffectIce",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -2425,9 +2180,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5102_CharacterVoice",
@@ -2435,7 +2190,7 @@
     "IsAim": false,
     "RoleGuide": 5008,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5103,
@@ -2445,7 +2200,7 @@
     "Name": "RoleInfo_5103_Name",
     "NickName": "RoleInfo_5103_NickName",
     "Introduction": "RoleInfo_5103_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 1102,
@@ -2466,19 +2221,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue_UI.T_IconRole_Pile_zhujue_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": [
-      {
-        "Key": 10001102,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100023,
     "UiMeshId": 100005,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 5,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -2488,20 +2238,15 @@
     "ResonanceId": 1102,
     "ResonantChainGroupId": 1102,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001102,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Ice.DA_Fx_UI_UIMap_Character_Ice",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Sanhua/R2T1SanhuaMd10011/ABP_Performance_Sanhua_PC.ABP_Performance_Sanhua_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Ice.DA_Fx_UI_UIMap_Character_Ice",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Sanhua/R2T1SanhuaMd10011/ABP_Performance_Sanhua_PC.ABP_Performance_Sanhua_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectIce",
+    "SkillEffectDA": "RoleSkillTabEffectIce",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -2511,9 +2256,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5103_CharacterVoice",
@@ -2521,7 +2266,7 @@
     "IsAim": false,
     "RoleGuide": 5008,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 9990,
@@ -2531,7 +2276,7 @@
     "Name": "RoleInfo_9990_Name",
     "NickName": "RoleInfo_9990_NickName",
     "Introduction": "RoleInfo_9990_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 99,
     "PropertyId": 1502,
@@ -2552,19 +2297,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue_UI.T_IconRole_Pile_zhujue_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": [
-      {
-        "Key": 10001500,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 199999,
     "UiMeshId": 199999,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 4,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -2574,20 +2314,15 @@
     "ResonanceId": 1,
     "ResonantChainGroupId": 1,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001500,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Nvzhu/R2T1PlayerFemaleMd10011/ABP_Performance_PlayerFemale_PC.ABP_Performance_PlayerFemale_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Nvzhu/R2T1PlayerFemaleMd10011/ABP_Performance_PlayerFemale_PC.ABP_Performance_PlayerFemale_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectLight",
+    "SkillEffectDA": "RoleSkillTabEffectLight",
     "FootStepState": "FS_Heels",
     "PartyId": 9,
     "AttributesDescription": "",
@@ -2597,9 +2332,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_9990_CharacterVoice",
@@ -2607,7 +2342,7 @@
     "IsAim": false,
     "RoleGuide": 5005,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 9991,
@@ -2617,7 +2352,7 @@
     "Name": "RoleInfo_9991_Name",
     "NickName": "RoleInfo_9991_NickName",
     "Introduction": "RoleInfo_9991_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 99,
     "PropertyId": 1501,
@@ -2638,19 +2373,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan_UI.T_IconRole_Pile_zhujuenan_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": [
-      {
-        "Key": 10001500,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 199998,
     "UiMeshId": 199998,
     "RoleBody": "MaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 4,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -2660,20 +2390,15 @@
     "ResonanceId": 1,
     "ResonantChainGroupId": 1,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001500,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/ABP_Performance_PlayerMale_PC.ABP_Performance_PlayerMale_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/MaleM/Nanzhu/R2T1PlayerMaleMd10011/ABP_Performance_PlayerMale_PC.ABP_Performance_PlayerMale_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectLight",
+    "SkillEffectDA": "RoleSkillTabEffectLight",
     "FootStepState": "FS_Boots",
     "PartyId": 9,
     "AttributesDescription": "",
@@ -2683,9 +2408,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_9991_CharacterVoice",
@@ -2693,7 +2418,7 @@
     "IsAim": false,
     "RoleGuide": 5004,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5010,
@@ -2703,7 +2428,7 @@
     "Name": "RoleInfo_5006_Name",
     "NickName": "RoleInfo_5006_NickName",
     "Introduction": "RoleInfo_5006_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 5010,
@@ -2724,14 +2449,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": null,
+    "SpilloverItem": {},
     "MeshId": 39009501,
     "UiMeshId": 39009501,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 0,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 0.0,
+    "CameraFloatHeight": 0,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -2741,20 +2466,15 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -2764,9 +2484,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5006_CharacterVoice",
@@ -2774,7 +2494,7 @@
     "IsAim": false,
     "RoleGuide": 0,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1405,
@@ -2810,19 +2530,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jiexin_UI.T_IconRole_Pile_jiexin_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJianxin.T_ActivityRoleJianxin",
-    "SpilloverItem": [
-      {
-        "Key": 10001405,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100024,
     "UiMeshId": 100024,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 15,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10002,
@@ -2832,20 +2547,15 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1405,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001405,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21040011,
     "WeaponType": 4,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Jianxin/R2T1JianxinMd10011/ABP_Performance_Jianxin_PC.ABP_Performance_Jianxin_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Jianxin/R2T1JianxinMd10011/ABP_Performance_Jianxin_PC.ABP_Performance_Jianxin_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -2865,7 +2575,7 @@
     "IsAim": false,
     "RoleGuide": 5022,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5008,
@@ -2875,7 +2585,7 @@
     "Name": "RoleInfo_5008_Name",
     "NickName": "RoleInfo_5006_NickName",
     "Introduction": "RoleInfo_5006_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 5006,
@@ -2896,14 +2606,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": null,
+    "SpilloverItem": {},
     "MeshId": 39004001,
     "UiMeshId": 39004001,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 0,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 0.0,
+    "CameraFloatHeight": 0,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -2913,20 +2623,15 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -2936,9 +2641,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5006_CharacterVoice",
@@ -2946,7 +2651,7 @@
     "IsAim": false,
     "RoleGuide": 0,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 1304,
@@ -2980,19 +2685,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jinxi_UI.T_IconRole_Pile_jinxi_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJinxi.T_ActivityRoleJinxi",
-    "SpilloverItem": [
-      {
-        "Key": 10001304,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100020,
     "UiMeshId": 100020,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 17,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10002,
@@ -3002,20 +2702,15 @@
     "ResonanceId": 1304,
     "ResonantChainGroupId": 1304,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001304,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21010011,
     "WeaponType": 1,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Jinxi/R2T1JinxiMd10011/ABP_Performance_Jinxi_PC.ABP_Performance_Jinxi_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Jinxi/R2T1JinxiMd10011/ABP_Performance_Jinxi_PC.ABP_Performance_Jinxi_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectThunder",
+    "SkillEffectDA": "RoleSkillTabEffectThunder",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -3025,9 +2720,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_1304_CharacterVoice",
@@ -3035,7 +2730,7 @@
     "IsAim": false,
     "RoleGuide": 5023,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5009,
@@ -3045,7 +2740,7 @@
     "Name": "RoleInfo_5006_Name",
     "NickName": "RoleInfo_5006_NickName",
     "Introduction": "RoleInfo_5006_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 5006,
@@ -3066,14 +2761,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": null,
+    "SpilloverItem": {},
     "MeshId": 39008301,
     "UiMeshId": 39008301,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 0,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 0.0,
+    "CameraFloatHeight": 0,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -3083,20 +2778,15 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -3106,9 +2796,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5006_CharacterVoice",
@@ -3116,7 +2806,7 @@
     "IsAim": false,
     "RoleGuide": 0,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5011,
@@ -3126,7 +2816,7 @@
     "Name": "RoleInfo_5011_Name",
     "NickName": "RoleInfo_5011_Name",
     "Introduction": "RoleInfo_5006_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 5006,
@@ -3147,14 +2837,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": null,
+    "SpilloverItem": {},
     "MeshId": 39010201,
     "UiMeshId": 39010201,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 0,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 0.0,
+    "CameraFloatHeight": 0,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -3164,20 +2854,15 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -3187,9 +2872,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5006_CharacterVoice",
@@ -3197,7 +2882,7 @@
     "IsAim": false,
     "RoleGuide": 0,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5012,
@@ -3207,7 +2892,7 @@
     "Name": "RoleInfo_5012_Name",
     "NickName": "RoleInfo_5012_Name",
     "Introduction": "RoleInfo_5006_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 5012,
@@ -3228,14 +2913,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": null,
+    "SpilloverItem": {},
     "MeshId": 390234,
     "UiMeshId": 39010201,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 0,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 0.0,
+    "CameraFloatHeight": 0,
     "EntityProperty": 5,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -3245,20 +2930,15 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -3268,9 +2948,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5006_CharacterVoice",
@@ -3278,7 +2958,7 @@
     "IsAim": false,
     "RoleGuide": 0,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5013,
@@ -3288,7 +2968,7 @@
     "Name": "RoleInfo_5013_Name",
     "NickName": "RoleInfo_5013_Name",
     "Introduction": "RoleInfo_5006_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 5006,
@@ -3309,14 +2989,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": null,
+    "SpilloverItem": {},
     "MeshId": 39002101,
     "UiMeshId": 39002101,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 0,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 0.0,
+    "CameraFloatHeight": 0,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -3326,20 +3006,15 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -3349,9 +3024,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5006_CharacterVoice",
@@ -3359,7 +3034,7 @@
     "IsAim": false,
     "RoleGuide": 0,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5014,
@@ -3369,7 +3044,7 @@
     "Name": "RoleInfo_5014_Name",
     "NickName": "RoleInfo_5014_Name",
     "Introduction": "RoleInfo_5006_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 5006,
@@ -3390,14 +3065,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": null,
+    "SpilloverItem": {},
     "MeshId": 39002201,
     "UiMeshId": 39002201,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 0,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 0.0,
+    "CameraFloatHeight": 0,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -3407,20 +3082,15 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -3430,9 +3100,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5006_CharacterVoice",
@@ -3440,7 +3110,7 @@
     "IsAim": false,
     "RoleGuide": 0,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5015,
@@ -3450,7 +3120,7 @@
     "Name": "RoleInfo_5015_Name",
     "NickName": "RoleInfo_5014_Name",
     "Introduction": "RoleInfo_5006_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 5006,
@@ -3471,14 +3141,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": null,
+    "SpilloverItem": {},
     "MeshId": 39000001,
     "UiMeshId": 39000001,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 0,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 0.0,
+    "CameraFloatHeight": 0,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -3488,20 +3158,15 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -3511,9 +3176,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5006_CharacterVoice",
@@ -3521,7 +3186,7 @@
     "IsAim": false,
     "RoleGuide": 0,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
   },
   {
     "Id": 5016,
@@ -3531,7 +3196,7 @@
     "Name": "RoleInfo_5006_Name",
     "NickName": "RoleInfo_5006_NickName",
     "Introduction": "RoleInfo_5006_Introduction",
-    "Tag": null,
+    "Tag": [],
     "ParentId": 0,
     "Priority": 4,
     "PropertyId": 5013,
@@ -3552,14 +3217,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": null,
+    "SpilloverItem": {},
     "MeshId": 39004902,
     "UiMeshId": 39004902,
     "RoleBody": "FemaleM",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 0,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 0.0,
+    "CameraFloatHeight": 0,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -3569,20 +3234,15 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001402,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Yangyang/R2T1YangyangMd10011/ABP_Performance_Yangyang_PC.ABP_Performance_Yangyang_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -3592,9 +3252,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_5006_CharacterVoice",
@@ -3602,7 +3262,86 @@
     "IsAim": false,
     "RoleGuide": 0,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
+  },
+  {
+    "Id": 1305,
+    "QualityId": 5,
+    "RoleType": 1,
+    "IsTrial": false,
+    "Name": "RoleInfo_1305_Name",
+    "NickName": "RoleInfo_1305_NickName",
+    "Introduction": "FavorRoleInfo_1305_Info",
+    "Tag": [
+      2,
+      7
+    ],
+    "ParentId": 0,
+    "Priority": 21,
+    "PropertyId": 1305,
+    "ShowProperty": [
+      2,
+      7,
+      10,
+      13,
+      8,
+      9
+    ],
+    "ElementId": 3,
+    "RoleHeadIconCircle": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHeadCircle256/T_IconRoleHeadCircle256_25_UI.T_IconRoleHeadCircle256_25_UI",
+    "RoleHeadIconLarge": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_25_UI.T_IconRoleHead256_25_UI",
+    "RoleHeadIconBig": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_25_UI.T_IconRoleHead150_25_UI",
+    "Card": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_25_UI.T_IconRoleHead175_25_UI",
+    "RoleHeadIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead80/T_IconRoleHead80_25_UI.T_IconRoleHead80_25_UI",
+    "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_xiangliyao_UI.T_IconRole_Pile_xiangliyao_UI",
+    "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
+    "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleXiangliyao.T_ActivityRoleXiangliyao",
+    "SpilloverItem": {},
+    "MeshId": 100026,
+    "UiMeshId": 100026,
+    "RoleBody": "MaleM",
+    "BreachModel": 730100,
+    "SpecialEnergyBarId": 130500,
+    "CameraConfig": "10000",
+    "CameraFloatHeight": 15,
+    "EntityProperty": 0,
+    "MaxLevel": 90,
+    "LevelConsumeId": 10002,
+    "BreachId": 1305,
+    "SkillId": 1305,
+    "SkillTreeGroupId": 1305,
+    "ResonanceId": 1305,
+    "ResonantChainGroupId": 1305,
+    "IsShow": false,
+    "ExchangeConsume": {},
+    "InitWeaponItemId": 21040011,
+    "WeaponType": 4,
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/ABP_Performance_XiangLiYao_PC.ABP_Performance_XiangLiYao_PC_C",
+    "LockOnDefaultId": 1,
+    "LockOnLookOnId": 2,
+    "SkillEffectDA": "RoleSkillTabEffectThunder",
+    "FootStepState": "FS_Heels",
+    "PartyId": 1,
+    "AttributesDescription": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_1402_UI.T_IconRup_1402_UI",
+    "ItemQualityId": 5,
+    "ObtainedShowDescription": "",
+    "NumLimit": 1,
+    "ShowInBag": true,
+    "WeaponScale": [
+      1,
+      1,
+      1
+    ],
+    "Intervene": false,
+    "CharacterVoice": "RoleInfo_1304_CharacterVoice",
+    "TrialRole": 100322,
+    "IsAim": false,
+    "RoleGuide": 5026,
+    "RedDotDisableRule": 0,
+    "SkinDamage": []
   },
   {
     "Id": 1205,
@@ -3638,19 +3377,14 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_changli_UI.T_IconRole_Pile_changli_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleChangli.T_ActivityRoleChangli",
-    "SpilloverItem": [
-      {
-        "Key": 10001205,
-        "Value": 1
-      }
-    ],
+    "SpilloverItem": {},
     "MeshId": 100027,
     "UiMeshId": 100027,
     "RoleBody": "FemaleXL",
     "BreachModel": 730100,
     "SpecialEnergyBarId": 16,
     "CameraConfig": "10000",
-    "CameraFloatHeight": 15.0,
+    "CameraFloatHeight": 15,
     "EntityProperty": 0,
     "MaxLevel": 90,
     "LevelConsumeId": 10001,
@@ -3660,20 +3394,15 @@
     "ResonanceId": 1205,
     "ResonantChainGroupId": 1205,
     "IsShow": false,
-    "ExchangeConsume": [
-      {
-        "Key": 10001205,
-        "Value": 1
-      }
-    ],
+    "ExchangeConsume": {},
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
-    "SkillDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
-    "SkillLockDapath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
-    "UiScenePerformanceAbp": "/Game/Aki/Character/Role/FemaleXL/ChangLi/R2T1ChangLiMd10011/ABP_Performance_ChangLi_PC.ABP_Performance_ChangLi_PC_C",
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleXL/ChangLi/R2T1ChangLiMd10011/ABP_Performance_ChangLi_PC.ABP_Performance_ChangLi_PC_C",
     "LockOnDefaultId": 1,
     "LockOnLookOnId": 2,
-    "SkillEffectDa": "RoleSkillTabEffectWind",
+    "SkillEffectDA": "RoleSkillTabEffectWind",
     "FootStepState": "FS_Heels",
     "PartyId": 1,
     "AttributesDescription": "",
@@ -3683,9 +3412,9 @@
     "NumLimit": 1,
     "ShowInBag": true,
     "WeaponScale": [
-      1.0,
-      1.0,
-      1.0
+      1,
+      1,
+      1
     ],
     "Intervene": false,
     "CharacterVoice": "RoleInfo_1402_CharacterVoice",
@@ -3693,6 +3422,88 @@
     "IsAim": false,
     "RoleGuide": 5024,
     "RedDotDisableRule": 0,
-    "SkinDamage": null
+    "SkinDamage": []
+  },
+  {
+    "Id": 1105,
+    "QualityId": 5,
+    "RoleType": 1,
+    "IsTrial": false,
+    "Name": "RoleInfo_1105_Name",
+    "NickName": "RoleInfo_1105_NickName",
+    "Introduction": "FavorRoleInfo_1105_Info",
+    "Tag": [
+      3,
+      4,
+      9,
+      18,
+      22
+    ],
+    "ParentId": 0,
+    "Priority": 23,
+    "PropertyId": 1105,
+    "ShowProperty": [
+      2,
+      7,
+      10,
+      13,
+      8,
+      9
+    ],
+    "ElementId": 1,
+    "RoleHeadIconCircle": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHeadCircle256/T_IconRoleHeadCircle256_27_UI.T_IconRoleHeadCircle256_27_UI",
+    "RoleHeadIconLarge": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_27_UI.T_IconRoleHead256_27_UI",
+    "RoleHeadIconBig": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_27_UI.T_IconRoleHead150_27_UI",
+    "Card": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_27_UI.T_IconRoleHead175_27_UI",
+    "RoleHeadIcon": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead80/T_IconRoleHead80_27_UI.T_IconRoleHead80_27_UI",
+    "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhezhi_UI.T_IconRole_Pile_zhezhi_UI",
+    "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
+    "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleZhezhi.T_ActivityRoleZhezhi",
+    "SpilloverItem": {},
+    "MeshId": 100028,
+    "UiMeshId": 100028,
+    "RoleBody": "FemaleM",
+    "BreachModel": 730100,
+    "SpecialEnergyBarId": 110501,
+    "CameraConfig": "10000",
+    "CameraFloatHeight": 15,
+    "EntityProperty": 0,
+    "MaxLevel": 90,
+    "LevelConsumeId": 10002,
+    "BreachId": 1105,
+    "SkillId": 1105,
+    "SkillTreeGroupId": 1105,
+    "ResonanceId": 1402,
+    "ResonantChainGroupId": 1105,
+    "IsShow": false,
+    "ExchangeConsume": {},
+    "InitWeaponItemId": 21050011,
+    "WeaponType": 5,
+    "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
+    "SkillLockDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Lock001.DA_Fx_UI_UIMap_Character_Lock001",
+    "UiScenePerformanceABP": "/Game/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/ABP_Performance_Zhezhi_PC.ABP_Performance_Zhezhi_PC_C",
+    "LockOnDefaultId": 3,
+    "LockOnLookOnId": 2,
+    "SkillEffectDA": "RoleSkillTabEffectWind",
+    "FootStepState": "FS_Heels",
+    "PartyId": 1,
+    "AttributesDescription": "",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_1402_UI.T_IconRup_1402_UI",
+    "ItemQualityId": 4,
+    "ObtainedShowDescription": "",
+    "NumLimit": 1,
+    "ShowInBag": true,
+    "WeaponScale": [
+      1,
+      1,
+      1
+    ],
+    "Intervene": false,
+    "CharacterVoice": "RoleInfo_1402_CharacterVoice",
+    "TrialRole": 100324,
+    "IsAim": false,
+    "RoleGuide": 5025,
+    "RedDotDisableRule": 0,
+    "SkinDamage": []
   }
 ]

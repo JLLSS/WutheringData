@@ -3,12 +3,7 @@
     "TaskId": 101,
     "TaskName": "LivenessTask_101_TaskName",
     "UpdateType": 0,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 40
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "2"
     ],
@@ -19,12 +14,7 @@
     "TaskId": 102,
     "TaskName": "LivenessTask_102_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "4",
       "NewSoundAreaView",
@@ -37,12 +27,7 @@
     "TaskId": 103,
     "TaskName": "LivenessTask_103_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "4",
       "NewSoundAreaView",
@@ -55,12 +40,7 @@
     "TaskId": 104,
     "TaskName": "LivenessTask_104_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "4",
       "NewSoundAreaView",
@@ -73,12 +53,7 @@
     "TaskId": 107,
     "TaskName": "LivenessTask_107_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "5",
       "RolePhantomTabView"
@@ -90,12 +65,7 @@
     "TaskId": 108,
     "TaskName": "LivenessTask_108_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "5",
       "RolePhantomTabView"
@@ -107,12 +77,7 @@
     "TaskId": 109,
     "TaskName": "LivenessTask_109_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "5",
       "RoleWeaponTabView"
@@ -124,12 +89,7 @@
     "TaskId": 110,
     "TaskName": "LivenessTask_110_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "4",
       "MonsterDetectView",
@@ -142,12 +102,7 @@
     "TaskId": 105,
     "TaskName": "LivenessTask_105_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "4",
       "NewSoundAreaView",
@@ -160,12 +115,7 @@
     "TaskId": 106,
     "TaskName": "LivenessTask_106_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "4",
       "NewSoundAreaView",
@@ -178,12 +128,7 @@
     "TaskId": 111,
     "TaskName": "LivenessTask_111_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "1"
     ],
@@ -194,12 +139,7 @@
     "TaskId": 112,
     "TaskName": "LivenessTask_112_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "3",
       "3003"
@@ -211,12 +151,7 @@
     "TaskId": 113,
     "TaskName": "LivenessTask_113_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "3",
       "3010"
@@ -228,12 +163,7 @@
     "TaskId": 114,
     "TaskName": "LivenessTask_114_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "3",
       "3002"
@@ -245,12 +175,7 @@
     "TaskId": 115,
     "TaskName": "LivenessTask_115_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "1"
     ],
@@ -261,12 +186,7 @@
     "TaskId": 116,
     "TaskName": "LivenessTask_116_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 10
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "1"
     ],
@@ -277,12 +197,7 @@
     "TaskId": 117,
     "TaskName": "LivenessTask_117_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 10
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "1"
     ],
@@ -293,12 +208,7 @@
     "TaskId": 118,
     "TaskName": "LivenessTask_118_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 10
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "1"
     ],
@@ -309,12 +219,7 @@
     "TaskId": 119,
     "TaskName": "LivenessTask_119_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 10
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "1"
     ],
@@ -325,12 +230,7 @@
     "TaskId": 120,
     "TaskName": "LivenessTask_120_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "5",
       "RoleAttributeTabView"
@@ -342,12 +242,7 @@
     "TaskId": 121,
     "TaskName": "LivenessTask_121_TaskName",
     "UpdateType": 2,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "1"
     ],
@@ -358,12 +253,7 @@
     "TaskId": 122,
     "TaskName": "LivenessTask_122_TaskName",
     "UpdateType": 2,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "1"
     ],
@@ -374,12 +264,7 @@
     "TaskId": 123,
     "TaskName": "LivenessTask_123_TaskName",
     "UpdateType": 2,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "1"
     ],
@@ -390,12 +275,7 @@
     "TaskId": 124,
     "TaskName": "LivenessTask_124_TaskName",
     "UpdateType": 3,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 100
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "7",
       "1"
@@ -407,12 +287,7 @@
     "TaskId": 125,
     "TaskName": "LivenessTask_125_TaskName",
     "UpdateType": 3,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "7",
       "2"
@@ -424,12 +299,7 @@
     "TaskId": 126,
     "TaskName": "LivenessTask_126_TaskName",
     "UpdateType": 3,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 100
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "7",
       "9"
@@ -441,12 +311,7 @@
     "TaskId": 127,
     "TaskName": "LivenessTask_127_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "1"
     ],
@@ -457,12 +322,7 @@
     "TaskId": 128,
     "TaskName": "LivenessTask_128_TaskName",
     "UpdateType": 1,
-    "TaskReward": [
-      {
-        "Key": 9,
-        "Value": 20
-      }
-    ],
+    "TaskReward": {},
     "TaskFunc": [
       "4",
       "NewSoundAreaView",

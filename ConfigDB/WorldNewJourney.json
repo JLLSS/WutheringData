@@ -7,12 +7,7 @@
     "SourceTitle": "ItemInfo_50000171_Name",
     "SourceDesc": "WorldNewJourney_100001_SourceDesc",
     "ConditionId": 0,
-    "JumpTo": [
-      {
-        "Key": 7,
-        "Value": "100400001"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 100002,
@@ -22,12 +17,7 @@
     "SourceTitle": "ItemInfo_50001_Name",
     "SourceDesc": "WorldNewJourney_100002_SourceDesc",
     "ConditionId": 13000012,
-    "JumpTo": [
-      {
-        "Key": 6,
-        "Value": "3-2"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 100003,
@@ -37,12 +27,7 @@
     "SourceTitle": "RoleInfo_1102_Name",
     "SourceDesc": "WorldNewJourney_100003_SourceDesc",
     "ConditionId": 0,
-    "JumpTo": [
-      {
-        "Key": 7,
-        "Value": "100100001"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 100004,
@@ -52,12 +37,7 @@
     "SourceTitle": "RoleInfo_1303_Name",
     "SourceDesc": "WorldNewJourney_100004_SourceDesc",
     "ConditionId": 13000013,
-    "JumpTo": [
-      {
-        "Key": 2,
-        "Value": "301203"
-      }
-    ]
+    "JumpTo": {}
   },
   {
     "Id": 100006,
@@ -67,11 +47,6 @@
     "SourceTitle": "MonsterInfo_320000070_Name",
     "SourceDesc": "WorldNewJourney_100006_SourceDesc",
     "ConditionId": 12005122,
-    "JumpTo": [
-      {
-        "Key": 8,
-        "Value": "AdventureTargetView"
-      }
-    ]
+    "JumpTo": {}
   }
 ]
